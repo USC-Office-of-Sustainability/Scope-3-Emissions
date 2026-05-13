@@ -3,7 +3,7 @@ At the University of Southern California (USC), our Office of Sustainability is 
 
 ***Category 1: Purchased Goods and Services
 
-Code and app for automating NAICS code categorization of non-food items (Office supplies, Lab, IT/Hardware, Furniture, etc): https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/edit/main/README.md#:~:text=NAICS_Categorization_App
+Code and app for automating NAICS code categorization of non-food items (Office supplies, Lab, IT/Hardware, Furniture, etc): https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/tree/main/NAICS_Categorization_App
 
 Code for automating food weights: (coming soon).  We suggest using Rebecca Grekin's TasteFood tool for Food Categorization: https://tastefood.org
 
