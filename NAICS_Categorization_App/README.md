@@ -2,15 +2,17 @@
 
 A desktop app that automatically assigns NAICS (North American Industry Classification System) codes to procurement line items.
 
-Manually assigning NAICS codes to thousands of purchase orders is slow and inconsistent. This tool automates it: give it a spreadsheet with item descriptions (and optionally supplier names), and it predicts the most likely NAICS code for each row — along with a confidence score and up to your chosen number of alternatives.
+Manually assigning NAICS codes to thousands of purchase orders is slow and inconsistent. This tool automates this process, where one can used a pre-trained LLM from USC's team or train a new LLM and then upload a spreadsheet with item descriptions (and optionally supplier names) in order to predict the most likely NAICS code for each row (based on the text from the item category, item label/description and/or supplier). This tool will output NAICS codes and descriptions along with a confidence score for each prediction and up to your chosen number of alternative predictions.
 
 **How it works:** Descriptions are sent to OpenAI's `text-embedding-3-large` model to produce numeric embeddings, 
-which are fed into a locally-trained XGBoost classifier. Only description and supplier text will be sent to OpenAI 
-servers — everything else stays local.
+which are fed into a locally-trained XGBoost classifier. Only the provided item description (label) and supplier text will be sent to OpenAI 
+servers — everything else stays on your local computer.
 
 The tool has two phases:
-1. **Train** — provide labeled data (items with correct NAICS codes) so the model learns the patterns.
+1. **Train** — provide labeled data (items with correct NAICS codes) so the model learns the patterns. 
 2. **Predict** — provide new, unlabeled data and the trained model assigns codes automatically.
+
+The first phase (Train) is optional in the event that you do not want to use the LLM based on USC's training dataset (FY22-FY24 procurement data with primarily manually assigned NAICS codes). You can skip to the second phase (Predict) and upload USC's NAICS prediction model instead of training your own model if you would like). 
 
 ---
 
@@ -20,9 +22,10 @@ This app requires an OpenAI API key and a small amount of prepaid credits. **Rea
 
 For pricing, go to https://developers.openai.com/api/docs/pricing, find **Specialized models**, and click **View more** to find `text-embedding-3-large` (hidden by default).
 
+We find that a credit of just 5$ will last practically forever, as most runs are the cost of pennies (as of 5/13/26). 
 ---
 
-## First-time setup
+## First-time setup (with separate instructions for Mac and Windows/Linux)
 
 ### Mac
 
@@ -175,12 +178,12 @@ Results are saved as a CSV in the same folder as your input file by default. Out
 
 ## Embedding Checkpoints
 
-Getting embeddings from OpenAI is the only step that costs money. A checkpoint saves the result so you can reuse it on future runs without paying again.
+Getting embeddings from OpenAI is the only step that costs money. A checkpoint saves the result so you can reuse it on the same datasets for future runs without paying again (in case you want to adjust the model settings and rerun the same data).
 
 - **Save checkpoint**: after embedding completes, the app writes a `.naics_embed` file.
-- **Load checkpoint**: skips the embedding step entirely and reads a previously saved file. No API call or key required.
+- **Load checkpoint**: skips the embedding step entirely and reads a previously saved file. No API call or key required. Note!: Do not use a previously saved embedding for a new dataset. Each embedding file is unique to each dataset, and so you need to keep them organized based on each dataset name. 
 
-**When to use**: if you want to experiment with different training settings on the same dataset, save the checkpoint on the first run and load it each time you retrain. For a brand-new dataset you always need to embed, but you can save that result too. For prediction, the same logic applies — save if you might re-run the model on the same data.
+**Notes on when to use saved embedding**: if you want to experiment with different training settings on the same dataset, save the checkpoint on the first run and load it each time you retrain. For a brand-new dataset you always need to embed, but you can save that result too. For prediction, the same logic applies — save if you might re-run the model on the same data.
 
 ---
 
