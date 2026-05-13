@@ -12,7 +12,7 @@ The tool has two phases:
 1. **Train** — provide labeled data (items with correct NAICS codes) so the model learns the patterns. 
 2. **Predict** — provide new, unlabeled data and the trained model assigns codes automatically.
 
-The first phase (Train) is optional in the event that you do not want to use the LLM based on USC's training dataset (FY22-FY24 procurement data with primarily manually assigned NAICS codes). You can skip to the second phase (Predict) and upload [USC's NAICS prediction model](https://drive.google.com/file/d/1dGSdRwLU5hAGIQYfVg7NqQSVKA5GweOf/view?usp=share_link) instead of training your own model if you would like). 
+The first phase (Train) is optional in the event that you do not want to use the LLM based on USC's training dataset (FY22-FY24 procurement data with primarily manually assigned NAICS codes). You can skip to the second phase (Predict) and upload [USC's NAICS prediction model](https://drive.google.com/file/d/1dGSdRwLU5hAGIQYfVg7NqQSVKA5GweOf/view?usp=share_link) instead of training your own model if you would like. 
 
 ---
 
