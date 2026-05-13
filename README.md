@@ -1,2 +1,11 @@
 # Scope-3-Emissions (Category 1)
-Coming Soon...Code and Datasets related to calculating Scope 3, Category 1 emissions
+At the University of Southern California (USC), our Office of Sustainability is working to automate many of the tedious data processes required for sustainabilty reporting. This includes reporting out our Scope 3 GHG emissions. For each of our automation processes, we also conduct many manual checks and suggest that you do the same as well to improve the quality of your final datasets. Here, we will be sharing our code and tools (apps) that help to automate emission factors for the following Scope 3 Categories:
+
+***Category 1: Purchased Goods and Services
+
+Code and app for automating NAICS code categorization of non-food items (Office supplies, Lab, IT/Hardware, Furniture, etc): https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/edit/main/README.md#:~:text=NAICS_Categorization_App
+
+Code for automating food weights: (coming soon).  We suggest using Rebecca Grekin's TasteFood tool for Food Categorization: https://tastefood.org
+
+***Category 7: Commuting Emissions 
+Code and files coming soon
