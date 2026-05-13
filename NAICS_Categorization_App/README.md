@@ -14,6 +14,8 @@ The tool has two phases:
 
 The first phase (Train) is optional in the event that you do not want to use the LLM based on USC's training dataset (FY22-FY24 procurement data with primarily manually assigned NAICS codes). You can skip to the second phase (Predict) and upload USC's NAICS prediction model instead of training your own model if you would like). 
 
+USC's NAICS Prediction model can be found here: https://drive.google.com/file/d/1dGSdRwLU5hAGIQYfVg7NqQSVKA5GweOf/view?usp=share_link
+
 ---
 
 ## Before you start — OpenAI API setup
