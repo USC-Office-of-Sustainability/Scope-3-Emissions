@@ -1,0 +1,1013 @@
+"chosen_2022_code","chosen_2022_title","chosen_2017_code","chosen_2017_title","title_sim","title_dist","source","em_without","em_with"
+"111110","Soybean Farming","111110","Soybean Farming",NA,NA,"unambig",0.488,0.532
+"111120","Oilseed (except Soybean) Farming ","111120","Oilseed (except Soybean) Farming ",NA,NA,"unambig",0.488,0.532
+"111130","Dry Pea and Bean Farming ","111130","Dry Pea and Bean Farming ",NA,NA,"unambig",0.809,0.848
+"111140","Wheat Farming","111140","Wheat Farming",NA,NA,"unambig",0.809,0.848
+"111150","Corn Farming ","111150","Corn Farming ",NA,NA,"unambig",0.809,0.848
+"111160","Rice Farming","111160","Rice Farming",NA,NA,"unambig",0.809,0.848
+"111191","Oilseed and Grain Combination Farming ","111191","Oilseed and Grain Combination Farming ",NA,NA,"unambig",0.809,0.848
+"111199","All Other Grain Farming ","111199","All Other Grain Farming ",NA,NA,"unambig",0.809,0.848
+"111211","Potato Farming ","111211","Potato Farming ",NA,NA,"unambig",0.591,0.631
+"111219","Other Vegetable (except Potato) and Melon Farming ","111219","Other Vegetable (except Potato) and Melon Farming ",NA,NA,"unambig",0.591,0.631
+"111310","Orange Groves","111310","Orange Groves",NA,NA,"unambig",0.429,0.488
+"111320","Citrus (except Orange) Groves ","111320","Citrus (except Orange) Groves ",NA,NA,"unambig",0.429,0.488
+"111331","Apple Orchards ","111331","Apple Orchards ",NA,NA,"unambig",0.429,0.488
+"111332","Grape Vineyards ","111332","Grape Vineyards ",NA,NA,"unambig",0.429,0.488
+"111333","Strawberry Farming ","111333","Strawberry Farming ",NA,NA,"unambig",0.429,0.488
+"111334","Berry (except Strawberry) Farming ","111334","Berry (except Strawberry) Farming ",NA,NA,"unambig",0.429,0.488
+"111335","Tree Nut Farming ","111335","Tree Nut Farming ",NA,NA,"unambig",0.429,0.488
+"111336","Fruit and Tree Nut Combination Farming ","111336","Fruit and Tree Nut Combination Farming ",NA,NA,"unambig",0.429,0.488
+"111339","Other Noncitrus Fruit Farming ","111339","Other Noncitrus Fruit Farming ",NA,NA,"unambig",0.429,0.488
+"111411","Mushroom Production ","111411","Mushroom Production ",NA,NA,"unambig",0.266,0.307
+"111419","Other Food Crops Grown Under Cover ","111419","Other Food Crops Grown Under Cover ",NA,NA,"unambig",0.266,0.307
+"111421","Nursery and Tree Production ","111421","Nursery and Tree Production ",NA,NA,"unambig",0.266,0.307
+"111422","Floriculture Production ","111422","Floriculture Production ",NA,NA,"unambig",0.266,0.307
+"111910","Tobacco Farming","111910","Tobacco Farming",NA,NA,"unambig",0.703,0.74
+"111920","Cotton Farming","111920","Cotton Farming",NA,NA,"unambig",0.703,0.74
+"111930","Sugarcane Farming","111930","Sugarcane Farming",NA,NA,"unambig",0.703,0.74
+"111940","Hay Farming ","111940","Hay Farming ",NA,NA,"unambig",0.703,0.74
+"111991","Sugar Beet Farming ","111991","Sugar Beet Farming ",NA,NA,"unambig",0.703,0.74
+"111992","Peanut Farming ","111992","Peanut Farming ",NA,NA,"unambig",0.703,0.74
+"111998","All Other Miscellaneous Crop Farming ","111998","All Other Miscellaneous Crop Farming ",NA,NA,"unambig",0.703,0.74
+"112111","Beef Cattle Ranching and Farming ","112111","Beef Cattle Ranching and Farming ",NA,NA,"unambig",2.847,2.893
+"112112","Cattle Feedlots ","112112","Cattle Feedlots ",NA,NA,"unambig",2.847,2.893
+"112120","Dairy Cattle and Milk Production","112120","Dairy Cattle and Milk Production",NA,NA,"unambig",1.682,1.724
+"112130","Dual-Purpose Cattle Ranching and Farming ","112130","Dual-Purpose Cattle Ranching and Farming ",NA,NA,"unambig",2.847,2.893
+"112210","Hog and Pig Farming ","112210","Hog and Pig Farming ",NA,NA,"unambig",1.077,1.128
+"112310","Chicken Egg Production ","112310","Chicken Egg Production ",NA,NA,"unambig",0.407,0.438
+"112320","Broilers and Other Meat Type Chicken Production ","112320","Broilers and Other Meat Type Chicken Production ",NA,NA,"unambig",0.407,0.438
+"112330","Turkey Production","112330","Turkey Production",NA,NA,"unambig",0.407,0.438
+"112340","Poultry Hatcheries","112340","Poultry Hatcheries",NA,NA,"unambig",0.407,0.438
+"112390","Other Poultry Production ","112390","Other Poultry Production ",NA,NA,"unambig",0.407,0.438
+"112410","Sheep Farming","112410","Sheep Farming",NA,NA,"unambig",1.077,1.128
+"112420","Goat Farming","112420","Goat Farming",NA,NA,"unambig",1.077,1.128
+"112511","Finfish Farming and Fish Hatcheries ","112511","Finfish Farming and Fish Hatcheries ",NA,NA,"unambig",1.077,1.128
+"112512","Shellfish Farming ","112512","Shellfish Farming ",NA,NA,"unambig",1.077,1.128
+"112519","Other Aquaculture ","112519","Other Aquaculture ",NA,NA,"unambig",1.077,1.128
+"112910","Apiculture","112910","Apiculture",NA,NA,"unambig",1.077,1.128
+"112920","Horses and Other Equine Production","112920","Horses and Other Equine Production",NA,NA,"unambig",1.077,1.128
+"112930","Fur-Bearing Animal and Rabbit Production","112930","Fur-Bearing Animal and Rabbit Production",NA,NA,"unambig",1.077,1.128
+"112990","All Other Animal Production ","112990","All Other Animal Production ",NA,NA,"unambig",1.077,1.128
+"113110","Timber Tract Operations","113110","Timber Tract Operations",NA,NA,"unambig",0.199,0.243
+"113210","Forest Nurseries and Gathering of Forest Products ","113210","Forest Nurseries and Gathering of Forest Products ",NA,NA,"unambig",0.199,0.243
+"113310","Logging ","113310","Logging ",NA,NA,"unambig",0.199,0.243
+"114111","Finfish Fishing ","114111","Finfish Fishing ",NA,NA,"unambig",0.127,0.154
+"114112","Shellfish Fishing ","114112","Shellfish Fishing ",NA,NA,"unambig",0.127,0.154
+"114119","Other Marine Fishing ","114119","Other Marine Fishing ",NA,NA,"unambig",0.127,0.154
+"114210","Hunting and Trapping","114210","Hunting and Trapping",NA,NA,"unambig",0.127,0.154
+"115111","Cotton Ginning ","115111","Cotton Ginning ",NA,NA,"unambig",0.384,0.384
+"115112","Soil Preparation, Planting, and Cultivating ","115112","Soil Preparation, Planting, and Cultivating ",NA,NA,"unambig",0.384,0.384
+"115113","Crop Harvesting, Primarily by Machine ","115113","Crop Harvesting, Primarily by Machine ",NA,NA,"unambig",0.384,0.384
+"115114","Postharvest Crop Activities (except Cotton Ginning) ","115114","Postharvest Crop Activities (except Cotton Ginning) ",NA,NA,"unambig",0.384,0.384
+"115115","Farm Labor Contractors and Crew Leaders ","115115","Farm Labor Contractors and Crew Leaders ",NA,NA,"unambig",0.384,0.384
+"115116","Farm Management Services ","115116","Farm Management Services ",NA,NA,"unambig",0.384,0.384
+"115210","Support Activities for Animal Production","115210","Support Activities for Animal Production",NA,NA,"unambig",0.384,0.384
+"115310","Support Activities for Forestry","115310","Support Activities for Forestry",NA,NA,"unambig",0.384,0.384
+"211120","Crude Petroleum Extraction ","211120","Crude Petroleum Extraction ",NA,NA,"unambig",0.377,0.405
+"211130","Natural Gas Extraction ","211130","Natural Gas Extraction ",NA,NA,"unambig",0.377,0.405
+"212114","Surface Coal Mining ","212111","Bituminous Coal and Lignite Surface Mining ",0.990343470109382,0.415230785296575,"ambig_greedy",0.747,0.841
+"212115","Underground Coal Mining ","212112","Bituminous Coal Underground Mining ",0.993192059432469,0.238277919863598,"ambig_greedy",0.747,0.841
+"212210","Iron Ore Mining","212210","Iron Ore Mining",NA,NA,"unambig",0.54,0.593
+"212220","Gold Ore and Silver Ore Mining ","212221","Gold Ore Mining ",0.991645988420182,0.258974358974359,"ambig_greedy",0.54,0.593
+"212230","Copper, Nickel, Lead, and Zinc Mining ","212230","Copper, Nickel, Lead, and Zinc Mining",NA,NA,"unambig",0.27,0.324
+"212290","Other Metal Ore Mining ","212299","All Other Metal Ore Mining ",0.99361132694466,0.172494172494173,"ambig_greedy",0.54,0.593
+"212311","Dimension Stone Mining and Quarrying ","212311","Dimension Stone Mining and Quarrying ",NA,NA,"unambig",0.193,0.279
+"212312","Crushed and Broken Limestone Mining and Quarrying ","212312","Crushed and Broken Limestone Mining and Quarrying ",NA,NA,"unambig",0.193,0.279
+"212313","Crushed and Broken Granite Mining and Quarrying ","212313","Crushed and Broken Granite Mining and Quarrying ",NA,NA,"unambig",0.193,0.279
+"212319","Other Crushed and Broken Stone Mining and Quarrying ","212319","Other Crushed and Broken Stone Mining and Quarrying ",NA,NA,"unambig",0.193,0.279
+"212321","Construction Sand and Gravel Mining ","212321","Construction Sand and Gravel Mining ",NA,NA,"unambig",0.184,0.309
+"212322","Industrial Sand Mining ","212322","Industrial Sand Mining ",NA,NA,"unambig",0.184,0.309
+"212323","Kaolin, Clay, and Ceramic and Refractory Minerals Mining ","212325","Clay and Ceramic and Refractory Minerals Mining ",0.996506435513528,0.192146046755976,"ambig_greedy",0.184,0.309
+"212390","Other Nonmetallic Mineral Mining and Quarrying ","212393","Other Chemical and Fertilizer Mineral Mining ",0.9947047164901,0.248878324965282,"ambig_greedy",0.184,0.309
+"213111","Drilling Oil and Gas Wells","213111","Drilling Oil and Gas Wells",NA,NA,"unambig",0.407,0.407
+"213112","Support Activities for Oil and Gas Operations ","213112","Support Activities for Oil and Gas Operations ",NA,NA,"unambig",0.372,0.372
+"213113","Support Activities for Coal Mining ","213113","Support Activities for Coal Mining ",NA,NA,"unambig",0.372,0.372
+"213114","Support Activities for Metal Mining ","213114","Support Activities for Metal Mining ",NA,NA,"unambig",0.372,0.372
+"213115","Support Activities for Nonmetallic Minerals (except Fuels) Mining ","213115","Support Activities for Nonmetallic Minerals (except Fuels) Mining ",NA,NA,"unambig",0.372,0.372
+"221111","Hydroelectric Power Generation ","221111","Hydroelectric Power Generation ",NA,NA,"unambig",NA,NA
+"221112","Fossil Fuel Electric Power Generation ","221112","Fossil Fuel Electric Power Generation ",NA,NA,"unambig",NA,NA
+"221113","Nuclear Electric Power Generation ","221113","Nuclear Electric Power Generation ",NA,NA,"unambig",NA,NA
+"221114","Solar Electric Power Generation ","221114","Solar Electric Power Generation ",NA,NA,"unambig",NA,NA
+"221115","Wind Electric Power Generation ","221115","Wind Electric Power Generation ",NA,NA,"unambig",NA,NA
+"221116","Geothermal Electric Power Generation ","221116","Geothermal Electric Power Generation ",NA,NA,"unambig",NA,NA
+"221117","Biomass Electric Power Generation ","221117","Biomass Electric Power Generation ",NA,NA,"unambig",NA,NA
+"221118","Other Electric Power Generation ","221118","Other Electric Power Generation ",NA,NA,"unambig",NA,NA
+"221121","Electric Bulk Power Transmission and Control ","221121","Electric Bulk Power Transmission and Control ",NA,NA,"unambig",NA,NA
+"221122","Electric Power Distribution ","221122","Electric Power Distribution ",NA,NA,"unambig",NA,NA
+"221210","Natural Gas Distribution ","221210","Natural Gas Distribution ",NA,NA,"unambig",0.532,0.532
+"221310","Water Supply and Irrigation Systems ","221310","Water Supply and Irrigation Systems ",NA,NA,"unambig",0.578,0.578
+"221320","Sewage Treatment Facilities ","221320","Sewage Treatment Facilities ",NA,NA,"unambig",0.578,0.578
+"221330","Steam and Air-Conditioning Supply ","221330","Steam and Air-Conditioning Supply ",NA,NA,"unambig",0.578,0.578
+"236115","New Single-Family Housing Construction (except For-Sale Builders) ","236115","New Single-Family Housing Construction (except For-Sale Builders) ",NA,NA,"unambig",0.194,0.194
+"236116","New Multifamily Housing Construction (except For-Sale Builders) ","236116","New Multifamily Housing Construction (except For-Sale Builders) ",NA,NA,"unambig",0.221,0.221
+"236117","New Housing For-Sale Builders ","236117","New Housing For-Sale Builders ",NA,NA,"unambig",0.216,0.216
+"236118","Residential Remodelers ","236118","Residential Remodelers ",NA,NA,"unambig",0.211,0.211
+"236210","Industrial Building Construction ","236210","Industrial Building Construction ",NA,NA,"unambig",0.239,0.239
+"236220","Commercial and Institutional Building Construction ","236220","Commercial and Institutional Building Construction ",NA,NA,"unambig",0.224,0.224
+"237110","Water and Sewer Line and Related Structures Construction ","237110","Water and Sewer Line and Related Structures Construction ",NA,NA,"unambig",0.277,0.277
+"237120","Oil and Gas Pipeline and Related Structures Construction ","237120","Oil and Gas Pipeline and Related Structures Construction ",NA,NA,"unambig",0.277,0.277
+"237130","Power and Communication Line and Related Structures Construction ","237130","Power and Communication Line and Related Structures Construction ",NA,NA,"unambig",0.277,0.277
+"237210","Land Subdivision ","237210","Land Subdivision ",NA,NA,"unambig",0.221,0.221
+"237310","Highway, Street, and Bridge Construction ","237310","Highway, Street, and Bridge Construction ",NA,NA,"unambig",0.255,0.255
+"237990","Other Heavy and Civil Engineering Construction ","237990","Other Heavy and Civil Engineering Construction ",NA,NA,"unambig",0.202,0.202
+"238110","Poured Concrete Foundation and Structure Contractors ","238110","Poured Concrete Foundation and Structure Contractors ",NA,NA,"unambig",0.221,0.221
+"238120","Structural Steel and Precast Concrete Contractors ","238120","Structural Steel and Precast Concrete Contractors ",NA,NA,"unambig",0.221,0.221
+"238130","Framing Contractors ","238130","Framing Contractors ",NA,NA,"unambig",0.221,0.221
+"238140","Masonry Contractors ","238140","Masonry Contractors ",NA,NA,"unambig",0.221,0.221
+"238150","Glass and Glazing Contractors ","238150","Glass and Glazing Contractors ",NA,NA,"unambig",0.221,0.221
+"238160","Roofing Contractors ","238160","Roofing Contractors ",NA,NA,"unambig",0.221,0.221
+"238170","Siding Contractors ","238170","Siding Contractors ",NA,NA,"unambig",0.221,0.221
+"238190","Other Foundation, Structure, and Building Exterior Contractors ","238190","Other Foundation, Structure, and Building Exterior Contractors ",NA,NA,"unambig",0.221,0.221
+"238210","Electrical Contractors and Other Wiring Installation Contractors","238210","Electrical Contractors and Other Wiring Installation Contractors",NA,NA,"unambig",0.221,0.221
+"238220","Plumbing, Heating, and Air-Conditioning Contractors ","238220","Plumbing, Heating, and Air-Conditioning Contractors ",NA,NA,"unambig",0.221,0.221
+"238290","Other Building Equipment Contractors ","238290","Other Building Equipment Contractors ",NA,NA,"unambig",0.221,0.221
+"238310","Drywall and Insulation Contractors ","238310","Drywall and Insulation Contractors ",NA,NA,"unambig",0.221,0.221
+"238320","Painting and Wall Covering Contractors","238320","Painting and Wall Covering Contractors",NA,NA,"unambig",0.221,0.221
+"238330","Flooring Contractors","238330","Flooring Contractors",NA,NA,"unambig",0.221,0.221
+"238340","Tile and Terrazzo Contractors","238340","Tile and Terrazzo Contractors",NA,NA,"unambig",0.221,0.221
+"238350","Finish Carpentry Contractors","238350","Finish Carpentry Contractors",NA,NA,"unambig",0.221,0.221
+"238390","Other Building Finishing Contractors","238390","Other Building Finishing Contractors",NA,NA,"unambig",0.221,0.221
+"238910","Site Preparation Contractors","238910","Site Preparation Contractors",NA,NA,"unambig",0.221,0.221
+"238990","All Other Specialty Trade Contractors","238990","All Other Specialty Trade Contractors",NA,NA,"unambig",0.221,0.221
+"311111","Dog and Cat Food Manufacturing ","311111","Dog and Cat Food Manufacturing ",NA,NA,"unambig",0.282,0.333
+"311119","Other Animal Food Manufacturing ","311119","Other Animal Food Manufacturing ",NA,NA,"unambig",0.428,0.459
+"311211","Flour Milling ","311211","Flour Milling ",NA,NA,"unambig",0.732,0.769
+"311212","Rice Milling ","311212","Rice Milling ",NA,NA,"unambig",0.732,0.769
+"311213","Malt Manufacturing ","311213","Malt Manufacturing ",NA,NA,"unambig",0.732,0.769
+"311221","Wet Corn Milling and Starch Manufacturing ","311221","Wet Corn Milling ",NA,NA,"unambig",0.956,0.993
+"311224","Soybean and Other Oilseed Processing ","311224","Soybean and Other Oilseed Processing ",NA,NA,"unambig",0.481,0.511
+"311225","Fats and Oils Refining and Blending ","311225","Fats and Oils Refining and Blending ",NA,NA,"unambig",0.36,0.385
+"311230","Breakfast Cereal Manufacturing","311230","Breakfast Cereal Manufacturing",NA,NA,"unambig",0.423,0.473
+"311313","Beet Sugar Manufacturing ","311313","Beet Sugar Manufacturing ",NA,NA,"unambig",0.442,0.482
+"311314","Cane Sugar Manufacturing ","311314","Cane Sugar Manufacturing ",NA,NA,"unambig",0.442,0.482
+"311340","Nonchocolate Confectionery Manufacturing","311340","Nonchocolate Confectionery Manufacturing",NA,NA,"unambig",0.442,0.482
+"311351","Chocolate and Confectionery Manufacturing from Cacao Beans ","311351","Chocolate and Confectionery Manufacturing from Cacao Beans ",NA,NA,"unambig",0.442,0.482
+"311352","Confectionery Manufacturing from Purchased Chocolate ","311352","Confectionery Manufacturing from Purchased Chocolate ",NA,NA,"unambig",0.442,0.482
+"311411","Frozen Fruit, Juice, and Vegetable Manufacturing ","311411","Frozen Fruit, Juice, and Vegetable Manufacturing ",NA,NA,"unambig",0.438,0.485
+"311412","Frozen Specialty Food Manufacturing ","311412","Frozen Specialty Food Manufacturing ",NA,NA,"unambig",0.438,0.485
+"311421","Fruit and Vegetable Canning ","311421","Fruit and Vegetable Canning ",NA,NA,"unambig",0.343,0.381
+"311422","Specialty Canning ","311422","Specialty Canning ",NA,NA,"unambig",0.343,0.381
+"311423","Dried and Dehydrated Food Manufacturing ","311423","Dried and Dehydrated Food Manufacturing ",NA,NA,"unambig",0.343,0.381
+"311511","Fluid Milk Manufacturing ","311511","Fluid Milk Manufacturing ",NA,NA,"unambig",0.766,0.803
+"311512","Creamery Butter Manufacturing ","311512","Creamery Butter Manufacturing ",NA,NA,"unambig",0.766,0.803
+"311513","Cheese Manufacturing ","311513","Cheese Manufacturing ",NA,NA,"unambig",0.936,0.969
+"311514","Dry, Condensed, and Evaporated Dairy Product Manufacturing ","311514","Dry, Condensed, and Evaporated Dairy Product Manufacturing ",NA,NA,"unambig",0.605,0.642
+"311520","Ice Cream and Frozen Dessert Manufacturing","311520","Ice Cream and Frozen Dessert Manufacturing",NA,NA,"unambig",0.55,0.58
+"311611","Animal (except Poultry) Slaughtering ","311611","Animal (except Poultry) Slaughtering ",NA,NA,"unambig",1.086,1.12
+"311612","Meat Processed from Carcasses ","311612","Meat Processed from Carcasses ",NA,NA,"unambig",1.086,1.12
+"311613","Rendering and Meat Byproduct Processing ","311613","Rendering and Meat Byproduct Processing ",NA,NA,"unambig",1.086,1.12
+"311615","Poultry Processing ","311615","Poultry Processing ",NA,NA,"unambig",0.361,0.391
+"311710","Seafood Product Preparation and Packaging","311710","Seafood Product Preparation and Packaging",NA,NA,"unambig",0.239,0.266
+"311811","Retail Bakeries ","311811","Retail Bakeries ",NA,NA,"unambig",0.213,0.253
+"311812","Commercial Bakeries ","311812","Commercial Bakeries ",NA,NA,"unambig",0.213,0.253
+"311813","Frozen Cakes, Pies, and Other Pastries Manufacturing ","311813","Frozen Cakes, Pies, and Other Pastries Manufacturing ",NA,NA,"unambig",0.213,0.253
+"311821","Cookie and Cracker Manufacturing ","311821","Cookie and Cracker Manufacturing ",NA,NA,"unambig",0.31,0.356
+"311824","Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour ","311824","Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour ",NA,NA,"unambig",0.31,0.356
+"311830","Tortilla Manufacturing","311830","Tortilla Manufacturing",NA,NA,"unambig",0.31,0.356
+"311911","Roasted Nuts and Peanut Butter Manufacturing ","311911","Roasted Nuts and Peanut Butter Manufacturing ",NA,NA,"unambig",0.329,0.372
+"311919","Other Snack Food Manufacturing ","311919","Other Snack Food Manufacturing ",NA,NA,"unambig",0.329,0.372
+"311920","Coffee and Tea Manufacturing ","311920","Coffee and Tea Manufacturing ",NA,NA,"unambig",0.313,0.353
+"311930","Flavoring Syrup and Concentrate Manufacturing","311930","Flavoring Syrup and Concentrate Manufacturing",NA,NA,"unambig",0.195,0.216
+"311941","Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing ","311941","Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing ",NA,NA,"unambig",0.303,0.344
+"311942","Spice and Extract Manufacturing ","311942","Spice and Extract Manufacturing ",NA,NA,"unambig",0.303,0.344
+"311991","Perishable Prepared Food Manufacturing ","311991","Perishable Prepared Food Manufacturing ",NA,NA,"unambig",0.358,0.401
+"311999","All Other Miscellaneous Food Manufacturing ","311999","All Other Miscellaneous Food Manufacturing ",NA,NA,"unambig",0.358,0.401
+"312111","Soft Drink Manufacturing ","312111","Soft Drink Manufacturing ",NA,NA,"unambig",0.173,0.214
+"312112","Bottled Water Manufacturing ","312112","Bottled Water Manufacturing ",NA,NA,"unambig",0.173,0.214
+"312113","Ice Manufacturing ","312113","Ice Manufacturing ",NA,NA,"unambig",0.173,0.214
+"312120","Breweries","312120","Breweries",NA,NA,"unambig",0.209,0.274
+"312130","Wineries ","312130","Wineries ",NA,NA,"unambig",0.123,0.182
+"312140","Distilleries ","312140","Distilleries ",NA,NA,"unambig",0.242,0.305
+"312230","Tobacco Manufacturing ","312230","Tobacco Manufacturing ",NA,NA,"unambig",0.055,0.101
+"313110","Fiber, Yarn, and Thread Mills ","313110","Fiber, Yarn, and Thread Mills ",NA,NA,"unambig",0.636,0.659
+"313210","Broadwoven Fabric Mills","313210","Broadwoven Fabric Mills",NA,NA,"unambig",0.48,0.507
+"313220","Narrow Fabric Mills and Schiffli Machine Embroidery","313220","Narrow Fabric Mills and Schiffli Machine Embroidery",NA,NA,"unambig",0.48,0.507
+"313230","Nonwoven Fabric Mills","313230","Nonwoven Fabric Mills",NA,NA,"unambig",0.48,0.507
+"313240","Knit Fabric Mills","313240","Knit Fabric Mills",NA,NA,"unambig",0.48,0.507
+"313310","Textile and Fabric Finishing Mills ","313310","Textile and Fabric Finishing Mills ",NA,NA,"unambig",0.37,0.396
+"313320","Fabric Coating Mills","313320","Fabric Coating Mills",NA,NA,"unambig",0.37,0.396
+"314110","Carpet and Rug Mills","314110","Carpet and Rug Mills",NA,NA,"unambig",0.224,0.292
+"314120","Curtain and Linen Mills","314120","Curtain and Linen Mills",NA,NA,"unambig",0.206,0.267
+"314910","Textile Bag and Canvas Mills ","314910","Textile Bag and Canvas Mills ",NA,NA,"unambig",0.197,0.243
+"314994","Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills ","314994","Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills ",NA,NA,"unambig",0.197,0.243
+"314999","All Other Miscellaneous Textile Product Mills ","314999","All Other Miscellaneous Textile Product Mills ",NA,NA,"unambig",0.197,0.243
+"315120","Apparel Knitting Mills","315190","Other Apparel Knitting Mills ",0.993095984475295,0.20021645021645,"ambig_greedy",0.06,0.12
+"315210","Cut and Sew Apparel Contractors ","315210","Cut and Sew Apparel Contractors ",NA,NA,"unambig",0.06,0.12
+"315250","Cut and Sew Apparel Manufacturing (except Contractors) ","315280","Other Cut and Sew Apparel Manufacturing ",0.995058556379311,0.261896511896512,"ambig_greedy",0.06,0.12
+"315990","Apparel Accessories and Other Apparel Manufacturing ","315990","Apparel Accessories and Other Apparel Manufacturing ",NA,NA,"unambig",0.06,0.12
+"316110","Leather and Hide Tanning and Finishing","316110","Leather and Hide Tanning and Finishing",NA,NA,"unambig",0.222,0.282
+"316210","Footwear Manufacturing ","316210","Footwear Manufacturing ",NA,NA,"unambig",0.222,0.282
+"316990","Other Leather and Allied Product Manufacturing ","316998","All Other Leather Good and Allied Product Manufacturing ",0.996890880858272,0.174110671936759,"ambig_greedy",0.222,0.282
+"321113","Sawmills ","321113","Sawmills ",NA,NA,"unambig",0.227,0.264
+"321114","Wood Preservation ","321114","Wood Preservation ",NA,NA,"unambig",0.227,0.264
+"321211","Hardwood Veneer and Plywood Manufacturing ","321211","Hardwood Veneer and Plywood Manufacturing ",NA,NA,"unambig",0.187,0.208
+"321212","Softwood Veneer and Plywood Manufacturing ","321212","Softwood Veneer and Plywood Manufacturing ",NA,NA,"unambig",0.187,0.208
+"321215","Engineered Wood Member Manufacturing ","321213","Engineered Wood Member (except Truss) Manufacturing ",0.997490551776266,0.125472411186697,"ambig_greedy",0.187,0.208
+"321219","Reconstituted Wood Product Manufacturing ","321219","Reconstituted Wood Product Manufacturing ",NA,NA,"unambig",0.187,0.208
+"321911","Wood Window and Door Manufacturing ","321911","Wood Window and Door Manufacturing ",NA,NA,"unambig",0.122,0.154
+"321912","Cut Stock, Resawing Lumber, and Planing ","321912","Cut Stock, Resawing Lumber, and Planing ",NA,NA,"unambig",0.122,0.154
+"321918","Other Millwork (including Flooring) ","321918","Other Millwork (including Flooring) ",NA,NA,"unambig",0.122,0.154
+"321920","Wood Container and Pallet Manufacturing","321920","Wood Container and Pallet Manufacturing",NA,NA,"unambig",0.135,0.164
+"321991","Manufactured Home (Mobile Home) Manufacturing ","321991","Manufactured Home (Mobile Home) Manufacturing ",NA,NA,"unambig",0.135,0.164
+"321992","Prefabricated Wood Building Manufacturing ","321992","Prefabricated Wood Building Manufacturing ",NA,NA,"unambig",0.135,0.164
+"321999","All Other Miscellaneous Wood Product Manufacturing ","321999","All Other Miscellaneous Wood Product Manufacturing ",NA,NA,"unambig",0.135,0.164
+"322110","Pulp Mills ","322110","Pulp Mills ",NA,NA,"unambig",0.977,1.002
+"322120","Paper Mills ","322121","Paper (except Newsprint) Mills ",0.987218241528586,0.370670995670996,"ambig_greedy",0.603,0.649
+"322130","Paperboard Mills ","322130","Paperboard Mills ",NA,NA,"unambig",0.789,0.829
+"322211","Corrugated and Solid Fiber Box Manufacturing ","322211","Corrugated and Solid Fiber Box Manufacturing ",NA,NA,"unambig",0.449,0.479
+"322212","Folding Paperboard Box Manufacturing ","322212","Folding Paperboard Box Manufacturing ",NA,NA,"unambig",0.449,0.479
+"322219","Other Paperboard Container Manufacturing ","322219","Other Paperboard Container Manufacturing ",NA,NA,"unambig",0.449,0.479
+"322220","Paper Bag and Coated and Treated Paper Manufacturing","322220","Paper Bag and Coated and Treated Paper Manufacturing",NA,NA,"unambig",0.33,0.364
+"322230","Stationery Product Manufacturing","322230","Stationery Product Manufacturing",NA,NA,"unambig",0.265,0.296
+"322291","Sanitary Paper Product Manufacturing ","322291","Sanitary Paper Product Manufacturing ",NA,NA,"unambig",0.275,0.34
+"322299","All Other Converted Paper Product Manufacturing ","322299","All Other Converted Paper Product Manufacturing ",NA,NA,"unambig",0.305,0.343
+"323111","Commercial Printing (except Screen and Books) ","323111","Commercial Printing (except Screen and Books) ",NA,NA,"unambig",0.202,0.236
+"323113","Commercial Screen Printing ","323113","Commercial Screen Printing ",NA,NA,"unambig",0.202,0.236
+"323117","Books Printing ","323117","Books Printing ",NA,NA,"unambig",0.202,0.236
+"323120","Support Activities for Printing","323120","Support Activities for Printing",NA,NA,"unambig",0.214,0.237
+"324110","Petroleum Refineries","324110","Petroleum Refineries",NA,NA,"unambig",0.248,0.27
+"324121","Asphalt Paving Mixture and Block Manufacturing ","324121","Asphalt Paving Mixture and Block Manufacturing ",NA,NA,"unambig",1.093,1.121
+"324122","Asphalt Shingle and Coating Materials Manufacturing ","324122","Asphalt Shingle and Coating Materials Manufacturing ",NA,NA,"unambig",0.576,0.608
+"324191","Petroleum Lubricating Oil and Grease Manufacturing ","324191","Petroleum Lubricating Oil and Grease Manufacturing ",NA,NA,"unambig",0.359,0.391
+"324199","All Other Petroleum and Coal Products Manufacturing ","324199","All Other Petroleum and Coal Products Manufacturing ",NA,NA,"unambig",0.359,0.391
+"325110","Petrochemical Manufacturing","325110","Petrochemical Manufacturing",NA,NA,"unambig",0.794,0.811
+"325120","Industrial Gas Manufacturing","325120","Industrial Gas Manufacturing",NA,NA,"unambig",1.163,1.211
+"325130","Synthetic Dye and Pigment Manufacturing","325130","Synthetic Dye and Pigment Manufacturing",NA,NA,"unambig",0.406,0.432
+"325180","Other Basic Inorganic Chemical Manufacturing ","325180","Other Basic Inorganic Chemical Manufacturing ",NA,NA,"unambig",0.974,1.01
+"325193","Ethyl Alcohol Manufacturing ","325193","Ethyl Alcohol Manufacturing ",NA,NA,"unambig",1.166,1.184
+"325194","Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ","325194","Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",NA,NA,"unambig",1.166,1.184
+"325199","All Other Basic Organic Chemical Manufacturing ","325199","All Other Basic Organic Chemical Manufacturing ",NA,NA,"unambig",1.166,1.184
+"325211","Plastics Material and Resin Manufacturing ","325211","Plastics Material and Resin Manufacturing ",NA,NA,"unambig",1.022,1.045
+"325212","Synthetic Rubber Manufacturing ","325212","Synthetic Rubber Manufacturing ",NA,NA,"unambig",0.886,0.902
+"325220","Artificial and Synthetic Fibers and Filaments Manufacturing","325220","Artificial and Synthetic Fibers and Filaments Manufacturing",NA,NA,"unambig",0.886,0.902
+"325311","Nitrogenous Fertilizer Manufacturing ","325311","Nitrogenous Fertilizer Manufacturing ",NA,NA,"unambig",1.114,1.137
+"325312","Phosphatic Fertilizer Manufacturing ","325312","Phosphatic Fertilizer Manufacturing ",NA,NA,"unambig",1.114,1.137
+"325314","Fertilizer (Mixing Only) Manufacturing ","325314","Fertilizer (Mixing Only) Manufacturing ",NA,NA,"unambig",1.114,1.137
+"325315","Compost Manufacturing","Added","Added",NA,NA,"unambig",NA,NA
+"325320","Pesticide and Other Agricultural Chemical Manufacturing","325320","Pesticide and Other Agricultural Chemical Manufacturing",NA,NA,"unambig",0.433,0.463
+"325411","Medicinal and Botanical Manufacturing ","325411","Medicinal and Botanical Manufacturing ",NA,NA,"unambig",0.151,0.189
+"325412","Pharmaceutical Preparation Manufacturing ","325412","Pharmaceutical Preparation Manufacturing ",NA,NA,"unambig",0.045,0.099
+"325413","In-Vitro Diagnostic Substance Manufacturing ","325413","In-Vitro Diagnostic Substance Manufacturing ",NA,NA,"unambig",0.161,0.183
+"325414","Biological Product (except Diagnostic) Manufacturing ","325414","Biological Product (except Diagnostic) Manufacturing ",NA,NA,"unambig",0.126,0.15
+"325510","Paint and Coating Manufacturing","325510","Paint and Coating Manufacturing",NA,NA,"unambig",0.264,0.291
+"325520","Adhesive Manufacturing","325520","Adhesive Manufacturing",NA,NA,"unambig",0.502,0.531
+"325611","Soap and Other Detergent Manufacturing ","325611","Soap and Other Detergent Manufacturing ",NA,NA,"unambig",0.315,0.355
+"325612","Polish and Other Sanitation Good Manufacturing ","325612","Polish and Other Sanitation Good Manufacturing ",NA,NA,"unambig",0.315,0.355
+"325613","Surface Active Agent Manufacturing ","325613","Surface Active Agent Manufacturing ",NA,NA,"unambig",0.315,0.355
+"325620","Toilet Preparation Manufacturing","325620","Toilet Preparation Manufacturing",NA,NA,"unambig",0.136,0.194
+"325910","Printing Ink Manufacturing","325910","Printing Ink Manufacturing",NA,NA,"unambig",0.355,0.386
+"325920","Explosives Manufacturing","325920","Explosives Manufacturing",NA,NA,"unambig",0.472,0.5
+"325991","Custom Compounding of Purchased Resins ","325991","Custom Compounding of Purchased Resins ",NA,NA,"unambig",0.472,0.5
+"325992","Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing ","325992","Photographic Film, Paper, Plate, and Chemical Manufacturing ",NA,NA,"unambig",0.472,0.5
+"325998","All Other Miscellaneous Chemical Product and Preparation Manufacturing ","325998","All Other Miscellaneous Chemical Product and Preparation Manufacturing ",NA,NA,"unambig",0.472,0.5
+"326111","Plastics Bag and Pouch Manufacturing ","326111","Plastics Bag and Pouch Manufacturing ",NA,NA,"unambig",0.521,0.544
+"326112","Plastics Packaging Film and Sheet (including Laminated) Manufacturing ","326112","Plastics Packaging Film and Sheet (including Laminated) Manufacturing ",NA,NA,"unambig",0.521,0.544
+"326113","Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ","326113","Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ",NA,NA,"unambig",0.521,0.544
+"326121","Unlaminated Plastics Profile Shape Manufacturing ","326121","Unlaminated Plastics Profile Shape Manufacturing ",NA,NA,"unambig",0.332,0.351
+"326122","Plastics Pipe and Pipe Fitting Manufacturing ","326122","Plastics Pipe and Pipe Fitting Manufacturing ",NA,NA,"unambig",0.332,0.351
+"326130","Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing","326130","Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",NA,NA,"unambig",0.441,0.46
+"326140","Polystyrene Foam Product Manufacturing","326140","Polystyrene Foam Product Manufacturing",NA,NA,"unambig",0.247,0.271
+"326150","Urethane and Other Foam Product (except Polystyrene) Manufacturing","326150","Urethane and Other Foam Product (except Polystyrene) Manufacturing",NA,NA,"unambig",0.318,0.36
+"326160","Plastics Bottle Manufacturing","326160","Plastics Bottle Manufacturing",NA,NA,"unambig",0.553,0.579
+"326191","Plastics Plumbing Fixture Manufacturing ","326191","Plastics Plumbing Fixture Manufacturing ",NA,NA,"unambig",0.344,0.371
+"326199","All Other Plastics Product Manufacturing ","326199","All Other Plastics Product Manufacturing ",NA,NA,"unambig",0.344,0.371
+"326211","Tire Manufacturing (except Retreading) ","326211","Tire Manufacturing (except Retreading) ",NA,NA,"unambig",0.233,0.276
+"326212","Tire Retreading ","326212","Tire Retreading ",NA,NA,"unambig",0.233,0.276
+"326220","Rubber and Plastics Hoses and Belting Manufacturing","326220","Rubber and Plastics Hoses and Belting Manufacturing",NA,NA,"unambig",0.281,0.309
+"326291","Rubber Product Manufacturing for Mechanical Use ","326291","Rubber Product Manufacturing for Mechanical Use ",NA,NA,"unambig",0.313,0.343
+"326299","All Other Rubber Product Manufacturing ","326299","All Other Rubber Product Manufacturing ",NA,NA,"unambig",0.313,0.343
+"327110","Pottery, Ceramics, and Plumbing Fixture Manufacturing ","327110","Pottery, Ceramics, and Plumbing Fixture Manufacturing ",NA,NA,"unambig",0.399,0.451
+"327120","Clay Building Material and Refractories Manufacturing ","327120","Clay Building Material and Refractories Manufacturing ",NA,NA,"unambig",0.399,0.451
+"327211","Flat Glass Manufacturing ","327211","Flat Glass Manufacturing ",NA,NA,"unambig",0.537,0.597
+"327212","Other Pressed and Blown Glass and Glassware Manufacturing ","327212","Other Pressed and Blown Glass and Glassware Manufacturing ",NA,NA,"unambig",0.537,0.597
+"327213","Glass Container Manufacturing ","327213","Glass Container Manufacturing ",NA,NA,"unambig",0.537,0.597
+"327215","Glass Product Manufacturing Made of Purchased Glass ","327215","Glass Product Manufacturing Made of Purchased Glass ",NA,NA,"unambig",0.537,0.597
+"327310","Cement Manufacturing","327310","Cement Manufacturing",NA,NA,"unambig",3.846,3.924
+"327320","Ready-Mix Concrete Manufacturing","327320","Ready-Mix Concrete Manufacturing",NA,NA,"unambig",0.54,0.606
+"327331","Concrete Block and Brick Manufacturing ","327331","Concrete Block and Brick Manufacturing ",NA,NA,"unambig",0.264,0.328
+"327332","Concrete Pipe Manufacturing ","327332","Concrete Pipe Manufacturing ",NA,NA,"unambig",0.264,0.328
+"327390","Other Concrete Product Manufacturing ","327390","Other Concrete Product Manufacturing ",NA,NA,"unambig",0.267,0.317
+"327410","Lime Manufacturing","327410","Lime Manufacturing",NA,NA,"unambig",1.56,1.623
+"327420","Gypsum Product Manufacturing","327420","Gypsum Product Manufacturing",NA,NA,"unambig",1.56,1.623
+"327910","Abrasive Product Manufacturing","327910","Abrasive Product Manufacturing",NA,NA,"unambig",0.134,0.187
+"327991","Cut Stone and Stone Product Manufacturing ","327991","Cut Stone and Stone Product Manufacturing ",NA,NA,"unambig",0.148,0.195
+"327992","Ground or Treated Mineral and Earth Manufacturing ","327992","Ground or Treated Mineral and Earth Manufacturing ",NA,NA,"unambig",0.375,0.497
+"327993","Mineral Wool Manufacturing ","327993","Mineral Wool Manufacturing ",NA,NA,"unambig",0.339,0.393
+"327999","All Other Miscellaneous Nonmetallic Mineral Product Manufacturing ","327999","All Other Miscellaneous Nonmetallic Mineral Product Manufacturing ",NA,NA,"unambig",0.719,0.787
+"331110","Iron and Steel Mills and Ferroalloy Manufacturing ","331110","Iron and Steel Mills and Ferroalloy Manufacturing ",NA,NA,"unambig",0.769,0.787
+"331210","Iron and Steel Pipe and Tube Manufacturing from Purchased Steel","331210","Iron and Steel Pipe and Tube Manufacturing from Purchased Steel",NA,NA,"unambig",0.343,0.36
+"331221","Rolled Steel Shape Manufacturing ","331221","Rolled Steel Shape Manufacturing ",NA,NA,"unambig",0.343,0.36
+"331222","Steel Wire Drawing ","331222","Steel Wire Drawing ",NA,NA,"unambig",0.343,0.36
+"331313","Alumina Refining and Primary Aluminum Production ","331313","Alumina Refining and Primary Aluminum Production ",NA,NA,"unambig",1.003,1.018
+"331314","Secondary Smelting and Alloying of Aluminum ","331314","Secondary Smelting and Alloying of Aluminum ",NA,NA,"unambig",NA,NA
+"331315","Aluminum Sheet, Plate, and Foil Manufacturing ","331315","Aluminum Sheet, Plate, and Foil Manufacturing ",NA,NA,"unambig",0.7,0.721
+"331318","Other Aluminum Rolling, Drawing, and Extruding ","331318","Other Aluminum Rolling, Drawing, and Extruding ",NA,NA,"unambig",0.7,0.721
+"331410","Nonferrous Metal (except Aluminum) Smelting and Refining ","331410","Nonferrous Metal (except Aluminum) Smelting and Refining ",NA,NA,"unambig",0.408,0.423
+"331420","Copper Rolling, Drawing, Extruding, and Alloying","331420","Copper Rolling, Drawing, Extruding, and Alloying",NA,NA,"unambig",0.316,0.334
+"331491","Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ","331491","Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",NA,NA,"unambig",0.414,0.431
+"331492","Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ","331492","Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",NA,NA,"unambig",0.414,0.431
+"331511","Iron Foundries ","331511","Iron Foundries ",NA,NA,"unambig",0.349,0.369
+"331512","Steel Investment Foundries ","331512","Steel Investment Foundries ",NA,NA,"unambig",0.349,0.369
+"331513","Steel Foundries (except Investment) ","331513","Steel Foundries (except Investment) ",NA,NA,"unambig",0.349,0.369
+"331523","Nonferrous Metal Die-Casting Foundries ","331523","Nonferrous Metal Die-Casting Foundries ",NA,NA,"unambig",0.438,0.462
+"331524","Aluminum Foundries (except Die-Casting) ","331524","Aluminum Foundries (except Die-Casting) ",NA,NA,"unambig",0.438,0.462
+"331529","Other Nonferrous Metal Foundries (except Die-Casting) ","331529","Other Nonferrous Metal Foundries (except Die-Casting) ",NA,NA,"unambig",0.438,0.462
+"332111","Iron and Steel Forging ","332111","Iron and Steel Forging ",NA,NA,"unambig",0.47,0.493
+"332112","Nonferrous Forging ","332112","Nonferrous Forging ",NA,NA,"unambig",0.47,0.493
+"332114","Custom Roll Forming ","332114","Custom Roll Forming ",NA,NA,"unambig",0.349,0.362
+"332117","Powder Metallurgy Part Manufacturing ","332117","Powder Metallurgy Part Manufacturing ",NA,NA,"unambig",0.47,0.493
+"332119","Metal Crown, Closure, and Other Metal Stamping (except Automotive) ","332119","Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",NA,NA,"unambig",0.293,0.319
+"332215","Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing ","332215","Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing ",NA,NA,"unambig",0.174,0.223
+"332216","Saw Blade and Handtool Manufacturing ","332216","Saw Blade and Handtool Manufacturing ",NA,NA,"unambig",0.174,0.223
+"332311","Prefabricated Metal Building and Component Manufacturing ","332311","Prefabricated Metal Building and Component Manufacturing ",NA,NA,"unambig",0.246,0.262
+"332312","Fabricated Structural Metal Manufacturing ","332312","Fabricated Structural Metal Manufacturing ",NA,NA,"unambig",0.246,0.262
+"332313","Plate Work Manufacturing ","332313","Plate Work Manufacturing ",NA,NA,"unambig",0.246,0.262
+"332321","Metal Window and Door Manufacturing ","332321","Metal Window and Door Manufacturing ",NA,NA,"unambig",0.195,0.221
+"332322","Sheet Metal Work Manufacturing ","332322","Sheet Metal Work Manufacturing ",NA,NA,"unambig",0.195,0.221
+"332323","Ornamental and Architectural Metal Work Manufacturing ","332323","Ornamental and Architectural Metal Work Manufacturing ",NA,NA,"unambig",0.195,0.221
+"332410","Power Boiler and Heat Exchanger Manufacturing","332410","Power Boiler and Heat Exchanger Manufacturing",NA,NA,"unambig",0.182,0.209
+"332420","Metal Tank (Heavy Gauge) Manufacturing","332420","Metal Tank (Heavy Gauge) Manufacturing",NA,NA,"unambig",0.267,0.279
+"332431","Metal Can Manufacturing ","332431","Metal Can Manufacturing ",NA,NA,"unambig",0.302,0.318
+"332439","Other Metal Container Manufacturing ","332439","Other Metal Container Manufacturing ",NA,NA,"unambig",0.302,0.318
+"332510","Hardware Manufacturing","332510","Hardware Manufacturing",NA,NA,"unambig",0.157,0.191
+"332613","Spring Manufacturing ","332613","Spring Manufacturing ",NA,NA,"unambig",0.219,0.233
+"332618","Other Fabricated Wire Product Manufacturing ","332618","Other Fabricated Wire Product Manufacturing ",NA,NA,"unambig",0.219,0.233
+"332710","Machine Shops","332710","Machine Shops",NA,NA,"unambig",0.262,0.278
+"332721","Precision Turned Product Manufacturing ","332721","Precision Turned Product Manufacturing ",NA,NA,"unambig",0.222,0.248
+"332722","Bolt, Nut, Screw, Rivet, and Washer Manufacturing ","332722","Bolt, Nut, Screw, Rivet, and Washer Manufacturing ",NA,NA,"unambig",0.222,0.248
+"332811","Metal Heat Treating ","332811","Metal Heat Treating ",NA,NA,"unambig",0.368,0.382
+"332812","Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ","332812","Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",NA,NA,"unambig",0.368,0.382
+"332813","Electroplating, Plating, Polishing, Anodizing, and Coloring ","332813","Electroplating, Plating, Polishing, Anodizing, and Coloring ",NA,NA,"unambig",0.368,0.382
+"332911","Industrial Valve Manufacturing ","332911","Industrial Valve Manufacturing ",NA,NA,"unambig",0.146,0.173
+"332912","Fluid Power Valve and Hose Fitting Manufacturing ","332912","Fluid Power Valve and Hose Fitting Manufacturing ",NA,NA,"unambig",0.146,0.173
+"332913","Plumbing Fixture Fitting and Trim Manufacturing ","332913","Plumbing Fixture Fitting and Trim Manufacturing ",NA,NA,"unambig",0.126,0.171
+"332919","Other Metal Valve and Pipe Fitting Manufacturing ","332919","Other Metal Valve and Pipe Fitting Manufacturing ",NA,NA,"unambig",0.146,0.173
+"332991","Ball and Roller Bearing Manufacturing","332991","Ball and Roller Bearing Manufacturing",NA,NA,"unambig",0.179,0.203
+"332992","Small Arms Ammunition Manufacturing ","332992","Small Arms Ammunition Manufacturing ",NA,NA,"unambig",0.115,0.168
+"332993","Ammunition (except Small Arms) Manufacturing ","332993","Ammunition (except Small Arms) Manufacturing ",NA,NA,"unambig",0.115,0.168
+"332994","Small Arms, Ordnance, and Ordnance Accessories Manufacturing ","332994","Small Arms, Ordnance, and Ordnance Accessories Manufacturing ",NA,NA,"unambig",0.115,0.168
+"332996","Fabricated Pipe and Pipe Fitting Manufacturing ","332996","Fabricated Pipe and Pipe Fitting Manufacturing ",NA,NA,"unambig",0.212,0.238
+"332999","All Other Miscellaneous Fabricated Metal Product Manufacturing ","332999","All Other Miscellaneous Fabricated Metal Product Manufacturing ",NA,NA,"unambig",0.248,0.272
+"333111","Farm Machinery and Equipment Manufacturing ","333111","Farm Machinery and Equipment Manufacturing ",NA,NA,"unambig",0.191,0.22
+"333112","Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing ","333112","Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing ",NA,NA,"unambig",0.052,0.12
+"333120","Construction Machinery Manufacturing","333120","Construction Machinery Manufacturing",NA,NA,"unambig",0.201,0.228
+"333131","Mining Machinery and Equipment Manufacturing ","333131","Mining Machinery and Equipment Manufacturing ",NA,NA,"unambig",0.175,0.219
+"333132","Oil and Gas Field Machinery and Equipment Manufacturing ","333132","Oil and Gas Field Machinery and Equipment Manufacturing ",NA,NA,"unambig",0.175,0.219
+"333241","Food Product Machinery Manufacturing ","333241","Food Product Machinery Manufacturing ",NA,NA,"unambig",0.166,0.185
+"333242","Semiconductor Machinery Manufacturing ","333242","Semiconductor Machinery Manufacturing ",NA,NA,"unambig",0.13,0.15
+"333243","Sawmill, Woodworking, and Paper Machinery Manufacturing ","333243","Sawmill, Woodworking, and Paper Machinery Manufacturing ",NA,NA,"unambig",0.166,0.185
+"333248","All Other Industrial Machinery Manufacturing ","333249","Other Industrial Machinery Manufacturing ",0.996271043771044,0.16780303030303,"ambig_greedy",0.166,0.185
+"333310","Commercial and Service Industry Machinery Manufacturing ","333318","Other Commercial and Service Industry Machinery Manufacturing ",0.997027386503854,0.184302036761053,"ambig_greedy",0.171,0.205
+"333413","Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing ","333413","Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing ",NA,NA,"unambig",0.184,0.21
+"333414","Heating Equipment (except Warm Air Furnaces) Manufacturing ","333414","Heating Equipment (except Warm Air Furnaces) Manufacturing ",NA,NA,"unambig",0.138,0.176
+"333415","Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing ","333415","Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing ",NA,NA,"unambig",0.156,0.184
+"333511","Industrial Mold Manufacturing ","333511","Industrial Mold Manufacturing ",NA,NA,"unambig",0.236,0.262
+"333514","Special Die and Tool, Die Set, Jig, and Fixture Manufacturing ","333514","Special Die and Tool, Die Set, Jig, and Fixture Manufacturing ",NA,NA,"unambig",0.184,0.21
+"333515","Cutting Tool and Machine Tool Accessory Manufacturing ","333515","Cutting Tool and Machine Tool Accessory Manufacturing ",NA,NA,"unambig",0.184,0.207
+"333517","Machine Tool Manufacturing ","333517","Machine Tool Manufacturing ",NA,NA,"unambig",0.176,0.199
+"333519","Rolling Mill and Other Metalworking Machinery Manufacturing ","333519","Rolling Mill and Other Metalworking Machinery Manufacturing ",NA,NA,"unambig",0.184,0.207
+"333611","Turbine and Turbine Generator Set Units Manufacturing ","333611","Turbine and Turbine Generator Set Units Manufacturing ",NA,NA,"unambig",0.178,0.201
+"333612","Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing ","333612","Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing ",NA,NA,"unambig",0.163,0.179
+"333613","Mechanical Power Transmission Equipment Manufacturing ","333613","Mechanical Power Transmission Equipment Manufacturing ",NA,NA,"unambig",0.187,0.209
+"333618","Other Engine Equipment Manufacturing ","333618","Other Engine Equipment Manufacturing ",NA,NA,"unambig",0.273,0.297
+"333912","Air and Gas Compressor Manufacturing ","333912","Air and Gas Compressor Manufacturing ",NA,NA,"unambig",0.158,0.177
+"333914","Measuring, Dispensing, and Other Pumping Equipment Manufacturing ","333914","Measuring, Dispensing, and Other Pumping Equipment Manufacturing",NA,NA,"unambig",0.223,0.223
+"333921","Elevator and Moving Stairway Manufacturing ","333921","Elevator and Moving Stairway Manufacturing ",NA,NA,"unambig",0.234,0.256
+"333922","Conveyor and Conveying Equipment Manufacturing ","333922","Conveyor and Conveying Equipment Manufacturing ",NA,NA,"unambig",0.234,0.256
+"333923","Overhead Traveling Crane, Hoist, and Monorail System Manufacturing ","333923","Overhead Traveling Crane, Hoist, and Monorail System Manufacturing ",NA,NA,"unambig",0.234,0.256
+"333924","Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ","333924","Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",NA,NA,"unambig",0.234,0.256
+"333991","Power-Driven Handtool Manufacturing ","333991","Power-Driven Handtool Manufacturing ",NA,NA,"unambig",0.083,0.136
+"333992","Welding and Soldering Equipment Manufacturing ","333992","Welding and Soldering Equipment Manufacturing ",NA,NA,"unambig",0.228,0.249
+"333993","Packaging Machinery Manufacturing ","333993","Packaging Machinery Manufacturing ",NA,NA,"unambig",0.113,0.136
+"333994","Industrial Process Furnace and Oven Manufacturing ","333994","Industrial Process Furnace and Oven Manufacturing ",NA,NA,"unambig",0.168,0.19
+"333995","Fluid Power Cylinder and Actuator Manufacturing ","333995","Fluid Power Cylinder and Actuator Manufacturing ",NA,NA,"unambig",0.182,0.202
+"333996","Fluid Power Pump and Motor Manufacturing ","333996","Fluid Power Pump and Motor Manufacturing ",NA,NA,"unambig",0.182,0.202
+"333998","All Other Miscellaneous General Purpose Machinery Manufacturing ","333999","All Other Miscellaneous General Purpose Machinery Manufacturing ",1,0,"ambig_greedy",0.228,0.249
+"334111","Electronic Computer Manufacturing ","334111","Electronic Computer Manufacturing ",NA,NA,"unambig",0.03,0.058
+"334112","Computer Storage Device Manufacturing ","334112","Computer Storage Device Manufacturing ",NA,NA,"unambig",0.04,0.071
+"334118","Computer Terminal and Other Computer Peripheral Equipment Manufacturing ","334118","Computer Terminal and Other Computer Peripheral Equipment Manufacturing ",NA,NA,"unambig",0.116,0.143
+"334210","Telephone Apparatus Manufacturing","334210","Telephone Apparatus Manufacturing",NA,NA,"unambig",0.051,0.096
+"334220","Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing","334220","Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing",NA,NA,"unambig",0.065,0.111
+"334290","Other Communications Equipment Manufacturing","334290","Other Communications Equipment Manufacturing",NA,NA,"unambig",0.038,0.08
+"334310","Audio and Video Equipment Manufacturing","334310","Audio and Video Equipment Manufacturing",NA,NA,"unambig",0.043,0.081
+"334412","Bare Printed Circuit Board Manufacturing  ","334412","Bare Printed Circuit Board Manufacturing ",NA,NA,"unambig",0.08,0.098
+"334413","Semiconductor and Related Device Manufacturing ","334413","Semiconductor and Related Device Manufacturing ",NA,NA,"unambig",0.188,0.215
+"334416","Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ","334416","Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",NA,NA,"unambig",0.08,0.098
+"334417","Electronic Connector Manufacturing ","334417","Electronic Connector Manufacturing ",NA,NA,"unambig",0.08,0.098
+"334418","Printed Circuit Assembly (Electronic Assembly) Manufacturing ","334418","Printed Circuit Assembly (Electronic Assembly) Manufacturing ",NA,NA,"unambig",0.068,0.101
+"334419","Other Electronic Component Manufacturing ","334419","Other Electronic Component Manufacturing ",NA,NA,"unambig",0.08,0.098
+"334510","Electromedical and Electrotherapeutic Apparatus Manufacturing ","334510","Electromedical and Electrotherapeutic Apparatus Manufacturing ",NA,NA,"unambig",0.087,0.135
+"334511","Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing ","334511","Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing ",NA,NA,"unambig",0.052,0.071
+"334512","Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ","334512","Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",NA,NA,"unambig",0.047,0.07
+"334513","Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables ","334513","Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables ",NA,NA,"unambig",0.048,0.063
+"334514","Totalizing Fluid Meter and Counting Device Manufacturing ","334514","Totalizing Fluid Meter and Counting Device Manufacturing ",NA,NA,"unambig",0.063,0.084
+"334515","Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals ","334515","Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals ",NA,NA,"unambig",0.055,0.079
+"334516","Analytical Laboratory Instrument Manufacturing ","334516","Analytical Laboratory Instrument Manufacturing ",NA,NA,"unambig",0.078,0.102
+"334517","Irradiation Apparatus Manufacturing ","334517","Irradiation Apparatus Manufacturing ",NA,NA,"unambig",0.097,0.135
+"334519","Other Measuring and Controlling Device Manufacturing ","334519","Other Measuring and Controlling Device Manufacturing ",NA,NA,"unambig",0.044,0.087
+"334610","Manufacturing and Reproducing Magnetic and Optical Media ","334613","Blank Magnetic and Optical Recording Media Manufacturing ",0.995881370091896,0.234761904761905,"ambig_greedy",0.043,0.063
+"335131","Residential Electric Lighting Fixture Manufacturing ","335121","Residential Electric Lighting Fixture Manufacturing ",NA,NA,"unambig",0.138,0.185
+"335132","Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing ","335122","Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing ",NA,NA,"unambig",0.138,0.185
+"335139","Electric Lamp Bulb and Other Lighting Equipment Manufacturing ","335110","Electric Lamp Bulb and Part Manufacturing",0.99694272828503,0.189550846328136,"ambig_greedy",0.099,0.173
+"335210","Small Electrical Appliance Manufacturing","335210","Small Electrical Appliance Manufacturing",NA,NA,"unambig",0.106,0.157
+"335220","Major Household Appliance Manufacturing ","335220","Major Household Appliance Manufacturing",NA,NA,"unambig",0.137,0.172
+"335311","Power, Distribution, and Specialty Transformer Manufacturing ","335311","Power, Distribution, and Specialty Transformer Manufacturing ",NA,NA,"unambig",0.118,0.133
+"335312","Motor and Generator Manufacturing ","335312","Motor and Generator Manufacturing ",NA,NA,"unambig",0.133,0.152
+"335313","Switchgear and Switchboard Apparatus Manufacturing ","335313","Switchgear and Switchboard Apparatus Manufacturing ",NA,NA,"unambig",0.153,0.174
+"335314","Relay and Industrial Control Manufacturing ","335314","Relay and Industrial Control Manufacturing ",NA,NA,"unambig",0.12,0.138
+"335910","Battery Manufacturing ","335911","Storage Battery Manufacturing ",0.992172961138478,0.234811165845649,"ambig_greedy",0.311,0.337
+"335921","Fiber Optic Cable Manufacturing ","335921","Fiber Optic Cable Manufacturing ",NA,NA,"unambig",0.219,0.235
+"335929","Other Communication and Energy Wire Manufacturing ","335929","Other Communication and Energy Wire Manufacturing ",NA,NA,"unambig",0.219,0.235
+"335931","Current-Carrying Wiring Device Manufacturing ","335931","Current-Carrying Wiring Device Manufacturing ",NA,NA,"unambig",0.102,0.127
+"335932","Noncurrent-Carrying Wiring Device Manufacturing ","335932","Noncurrent-Carrying Wiring Device Manufacturing ",NA,NA,"unambig",0.102,0.127
+"335991","Carbon and Graphite Product Manufacturing ","335991","Carbon and Graphite Product Manufacturing ",NA,NA,"unambig",0.347,0.363
+"335999","All Other Miscellaneous Electrical Equipment and Component Manufacturing ","335999","All Other Miscellaneous Electrical Equipment and Component Manufacturing ",NA,NA,"unambig",0.112,0.128
+"336110","Automobile and Light Duty Motor Vehicle Manufacturing ","336112","Light Truck and Utility Vehicle Manufacturing ",0.995735305536144,0.230293501048218,"ambig_greedy",0.241,0.268
+"336120","Heavy Duty Truck Manufacturing","336120","Heavy Duty Truck Manufacturing",NA,NA,"unambig",0.262,0.272
+"336211","Motor Vehicle Body Manufacturing ","336211","Motor Vehicle Body Manufacturing ",NA,NA,"unambig",0.225,0.253
+"336212","Truck Trailer Manufacturing ","336212","Truck Trailer Manufacturing ",NA,NA,"unambig",0.185,0.2
+"336213","Motor Home Manufacturing ","336213","Motor Home Manufacturing ",NA,NA,"unambig",0.055,0.107
+"336214","Travel Trailer and Camper Manufacturing ","336214","Travel Trailer and Camper Manufacturing ",NA,NA,"unambig",0.128,0.16
+"336310","Motor Vehicle Gasoline Engine and Engine Parts Manufacturing","336310","Motor Vehicle Gasoline Engine and Engine Parts Manufacturing",NA,NA,"unambig",0.23,0.259
+"336320","Motor Vehicle Electrical and Electronic Equipment Manufacturing","336320","Motor Vehicle Electrical and Electronic Equipment Manufacturing",NA,NA,"unambig",0.191,0.218
+"336330","Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing","336330","Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing",NA,NA,"unambig",0.25,0.278
+"336340","Motor Vehicle Brake System Manufacturing","336340","Motor Vehicle Brake System Manufacturing",NA,NA,"unambig",0.25,0.278
+"336350","Motor Vehicle Transmission and Power Train Parts Manufacturing","336350","Motor Vehicle Transmission and Power Train Parts Manufacturing",NA,NA,"unambig",0.226,0.252
+"336360","Motor Vehicle Seating and Interior Trim Manufacturing","336360","Motor Vehicle Seating and Interior Trim Manufacturing",NA,NA,"unambig",0.315,0.333
+"336370","Motor Vehicle Metal Stamping","336370","Motor Vehicle Metal Stamping",NA,NA,"unambig",0.482,0.503
+"336390","Other Motor Vehicle Parts Manufacturing","336390","Other Motor Vehicle Parts Manufacturing",NA,NA,"unambig",0.242,0.265
+"336411","Aircraft Manufacturing ","336411","Aircraft Manufacturing ",NA,NA,"unambig",0.131,0.139
+"336412","Aircraft Engine and Engine Parts Manufacturing ","336412","Aircraft Engine and Engine Parts Manufacturing ",NA,NA,"unambig",0.151,0.156
+"336413","Other Aircraft Parts and Auxiliary Equipment Manufacturing ","336413","Other Aircraft Parts and Auxiliary Equipment Manufacturing ",NA,NA,"unambig",0.163,0.17
+"336414","Guided Missile and Space Vehicle Manufacturing ","336414","Guided Missile and Space Vehicle Manufacturing ",NA,NA,"unambig",0.133,0.142
+"336415","Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing ","336415","Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing ",NA,NA,"unambig",0.286,0.294
+"336419","Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing ","336419","Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing ",NA,NA,"unambig",0.286,0.294
+"336510","Railroad Rolling Stock Manufacturing","336510","Railroad Rolling Stock Manufacturing",NA,NA,"unambig",0.413,0.444
+"336611","Ship Building and Repairing ","336611","Ship Building and Repairing ",NA,NA,"unambig",0.187,0.196
+"336612","Boat Building ","336612","Boat Building ",NA,NA,"unambig",0.15,0.182
+"336991","Motorcycle, Bicycle, and Parts Manufacturing ","336991","Motorcycle, Bicycle, and Parts Manufacturing ",NA,NA,"unambig",0.178,0.222
+"336992","Military Armored Vehicle, Tank, and Tank Component Manufacturing ","336992","Military Armored Vehicle, Tank, and Tank Component Manufacturing ",NA,NA,"unambig",0.431,0.443
+"336999","All Other Transportation Equipment Manufacturing ","336999","All Other Transportation Equipment Manufacturing ",NA,NA,"unambig",0.157,0.195
+"337110","Wood Kitchen Cabinet and Countertop Manufacturing","337110","Wood Kitchen Cabinet and Countertop Manufacturing",NA,NA,"unambig",0.114,0.166
+"337121","Upholstered Household Furniture Manufacturing ","337121","Upholstered Household Furniture Manufacturing ",NA,NA,"unambig",0.133,0.188
+"337122","Nonupholstered Wood Household Furniture Manufacturing ","337122","Nonupholstered Wood Household Furniture Manufacturing ",NA,NA,"unambig",0.121,0.178
+"337126","Household Furniture (except Wood and Upholstered) Manufacturing ","337125","Household Furniture (except Wood and Metal) Manufacturing ",0.998490759545607,0.0935729081723514,"ambig_greedy",0.168,0.227
+"337127","Institutional Furniture Manufacturing ","337127","Institutional Furniture Manufacturing ",NA,NA,"unambig",0.208,0.246
+"337211","Wood Office Furniture Manufacturing ","337211","Wood Office Furniture Manufacturing ",NA,NA,"unambig",0.184,0.24
+"337212","Custom Architectural Woodwork and Millwork Manufacturing ","337212","Custom Architectural Woodwork and Millwork Manufacturing ",NA,NA,"unambig",0.184,0.24
+"337214","Office Furniture (except Wood) Manufacturing ","337214","Office Furniture (except Wood) Manufacturing ",NA,NA,"unambig",0.184,0.24
+"337215","Showcase, Partition, Shelving, and Locker Manufacturing ","337215","Showcase, Partition, Shelving, and Locker Manufacturing ",NA,NA,"unambig",0.206,0.246
+"337910","Mattress Manufacturing","337910","Mattress Manufacturing",NA,NA,"unambig",0.11,0.173
+"337920","Blind and Shade Manufacturing","337920","Blind and Shade Manufacturing",NA,NA,"unambig",0.11,0.173
+"339112","Surgical and Medical Instrument Manufacturing ","339112","Surgical and Medical Instrument Manufacturing ",NA,NA,"unambig",0.119,0.156
+"339113","Surgical Appliance and Supplies Manufacturing ","339113","Surgical Appliance and Supplies Manufacturing ",NA,NA,"unambig",0.096,0.14
+"339114","Dental Equipment and Supplies Manufacturing ","339114","Dental Equipment and Supplies Manufacturing ",NA,NA,"unambig",0.143,0.174
+"339115","Ophthalmic Goods Manufacturing ","339115","Ophthalmic Goods Manufacturing ",NA,NA,"unambig",0.086,0.138
+"339116","Dental Laboratories ","339116","Dental Laboratories ",NA,NA,"unambig",0.083,0.117
+"339910","Jewelry and Silverware Manufacturing ","339910","Jewelry and Silverware Manufacturing ",NA,NA,"unambig",0.055,0.108
+"339920","Sporting and Athletic Goods Manufacturing","339920","Sporting and Athletic Goods Manufacturing",NA,NA,"unambig",0.104,0.167
+"339930","Doll, Toy, and Game Manufacturing","339930","Doll, Toy, and Game Manufacturing",NA,NA,"unambig",0.085,0.146
+"339940","Office Supplies (except Paper) Manufacturing","339940","Office Supplies (except Paper) Manufacturing",NA,NA,"unambig",0.204,0.265
+"339950","Sign Manufacturing","339950","Sign Manufacturing",NA,NA,"unambig",0.187,0.25
+"339991","Gasket, Packing, and Sealing Device Manufacturing ","339991","Gasket, Packing, and Sealing Device Manufacturing ",NA,NA,"unambig",0.121,0.182
+"339992","Musical Instrument Manufacturing ","339992","Musical Instrument Manufacturing ",NA,NA,"unambig",0.121,0.182
+"339993","Fastener, Button, Needle, and Pin Manufacturing ","339993","Fastener, Button, Needle, and Pin Manufacturing ",NA,NA,"unambig",0.121,0.182
+"339994","Broom, Brush, and Mop Manufacturing ","339994","Broom, Brush, and Mop Manufacturing ",NA,NA,"unambig",0.121,0.182
+"339995","Burial Casket Manufacturing ","339995","Burial Casket Manufacturing ",NA,NA,"unambig",0.121,0.182
+"339999","All Other Miscellaneous Manufacturing ","339999","All Other Miscellaneous Manufacturing ",NA,NA,"unambig",0.121,0.182
+"423110","Automobile and Other Motor Vehicle Merchant Wholesalers ","423110","Automobile and Other Motor Vehicle Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423120","Motor Vehicle Supplies and New Parts Merchant Wholesalers ","423120","Motor Vehicle Supplies and New Parts Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423130","Tire and Tube Merchant Wholesalers ","423130","Tire and Tube Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423140","Motor Vehicle Parts (Used) Merchant Wholesalers ","423140","Motor Vehicle Parts (Used) Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423210","Furniture Merchant Wholesalers ","423210","Furniture Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423220","Home Furnishing Merchant Wholesalers ","423220","Home Furnishing Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423310","Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers ","423310","Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423320","Brick, Stone, and Related Construction Material Merchant Wholesalers ","423320","Brick, Stone, and Related Construction Material Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423330","Roofing, Siding, and Insulation Material Merchant Wholesalers ","423330","Roofing, Siding, and Insulation Material Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423390","Other Construction Material Merchant Wholesalers ","423390","Other Construction Material Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423410","Photographic Equipment and Supplies Merchant Wholesalers ","423410","Photographic Equipment and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.074,0.074
+"423420","Office Equipment Merchant Wholesalers ","423420","Office Equipment Merchant Wholesalers ",NA,NA,"unambig",0.074,0.074
+"423430","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ","423430","Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ",NA,NA,"unambig",0.074,0.074
+"423440","Other Commercial Equipment Merchant Wholesalers ","423440","Other Commercial Equipment Merchant Wholesalers ",NA,NA,"unambig",0.074,0.074
+"423450","Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers ","423450","Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.074,0.074
+"423460","Ophthalmic Goods Merchant Wholesalers ","423460","Ophthalmic Goods Merchant Wholesalers ",NA,NA,"unambig",0.074,0.074
+"423490","Other Professional Equipment and Supplies Merchant Wholesalers ","423490","Other Professional Equipment and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.074,0.074
+"423510","Metal Service Centers and Other Metal Merchant Wholesalers ","423510","Metal Service Centers and Other Metal Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423520","Coal and Other Mineral and Ore Merchant Wholesalers ","423520","Coal and Other Mineral and Ore Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423610","Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers ","423610","Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers ",NA,NA,"unambig",0.083,0.083
+"423620","Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers ","423620","Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers ",NA,NA,"unambig",0.083,0.083
+"423690","Other Electronic Parts and Equipment Merchant Wholesalers ","423690","Other Electronic Parts and Equipment Merchant Wholesalers ",NA,NA,"unambig",0.083,0.083
+"423710","Hardware Merchant Wholesalers ","423710","Hardware Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423720","Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers ","423720","Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423730","Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers ","423730","Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423740","Refrigeration Equipment and Supplies Merchant Wholesalers ","423740","Refrigeration Equipment and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423810","Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers ","423810","Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423820","Farm and Garden Machinery and Equipment Merchant Wholesalers ","423820","Farm and Garden Machinery and Equipment Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423830","Industrial Machinery and Equipment Merchant Wholesalers ","423830","Industrial Machinery and Equipment Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423840","Industrial Supplies Merchant Wholesalers","423840","Industrial Supplies Merchant Wholesalers",NA,NA,"unambig",0.115,0.115
+"423850","Service Establishment Equipment and Supplies Merchant Wholesalers ","423850","Service Establishment Equipment and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423860","Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers ","423860","Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers ",NA,NA,"unambig",0.115,0.115
+"423910","Sporting and Recreational Goods and Supplies Merchant Wholesalers ","423910","Sporting and Recreational Goods and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423920","Toy and Hobby Goods and Supplies Merchant Wholesalers ","423920","Toy and Hobby Goods and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423930","Recyclable Material Merchant Wholesalers ","423930","Recyclable Material Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423940","Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers ","423940","Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"423990","Other Miscellaneous Durable Goods Merchant Wholesalers ","423990","Other Miscellaneous Durable Goods Merchant Wholesalers ",NA,NA,"unambig",0.108,0.108
+"424110","Printing and Writing Paper Merchant Wholesalers ","424110","Printing and Writing Paper Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424120","Stationery and Office Supplies Merchant Wholesalers ","424120","Stationery and Office Supplies Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424130","Industrial and Personal Service Paper Merchant Wholesalers ","424130","Industrial and Personal Service Paper Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424210","Drugs and Druggists' Sundries Merchant Wholesalers ","424210","Drugs and Druggists' Sundries Merchant Wholesalers ",NA,NA,"unambig",0.095,0.095
+"424310","Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers ","424310","Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424340","Footwear Merchant Wholesalers ","424340","Footwear Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424350","Clothing and Clothing Accessories Merchant Wholesalers","424330","Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers ",0.996649435990714,0.257993428715044,"ambig_greedy",0.144,0.144
+"424410","General Line Grocery Merchant Wholesalers ","424410","General Line Grocery Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424420","Packaged Frozen Food Merchant Wholesalers ","424420","Packaged Frozen Food Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424430","Dairy Product (except Dried or Canned) Merchant Wholesalers ","424430","Dairy Product (except Dried or Canned) Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424440","Poultry and Poultry Product Merchant Wholesalers ","424440","Poultry and Poultry Product Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424450","Confectionery Merchant Wholesalers ","424450","Confectionery Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424460","Fish and Seafood Merchant Wholesalers ","424460","Fish and Seafood Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424470","Meat and Meat Product Merchant Wholesalers ","424470","Meat and Meat Product Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424480","Fresh Fruit and Vegetable Merchant Wholesalers ","424480","Fresh Fruit and Vegetable Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424490","Other Grocery and Related Products Merchant Wholesalers ","424490","Other Grocery and Related Products Merchant Wholesalers ",NA,NA,"unambig",0.159,0.159
+"424510","Grain and Field Bean Merchant Wholesalers ","424510","Grain and Field Bean Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424520","Livestock Merchant Wholesalers ","424520","Livestock Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424590","Other Farm Product Raw Material Merchant Wholesalers ","424590","Other Farm Product Raw Material Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424610","Plastics Materials and Basic Forms and Shapes Merchant Wholesalers ","424610","Plastics Materials and Basic Forms and Shapes Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424690","Other Chemical and Allied Products Merchant Wholesalers ","424690","Other Chemical and Allied Products Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424710","Petroleum Bulk Stations and Terminals ","424710","Petroleum Bulk Stations and Terminals ",NA,NA,"unambig",0.102,0.102
+"424720","Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) ","424720","Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) ",NA,NA,"unambig",0.102,0.102
+"424810","Beer and Ale Merchant Wholesalers ","424810","Beer and Ale Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424820","Wine and Distilled Alcoholic Beverage Merchant Wholesalers ","424820","Wine and Distilled Alcoholic Beverage Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424910","Farm Supplies Merchant Wholesalers ","424910","Farm Supplies Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424920","Book, Periodical, and Newspaper Merchant Wholesalers ","424920","Book, Periodical, and Newspaper Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424930","Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers ","424930","Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424940","Tobacco Product and Electronic Cigarette Merchant Wholesalers ","424940","Tobacco and Tobacco Product Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424950","Paint, Varnish, and Supplies Merchant Wholesalers ","424950","Paint, Varnish, and Supplies Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"424990","Other Miscellaneous Nondurable Goods Merchant Wholesalers ","424990","Other Miscellaneous Nondurable Goods Merchant Wholesalers ",NA,NA,"unambig",0.144,0.144
+"425120","Wholesale Trade Agents and Brokers ","425120","Wholesale Trade Agents and Brokers ",1,0,"ambig_greedy",0.092,0.092
+"441110","New Car Dealers ","441110","New Car Dealers ",NA,NA,"unambig",0.073,0.073
+"441120","Used Car Dealers ","441120","Used Car Dealers ",NA,NA,"unambig",0.073,0.073
+"441210","Recreational Vehicle Dealers ","441210","Recreational Vehicle Dealers ",NA,NA,"unambig",0.073,0.073
+"441222","Boat Dealers ","441222","Boat Dealers ",NA,NA,"unambig",0.073,0.073
+"441227","Motorcycle, ATV, and All Other Motor Vehicle Dealers ","441228","Motorcycle, ATV, and All Other Motor Vehicle Dealers ",1,0,"ambig_greedy",0.073,0.073
+"441330","Automotive Parts and Accessories Retailers ","441310","Automotive Parts and Accessories Stores ",0.998260591283847,0.0747945747945749,"ambig_greedy",0.073,0.073
+"441340","Tire Dealers ","441320","Tire Dealers ",NA,NA,"unambig",0.073,0.073
+"444110","Home Centers ","444110","Home Centers ",NA,NA,"unambig",0.087,0.087
+"444120","Paint and Wallpaper Retailers ","444120","Paint and Wallpaper Stores ",NA,NA,"unambig",0.087,0.087
+"444140","Hardware Retailers ","444130","Hardware Stores ",0.990088469035837,0.188319088319088,"ambig_greedy",0.087,0.087
+"444180","Other Building Material Dealers ","444190","Other Building Material Dealers ",1,0,"ambig_greedy",0.087,0.087
+"444230","Outdoor Power Equipment Retailers ","444210","Outdoor Power Equipment Stores ",0.9971606824548,0.0965367965367967,"ambig_greedy",0.087,0.087
+"444240","Nursery, Garden Center, and Farm Supply Retailers ","444220","Nursery, Garden Center, and Farm Supply Stores ",0.998614884918076,0.0664855239323325,"ambig_greedy",0.087,0.087
+"445110","Supermarkets and Other Grocery Retailers (except Convenience Retailers) ","445110","Supermarkets and Other Grocery (except Convenience) Stores ",NA,NA,"unambig",0.186,0.186
+"445131","Convenience Retailers","445120","Convenience Stores ",0.992815055315055,0.158068783068783,"ambig_greedy",0.186,0.186
+"445132","Vending Machine Operators ","454210","Vending Machine Operators ",NA,NA,"unambig",0.094,0.094
+"445230","Fruit and Vegetable Retailers ","445230","Fruit and Vegetable Markets ",NA,NA,"unambig",0.186,0.186
+"445240","Meat Retailers ","445210","Meat Markets ",0.985502645502646,0.217460317460317,"ambig_greedy",0.186,0.186
+"445250","Fish and Seafood Retailers ","445220","Fish and Seafood Markets ",0.995949523727302,0.109362859362859,"ambig_greedy",0.186,0.186
+"445291","Baked Goods Retailers ","445291","Baked Goods Stores ",NA,NA,"unambig",0.186,0.186
+"445292","Confectionery and Nut Retailers ","445292","Confectionery and Nut Stores ",NA,NA,"unambig",0.186,0.186
+"445298","All Other Specialty Food Retailers ","445299","All Other Specialty Food Stores ",0.997328186001876,0.0935134899343497,"ambig_greedy",0.186,0.186
+"445320","Beer, Wine, and Liquor Retailers ","445310","Beer, Wine, and Liquor Stores ",0.996551174830745,0.106913580246914,"ambig_greedy",0.186,0.186
+"449110","Furniture Retailers ","442110","Furniture Stores ",0.991149749373434,0.177005012531328,"ambig_greedy",0.111,0.111
+"449121","Floor Covering Retailers ","442210","Floor Covering Stores ",0.994548872180451,0.136278195488722,"ambig_greedy",0.111,0.111
+"449122","Window Treatment Retailers ","442291","Window Treatment Stores ",0.995376514700186,0.124834103094973,"ambig_greedy",0.111,0.111
+"449129","All Other Home Furnishings Retailers ","442299","All Other Home Furnishings Stores ",0.99762152181507,0.0880036928424025,"ambig_greedy",0.111,0.111
+"449210","Electronics and Appliance Retailers","443142","Electronics Stores ",0.992548500881834,0.268253968253968,"ambig_greedy",0.111,0.111
+"455110","Department Stores ","452210","Department Stores",1,0,"ambig_greedy",0.164,0.164
+"455211","Warehouse Clubs and Supercenters ","452311","Warehouse Clubs and Supercenters ",1,0,"ambig_greedy",0.164,0.164
+"455219","All Other General Merchandise Retailers ","452319","All Other General Merchandise Stores ",0.99797846489023,0.0808614043908162,"ambig_greedy",0.164,0.164
+"456110","Pharmacies and Drug Retailers ","446110","Pharmacies and Drug Stores ",0.996303664407113,0.11089006778662,"ambig_greedy",0.13,0.13
+"456120","Cosmetics, Beauty Supplies, and Perfume Retailers ","446120","Cosmetics, Beauty Supplies, and Perfume Stores ",0.998614884918076,0.0664855239323325,"ambig_greedy",0.13,0.13
+"456130","Optical Goods Retailers ","446130","Optical Goods Stores ",0.99404857756307,0.142834138486313,"ambig_greedy",0.13,0.13
+"456191","Food (Health) Supplement Retailers ","446191","Food (Health) Supplement Stores ",0.996976872814995,0.0997631971051511,"ambig_greedy",0.13,0.13
+"456199","All Other Health and Personal Care Retailers ","446199","All Other Health and Personal Care Stores ",0.998417045165013,0.0712329675744312,"ambig_greedy",0.13,0.13
+"457110","Gasoline Stations with Convenience Stores ","447110","Gasoline Stations with Convenience Stores ",NA,NA,"unambig",0.183,0.183
+"457120","Other Gasoline Stations ","447190","Other Gasoline Stations ",NA,NA,"unambig",0.183,0.183
+"457210","Fuel Dealers ","454310","Fuel Dealers ",NA,NA,"unambig",0.094,0.094
+"458110","Clothing and Clothing Accessories Retailers ","448150","Clothing Accessories Stores ",0.994976097689276,0.221051701671857,"ambig_greedy",0.138,0.138
+"458210","Shoe Retailers ","448210","Shoe Stores ",0.984319384319384,0.235209235209235,"ambig_greedy",0.138,0.138
+"458310","Jewelry Retailers ","448310","Jewelry Stores ",0.989593059446001,0.187324929971989,"ambig_greedy",0.138,0.138
+"458320","Luggage and Leather Goods Retailers ","448320","Luggage and Leather Goods Stores ",0.997481261022928,0.0906746031746033,"ambig_greedy",0.138,0.138
+"459110","Sporting Goods Retailers ","451110","Sporting Goods Stores ",0.994548872180451,0.136278195488722,"ambig_greedy",0.111,0.111
+"459120","Hobby, Toy, and Game Retailers ","451120","Hobby, Toy, and Game Stores ",0.996028414364246,0.115175983436853,"ambig_greedy",0.111,0.111
+"459130","Sewing, Needlework, and Piece Goods Retailers ","451130","Sewing, Needlework, and Piece Goods Stores ",0.998341585994585,0.0729702162382702,"ambig_greedy",0.111,0.111
+"459140","Musical Instrument and Supplies Retailers ","451140","Musical Instrument and Supplies Stores ",0.998173505126864,0.0767127846717064,"ambig_greedy",0.111,0.111
+"459210","Book Retailers and News Dealers ","454390","Other Direct Selling Establishments ",0.99071610886127,0.334220080994275,"ambig_greedy",0.094,0.094
+"459310","Florists ","453110","Florists ",1,0,"ambig_greedy",0.111,0.111
+"459410","Office Supplies and Stationery Retailers ","453210","Office Supplies and Stationery Stores ",0.998079699908968,0.0787323037323038,"ambig_greedy",0.111,0.111
+"459420","Gift, Novelty, and Souvenir Retailers ","453220","Gift, Novelty, and Souvenir Stores ",0.997481261022928,0.0906746031746033,"ambig_greedy",0.111,0.111
+"459510","Used Merchandise Retailers ","453310","Used Merchandise Stores ",0.995376514700186,0.124834103094973,"ambig_greedy",0.111,0.111
+"459910","Pet and Pet Supplies Retailers ","453910","Pet and Pet Supplies Stores ",0.996551174830745,0.106913580246914,"ambig_greedy",0.111,0.111
+"459920","Art Dealers ","453920","Art Dealers ",1,0,"ambig_greedy",0.111,0.111
+"459930","Manufactured (Mobile) Home Dealers ","453930","Manufactured (Mobile) Home Dealers ",NA,NA,"unambig",0.111,0.111
+"459991","Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers ","454110","Electronic Shopping and Mail-Order Houses",0.995079413372096,0.324758717441644,"ambig_greedy",0.094,0.094
+"459999","All Other Miscellaneous Retailers ","453998","All Other Miscellaneous Store Retailers (except Tobacco Stores) ",0.996799032097816,0.19846000993542,"ambig_greedy",0.111,0.111
+"481111","Scheduled Passenger Air Transportation ","481111","Scheduled Passenger Air Transportation ",NA,NA,"unambig",0.644,0.644
+"481112","Scheduled Freight Air Transportation ","481112","Scheduled Freight Air Transportation ",NA,NA,"unambig",0.644,0.644
+"481211","Nonscheduled Chartered Passenger Air Transportation ","481211","Nonscheduled Chartered Passenger Air Transportation ",NA,NA,"unambig",0.644,0.644
+"481212","Nonscheduled Chartered Freight Air Transportation ","481212","Nonscheduled Chartered Freight Air Transportation ",NA,NA,"unambig",0.644,0.644
+"481219","Other Nonscheduled Air Transportation ","481219","Other Nonscheduled Air Transportation ",NA,NA,"unambig",0.644,0.644
+"482111","Line-Haul Railroads ","482111","Line-Haul Railroads ",NA,NA,"unambig",0.466,0.466
+"482112","Short Line Railroads ","482112","Short Line Railroads ",NA,NA,"unambig",0.466,0.466
+"483111","Deep Sea Freight Transportation ","483111","Deep Sea Freight Transportation ",NA,NA,"unambig",0.816,0.816
+"483112","Deep Sea Passenger Transportation ","483112","Deep Sea Passenger Transportation ",NA,NA,"unambig",0.816,0.816
+"483113","Coastal and Great Lakes Freight Transportation ","483113","Coastal and Great Lakes Freight Transportation ",NA,NA,"unambig",0.816,0.816
+"483114","Coastal and Great Lakes Passenger Transportation ","483114","Coastal and Great Lakes Passenger Transportation ",NA,NA,"unambig",0.816,0.816
+"483211","Inland Water Freight Transportation ","483211","Inland Water Freight Transportation ",NA,NA,"unambig",0.816,0.816
+"483212","Inland Water Passenger Transportation ","483212","Inland Water Passenger Transportation ",NA,NA,"unambig",0.816,0.816
+"484110","General Freight Trucking, Local ","484110","General Freight Trucking, Local ",NA,NA,"unambig",0.595,0.595
+"484121","General Freight Trucking, Long-Distance, Truckload ","484121","General Freight Trucking, Long-Distance, Truckload ",NA,NA,"unambig",0.595,0.595
+"484122","General Freight Trucking, Long-Distance, Less Than Truckload ","484122","General Freight Trucking, Long-Distance, Less Than Truckload ",NA,NA,"unambig",0.595,0.595
+"484210","Used Household and Office Goods Moving","484210","Used Household and Office Goods Moving",NA,NA,"unambig",0.595,0.595
+"484220","Specialized Freight (except Used Goods) Trucking, Local ","484220","Specialized Freight (except Used Goods) Trucking, Local ",NA,NA,"unambig",0.595,0.595
+"484230","Specialized Freight (except Used Goods) Trucking, Long-Distance ","484230","Specialized Freight (except Used Goods) Trucking, Long-Distance ",NA,NA,"unambig",0.595,0.595
+"485111","Mixed Mode Transit Systems ","485111","Mixed Mode Transit Systems ",NA,NA,"unambig",0.566,0.566
+"485112","Commuter Rail Systems ","485112","Commuter Rail Systems ",NA,NA,"unambig",0.566,0.566
+"485113","Bus and Other Motor Vehicle Transit Systems ","485113","Bus and Other Motor Vehicle Transit Systems ",NA,NA,"unambig",0.566,0.566
+"485119","Other Urban Transit Systems ","485119","Other Urban Transit Systems ",NA,NA,"unambig",0.566,0.566
+"485210","Interurban and Rural Bus Transportation","485210","Interurban and Rural Bus Transportation",NA,NA,"unambig",0.566,0.566
+"485310","Taxi and Ridesharing Services ","485310","Taxi Service ",NA,NA,"unambig",0.566,0.566
+"485320","Limousine Service","485320","Limousine Service",NA,NA,"unambig",0.566,0.566
+"485410","School and Employee Bus Transportation","485410","School and Employee Bus Transportation",NA,NA,"unambig",0.566,0.566
+"485510","Charter Bus Industry","485510","Charter Bus Industry",NA,NA,"unambig",0.566,0.566
+"485991","Special Needs Transportation ","485991","Special Needs Transportation ",NA,NA,"unambig",0.566,0.566
+"485999","All Other Transit and Ground Passenger Transportation ","485999","All Other Transit and Ground Passenger Transportation ",NA,NA,"unambig",0.566,0.566
+"486110","Pipeline Transportation of Crude Oil","486110","Pipeline Transportation of Crude Oil",NA,NA,"unambig",1.619,1.619
+"486210","Pipeline Transportation of Natural Gas","486210","Pipeline Transportation of Natural Gas",NA,NA,"unambig",1.619,1.619
+"486910","Pipeline Transportation of Refined Petroleum Products","486910","Pipeline Transportation of Refined Petroleum Products",NA,NA,"unambig",1.619,1.619
+"486990","All Other Pipeline Transportation","486990","All Other Pipeline Transportation",NA,NA,"unambig",1.619,1.619
+"487110","Scenic and Sightseeing Transportation, Land","487110","Scenic and Sightseeing Transportation, Land",NA,NA,"unambig",0.162,0.162
+"487210","Scenic and Sightseeing Transportation, Water","487210","Scenic and Sightseeing Transportation, Water",NA,NA,"unambig",0.162,0.162
+"487990","Scenic and Sightseeing Transportation, Other","487990","Scenic and Sightseeing Transportation, Other",NA,NA,"unambig",0.162,0.162
+"488111","Air Traffic Control","488111","Air Traffic Control",NA,NA,"unambig",0.162,0.162
+"488119","Other Airport Operations ","488119","Other Airport Operations ",NA,NA,"unambig",0.162,0.162
+"488190","Other Support Activities for Air Transportation","488190","Other Support Activities for Air Transportation",NA,NA,"unambig",0.162,0.162
+"488210","Support Activities for Rail Transportation","488210","Support Activities for Rail Transportation",NA,NA,"unambig",0.162,0.162
+"488310","Port and Harbor Operations","488310","Port and Harbor Operations",NA,NA,"unambig",0.162,0.162
+"488320","Marine Cargo Handling","488320","Marine Cargo Handling",NA,NA,"unambig",0.162,0.162
+"488330","Navigational Services to Shipping ","488330","Navigational Services to Shipping ",NA,NA,"unambig",0.162,0.162
+"488390","Other Support Activities for Water Transportation","488390","Other Support Activities for Water Transportation",NA,NA,"unambig",0.162,0.162
+"488410","Motor Vehicle Towing","488410","Motor Vehicle Towing",NA,NA,"unambig",0.162,0.162
+"488490","Other Support Activities for Road Transportation ","488490","Other Support Activities for Road Transportation ",NA,NA,"unambig",0.162,0.162
+"488510","Freight Transportation Arrangement ","488510","Freight Transportation Arrangement ",NA,NA,"unambig",0.162,0.162
+"488991","Packing and Crating ","488991","Packing and Crating ",NA,NA,"unambig",0.162,0.162
+"488999","All Other Support Activities for Transportation ","488999","All Other Support Activities for Transportation ",NA,NA,"unambig",0.162,0.162
+"491110","Postal Service","491110","Postal Service",NA,NA,"unambig",0.074,0.074
+"492110","Couriers and Express Delivery Services","492110","Couriers and Express Delivery Services",NA,NA,"unambig",0.303,0.303
+"492210","Local Messengers and Local Delivery","492210","Local Messengers and Local Delivery",NA,NA,"unambig",0.303,0.303
+"493110","General Warehousing and Storage ","493110","General Warehousing and Storage ",NA,NA,"unambig",0.244,0.244
+"493120","Refrigerated Warehousing and Storage","493120","Refrigerated Warehousing and Storage",NA,NA,"unambig",0.244,0.244
+"493130","Farm Product Warehousing and Storage","493130","Farm Product Warehousing and Storage",NA,NA,"unambig",0.244,0.244
+"493190","Other Warehousing and Storage","493190","Other Warehousing and Storage",NA,NA,"unambig",0.244,0.244
+"512110","Motion Picture and Video Production ","512110","Motion Picture and Video Production ",NA,NA,"unambig",0.047,0.052
+"512120","Motion Picture and Video Distribution","512120","Motion Picture and Video Distribution",NA,NA,"unambig",0.047,0.052
+"512131","Motion Picture Theaters (except Drive-Ins) ","512131","Motion Picture Theaters (except Drive-Ins) ",NA,NA,"unambig",0.047,0.052
+"512132","Drive-In Motion Picture Theaters ","512132","Drive-In Motion Picture Theaters ",NA,NA,"unambig",0.047,0.052
+"512191","Teleproduction and Other Postproduction Services ","512191","Teleproduction and Other Postproduction Services ",NA,NA,"unambig",0.047,0.052
+"512199","Other Motion Picture and Video Industries ","512199","Other Motion Picture and Video Industries ",NA,NA,"unambig",0.047,0.052
+"512230","Music Publishers","512230","Music Publishers",NA,NA,"unambig",0.026,0.044
+"512240","Sound Recording Studios","512240","Sound Recording Studios",NA,NA,"unambig",0.026,0.044
+"512250","Record Production and Distribution","512250","Record Production and Distribution",NA,NA,"unambig",0.026,0.044
+"512290","Other Sound Recording Industries","512290","Other Sound Recording Industries",NA,NA,"unambig",0.026,0.044
+"513110","Newspaper Publishers ","511110","Newspaper Publishers ",1,0,"ambig_greedy",0.043,0.082
+"513120","Periodical Publishers ","511120","Periodical Publishers ",1,0,"ambig_greedy",0.059,0.103
+"513130","Book Publishers ","511130","Book Publishers ",1,0,"ambig_greedy",0.072,0.107
+"513140","Directory and Mailing List Publishers ","511140","Directory and Mailing List Publishers ",NA,NA,"unambig",0.053,0.108
+"513191","Greeting Card Publishers ","511191","Greeting Card Publishers ",NA,NA,"unambig",0.053,0.108
+"513199","All Other Publishers ","511199","All Other Publishers ",1,0,"ambig_greedy",0.053,0.108
+"513210","Software Publishers","511210","Software Publishers",NA,NA,"unambig",0.036,0.08
+"516110","Radio Broadcasting Stations ","515112","Radio Stations ",NA,NA,"unambig",0.079,0.079
+"516120","Television Broadcasting Stations ","515120","Television Broadcasting",NA,NA,"unambig",0.079,0.079
+"516210","Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers","515210","Cable and Other Subscription Programming",0.996045104510451,0.399444444444444,"ambig_greedy",0.094,0.094
+"517111","Wired Telecommunications Carriers ","517311","Wired Telecommunications Carriers ",1,0,"ambig_greedy",0.075,0.075
+"517112","Wireless Telecommunications Carriers (except Satellite)","517312","Wireless Telecommunications Carriers (except Satellite)",NA,NA,"unambig",0.096,0.096
+"517121","Telecommunications Resellers","517911","Telecommunications Resellers ",NA,NA,"unambig",0.078,0.078
+"517410","Satellite Telecommunications","517410","Satellite Telecommunications",NA,NA,"unambig",0.078,0.078
+"517810","All Other Telecommunications ","517919","All Other Telecommunications ",NA,NA,"unambig",0.078,0.078
+"518210","Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services","518210","Data Processing, Hosting, and Related Services",NA,NA,"unambig",0.093,0.093
+"519210","Libraries and Archives ","519120","Libraries and Archives ",NA,NA,"unambig",0.064,0.064
+"519290","Web Search Portals and All Other Information Services","519190","All Other Information Services",NA,NA,"unambig",0.064,0.064
+"521110","Monetary Authorities-Central Bank","521110","Monetary Authorities-Central Bank",NA,NA,"unambig",0.059,0.059
+"522110","Commercial Banking ","522110","Commercial Banking ",NA,NA,"unambig",0.059,0.059
+"522130","Credit Unions ","522130","Credit Unions ",NA,NA,"unambig",0.059,0.059
+"522180","Savings Institutions and Other Depository Credit Intermediation ","522120","Savings Institutions ",0.996445105820106,0.227513227513228,"ambig_greedy",0.059,0.059
+"522210","Credit Card Issuing ","522210","Credit Card Issuing ",NA,NA,"unambig",0.072,0.072
+"522220","Sales Financing ","522220","Sales Financing ",NA,NA,"unambig",0.072,0.072
+"522291","Consumer Lending ","522291","Consumer Lending ",NA,NA,"unambig",0.072,0.072
+"522292","Real Estate Credit ","522292","Real Estate Credit ",NA,NA,"unambig",0.072,0.072
+"522299","International, Secondary Market, and All Other Nondepository Credit Intermediation ","522298","All Other Nondepository Credit Intermediation ",0.99627914951989,0.301388888888889,"ambig_greedy",0.072,0.072
+"522310","Mortgage and Nonmortgage Loan Brokers ","522310","Mortgage and Nonmortgage Loan Brokers ",NA,NA,"unambig",0.072,0.072
+"522320","Financial Transactions Processing, Reserve, and Clearinghouse Activities ","522320","Financial Transactions Processing, Reserve, and Clearinghouse Activities ",NA,NA,"unambig",0.072,0.072
+"522390","Other Activities Related to Credit Intermediation ","522390","Other Activities Related to Credit Intermediation ",NA,NA,"unambig",0.072,0.072
+"523150","Investment Banking and Securities Intermediation ","523110","Investment Banking and Securities Dealing ",0.997956577878181,0.100127683969147,"ambig_greedy",0.043,0.043
+"523160","Commodity Contracts Intermediation ","523130","Commodity Contracts Dealing ",0.995821143272124,0.146259985475672,"ambig_greedy",0.043,0.043
+"523210","Securities and Commodity Exchanges","523210","Securities and Commodity Exchanges",NA,NA,"unambig",0.043,0.043
+"523910","Miscellaneous Intermediation ","523910","Miscellaneous Intermediation ",NA,NA,"unambig",0.066,0.066
+"523940","Portfolio Management and Investment Advice ","523920","Portfolio Management ",0.99593946105574,0.174603174603175,"ambig_greedy",0.066,0.066
+"523991","Trust, Fiduciary, and Custody Activities ","523991","Trust, Fiduciary, and Custody Activities ",NA,NA,"unambig",0.066,0.066
+"523999","Miscellaneous Financial Investment Activities ","523999","Miscellaneous Financial Investment Activities ",NA,NA,"unambig",0.066,0.066
+"524113","Direct Life Insurance Carriers ","524113","Direct Life Insurance Carriers ",NA,NA,"unambig",0.051,0.051
+"524114","Direct Health and Medical Insurance Carriers ","524114","Direct Health and Medical Insurance Carriers ",NA,NA,"unambig",0.033,0.033
+"524126","Direct Property and Casualty Insurance Carriers ","524126","Direct Property and Casualty Insurance Carriers ",NA,NA,"unambig",0.033,0.033
+"524127","Direct Title Insurance Carriers ","524127","Direct Title Insurance Carriers ",NA,NA,"unambig",0.033,0.033
+"524128","Other Direct Insurance (except Life, Health, and Medical) Carriers ","524128","Other Direct Insurance (except Life, Health, and Medical) Carriers ",NA,NA,"unambig",0.033,0.033
+"524130","Reinsurance Carriers ","524130","Reinsurance Carriers ",NA,NA,"unambig",0.033,0.033
+"524210","Insurance Agencies and Brokerages ","524210","Insurance Agencies and Brokerages ",NA,NA,"unambig",0.029,0.029
+"524291","Claims Adjusting ","524291","Claims Adjusting ",NA,NA,"unambig",0.029,0.029
+"524292","Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds ","524292","Third Party Administration of Insurance and Pension Funds ",NA,NA,"unambig",0.029,0.029
+"524298","All Other Insurance Related Activities ","524298","All Other Insurance Related Activities ",NA,NA,"unambig",0.029,0.029
+"525110","Pension Funds ","525110","Pension Funds ",NA,NA,"unambig",0.218,0.218
+"525120","Health and Welfare Funds ","525120","Health and Welfare Funds ",NA,NA,"unambig",0.218,0.218
+"525190","Other Insurance Funds ","525190","Other Insurance Funds ",NA,NA,"unambig",0.218,0.218
+"525910","Open-End Investment Funds ","525910","Open-End Investment Funds ",NA,NA,"unambig",0.218,0.218
+"525920","Trusts, Estates, and Agency Accounts ","525920","Trusts, Estates, and Agency Accounts ",NA,NA,"unambig",0.218,0.218
+"525990","Other Financial Vehicles ","525990","Other Financial Vehicles ",NA,NA,"unambig",0.218,0.218
+"531110","Lessors of Residential Buildings and Dwellings ","531110","Lessors of Residential Buildings and Dwellings ",NA,NA,"unambig",0.033,0.033
+"531120","Lessors of Nonresidential Buildings (except Miniwarehouses) ","531120","Lessors of Nonresidential Buildings (except Miniwarehouses) ",NA,NA,"unambig",0.246,0.246
+"531130","Lessors of Miniwarehouses and Self-Storage Units ","531130","Lessors of Miniwarehouses and Self-Storage Units ",NA,NA,"unambig",0.246,0.246
+"531190","Lessors of Other Real Estate Property ","531190","Lessors of Other Real Estate Property ",NA,NA,"unambig",0.246,0.246
+"531210","Offices of Real Estate Agents and Brokers","531210","Offices of Real Estate Agents and Brokers",NA,NA,"unambig",0.246,0.246
+"531311","Residential Property Managers ","531311","Residential Property Managers ",NA,NA,"unambig",0.246,0.246
+"531312","Nonresidential Property Managers ","531312","Nonresidential Property Managers ",NA,NA,"unambig",0.246,0.246
+"531320","Offices of Real Estate Appraisers ","531320","Offices of Real Estate Appraisers ",NA,NA,"unambig",0.246,0.246
+"531390","Other Activities Related to Real Estate ","531390","Other Activities Related to Real Estate ",NA,NA,"unambig",0.246,0.246
+"532111","Passenger Car Rental ","532111","Passenger Car Rental ",NA,NA,"unambig",0.11,0.11
+"532112","Passenger Car Leasing ","532112","Passenger Car Leasing ",NA,NA,"unambig",0.11,0.11
+"532120","Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing ","532120","Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing ",NA,NA,"unambig",0.11,0.11
+"532210","Consumer Electronics and Appliances Rental","532210","Consumer Electronics and Appliances Rental",NA,NA,"unambig",0.102,0.102
+"532281","Formal Wear and Costume Rental","532281","Formal Wear and Costume Rental",NA,NA,"unambig",0.102,0.102
+"532282","Video Tape and Disc Rental","532282","Video Tape and Disc Rental",NA,NA,"unambig",0.102,0.102
+"532283","Home Health Equipment Rental ","532283","Home Health Equipment Rental ",NA,NA,"unambig",0.102,0.102
+"532284","Recreational Goods Rental ","532284","Recreational Goods Rental ",NA,NA,"unambig",0.102,0.102
+"532289","All Other Consumer Goods Rental ","532289","All Other Consumer Goods Rental ",NA,NA,"unambig",0.102,0.102
+"532310","General Rental Centers","532310","General Rental Centers",NA,NA,"unambig",0.102,0.102
+"532411","Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing ","532411","Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing ",NA,NA,"unambig",0.106,0.106
+"532412","Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing ","532412","Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing ",NA,NA,"unambig",0.106,0.106
+"532420","Office Machinery and Equipment Rental and Leasing","532420","Office Machinery and Equipment Rental and Leasing",NA,NA,"unambig",0.106,0.106
+"532490","Other Commercial and Industrial Machinery and Equipment Rental and Leasing ","532490","Other Commercial and Industrial Machinery and Equipment Rental and Leasing ",NA,NA,"unambig",0.106,0.106
+"533110","Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)","533110","Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)",NA,NA,"unambig",0.052,0.052
+"541110","Offices of Lawyers","541110","Offices of Lawyers",NA,NA,"unambig",0.041,0.041
+"541120","Offices of Notaries","541120","Offices of Notaries",NA,NA,"unambig",0.041,0.041
+"541191","Title Abstract and Settlement Offices ","541191","Title Abstract and Settlement Offices ",NA,NA,"unambig",0.041,0.041
+"541199","All Other Legal Services ","541199","All Other Legal Services ",NA,NA,"unambig",0.041,0.041
+"541211","Offices of Certified Public Accountants ","541211","Offices of Certified Public Accountants ",NA,NA,"unambig",0.054,0.054
+"541213","Tax Preparation Services ","541213","Tax Preparation Services ",NA,NA,"unambig",0.054,0.054
+"541214","Payroll Services ","541214","Payroll Services ",NA,NA,"unambig",0.054,0.054
+"541219","Other Accounting Services ","541219","Other Accounting Services ",NA,NA,"unambig",0.054,0.054
+"541310","Architectural Services","541310","Architectural Services",NA,NA,"unambig",0.103,0.103
+"541320","Landscape Architectural Services","541320","Landscape Architectural Services",NA,NA,"unambig",0.103,0.103
+"541330","Engineering Services","541330","Engineering Services",NA,NA,"unambig",0.103,0.103
+"541340","Drafting Services","541340","Drafting Services",NA,NA,"unambig",0.103,0.103
+"541350","Building Inspection Services","541350","Building Inspection Services",NA,NA,"unambig",0.103,0.103
+"541360","Geophysical Surveying and Mapping Services","541360","Geophysical Surveying and Mapping Services",NA,NA,"unambig",0.103,0.103
+"541370","Surveying and Mapping (except Geophysical) Services","541370","Surveying and Mapping (except Geophysical) Services",NA,NA,"unambig",0.103,0.103
+"541380","Testing Laboratories and Services","541380","Testing Laboratories",NA,NA,"unambig",0.103,0.103
+"541410","Interior Design Services","541410","Interior Design Services",NA,NA,"unambig",0.094,0.094
+"541420","Industrial Design Services","541420","Industrial Design Services",NA,NA,"unambig",0.094,0.094
+"541430","Graphic Design Services","541430","Graphic Design Services",NA,NA,"unambig",0.094,0.094
+"541490","Other Specialized Design Services","541490","Other Specialized Design Services",NA,NA,"unambig",0.094,0.094
+"541511","Custom Computer Programming Services ","541511","Custom Computer Programming Services ",NA,NA,"unambig",0.084,0.084
+"541512","Computer Systems Design Services ","541512","Computer Systems Design Services ",NA,NA,"unambig",0.089,0.089
+"541513","Computer Facilities Management Services ","541513","Computer Facilities Management Services ",NA,NA,"unambig",0.08,0.08
+"541519","Other Computer Related Services","541519","Other Computer Related Services",NA,NA,"unambig",0.08,0.08
+"541611","Administrative Management and General Management Consulting Services ","541611","Administrative Management and General Management Consulting Services ",NA,NA,"unambig",0.078,0.078
+"541612","Human Resources Consulting Services ","541612","Human Resources Consulting Services ",NA,NA,"unambig",0.078,0.078
+"541613","Marketing Consulting Services ","541613","Marketing Consulting Services ",NA,NA,"unambig",0.078,0.078
+"541614","Process, Physical Distribution, and Logistics Consulting Services ","541614","Process, Physical Distribution, and Logistics Consulting Services ",NA,NA,"unambig",0.078,0.078
+"541618","Other Management Consulting Services ","541618","Other Management Consulting Services ",NA,NA,"unambig",0.078,0.078
+"541620","Environmental Consulting Services","541620","Environmental Consulting Services",NA,NA,"unambig",0.09,0.09
+"541690","Other Scientific and Technical Consulting Services","541690","Other Scientific and Technical Consulting Services",NA,NA,"unambig",0.09,0.09
+"541713","Research and Development in Nanotechnology ","541713","Research and Development in Nanotechnology",NA,NA,"unambig",0.156,0.156
+"541714","Research and Development in Biotechnology (except Nanobiotechnology)","541714","Research and Development in Biotechnology (except Nanobiotechnology)",NA,NA,"unambig",0.156,0.156
+"541715","Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) ","541715","Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",NA,NA,"unambig",0.156,0.156
+"541720","Research and Development in the Social Sciences and Humanities ","541720","Research and Development in the Social Sciences and Humanities ",NA,NA,"unambig",0.156,0.156
+"541810","Advertising Agencies","541810","Advertising Agencies",NA,NA,"unambig",0.085,0.085
+"541820","Public Relations Agencies","541820","Public Relations Agencies",NA,NA,"unambig",0.085,0.085
+"541830","Media Buying Agencies","541830","Media Buying Agencies",NA,NA,"unambig",0.085,0.085
+"541840","Media Representatives","541840","Media Representatives",NA,NA,"unambig",0.085,0.085
+"541850","Indoor and Outdoor Display Advertising","541850","Outdoor Advertising",NA,NA,"unambig",0.085,0.085
+"541860","Direct Mail Advertising","541860","Direct Mail Advertising",NA,NA,"unambig",0.085,0.085
+"541870","Advertising Material Distribution Services","541870","Advertising Material Distribution Services",NA,NA,"unambig",0.085,0.085
+"541890","Other Services Related to Advertising ","541890","Other Services Related to Advertising ",NA,NA,"unambig",0.085,0.085
+"541910","Marketing Research and Public Opinion Polling","541910","Marketing Research and Public Opinion Polling",NA,NA,"unambig",0.08,0.08
+"541921","Photography Studios, Portrait ","541921","Photography Studios, Portrait ",NA,NA,"unambig",0.125,0.125
+"541922","Commercial Photography ","541922","Commercial Photography ",NA,NA,"unambig",0.125,0.125
+"541930","Translation and Interpretation Services","541930","Translation and Interpretation Services",NA,NA,"unambig",0.08,0.08
+"541940","Veterinary Services ","541940","Veterinary Services ",NA,NA,"unambig",0.127,0.127
+"541990","All Other Professional, Scientific, and Technical Services","541990","All Other Professional, Scientific, and Technical Services",NA,NA,"unambig",0.08,0.08
+"551111","Offices of Bank Holding Companies ","551111","Offices of Bank Holding Companies ",NA,NA,"unambig",0.084,0.084
+"551112","Offices of Other Holding Companies ","551112","Offices of Other Holding Companies ",NA,NA,"unambig",0.084,0.084
+"551114","Corporate, Subsidiary, and Regional Managing Offices ","551114","Corporate, Subsidiary, and Regional Managing Offices ",NA,NA,"unambig",0.084,0.084
+"561110","Office Administrative Services","561110","Office Administrative Services",NA,NA,"unambig",0.1,0.1
+"561210","Facilities Support Services","561210","Facilities Support Services",NA,NA,"unambig",0.199,0.199
+"561311","Employment Placement Agencies ","561311","Employment Placement Agencies ",NA,NA,"unambig",0.051,0.051
+"561312","Executive Search Services ","561312","Executive Search Services ",NA,NA,"unambig",0.051,0.051
+"561320","Temporary Help Services","561320","Temporary Help Services",NA,NA,"unambig",0.051,0.051
+"561330","Professional Employer Organizations","561330","Professional Employer Organizations",NA,NA,"unambig",0.051,0.051
+"561410","Document Preparation Services","561410","Document Preparation Services",NA,NA,"unambig",0.111,0.111
+"561421","Telephone Answering Services ","561421","Telephone Answering Services ",NA,NA,"unambig",0.111,0.111
+"561422","Telemarketing Bureaus and Other Contact Centers ","561422","Telemarketing Bureaus and Other Contact Centers ",NA,NA,"unambig",0.111,0.111
+"561431","Private Mail Centers ","561431","Private Mail Centers ",NA,NA,"unambig",0.111,0.111
+"561439","Other Business Service Centers (including Copy Shops) ","561439","Other Business Service Centers (including Copy Shops) ",NA,NA,"unambig",0.111,0.111
+"561440","Collection Agencies","561440","Collection Agencies",NA,NA,"unambig",0.111,0.111
+"561450","Credit Bureaus","561450","Credit Bureaus",NA,NA,"unambig",0.111,0.111
+"561491","Repossession Services ","561491","Repossession Services ",NA,NA,"unambig",0.111,0.111
+"561492","Court Reporting and Stenotype Services ","561492","Court Reporting and Stenotype Services ",NA,NA,"unambig",0.111,0.111
+"561499","All Other Business Support Services ","561499","All Other Business Support Services ",NA,NA,"unambig",0.111,0.111
+"561510","Travel Agencies","561510","Travel Agencies",NA,NA,"unambig",0.088,0.088
+"561520","Tour Operators","561520","Tour Operators",NA,NA,"unambig",0.088,0.088
+"561591","Convention and Visitors Bureaus ","561591","Convention and Visitors Bureaus ",NA,NA,"unambig",0.088,0.088
+"561599","All Other Travel Arrangement and Reservation Services ","561599","All Other Travel Arrangement and Reservation Services ",NA,NA,"unambig",0.088,0.088
+"561611","Investigation and Personal Background Check Services ","561611","Investigation Services ",NA,NA,"unambig",0.074,0.074
+"561612","Security Guards and Patrol Services ","561612","Security Guards and Patrol Services ",NA,NA,"unambig",0.074,0.074
+"561613","Armored Car Services ","561613","Armored Car Services ",NA,NA,"unambig",0.074,0.074
+"561621","Security Systems Services (except Locksmiths) ","561621","Security Systems Services (except Locksmiths) ",NA,NA,"unambig",0.074,0.074
+"561622","Locksmiths ","561622","Locksmiths ",NA,NA,"unambig",0.074,0.074
+"561710","Exterminating and Pest Control Services","561710","Exterminating and Pest Control Services",NA,NA,"unambig",0.214,0.214
+"561720","Janitorial Services ","561720","Janitorial Services ",NA,NA,"unambig",0.214,0.214
+"561730","Landscaping Services","561730","Landscaping Services",NA,NA,"unambig",0.214,0.214
+"561740","Carpet and Upholstery Cleaning Services","561740","Carpet and Upholstery Cleaning Services",NA,NA,"unambig",0.214,0.214
+"561790","Other Services to Buildings and Dwellings ","561790","Other Services to Buildings and Dwellings ",NA,NA,"unambig",0.214,0.214
+"561910","Packaging and Labeling Services","561910","Packaging and Labeling Services",NA,NA,"unambig",0.127,0.127
+"561920","Convention and Trade Show Organizers","561920","Convention and Trade Show Organizers",NA,NA,"unambig",0.127,0.127
+"561990","All Other Support Services","561990","All Other Support Services",NA,NA,"unambig",0.127,0.127
+"562111","Solid Waste Collection ","562111","Solid Waste Collection ",NA,NA,"unambig",0.988,0.988
+"562112","Hazardous Waste Collection ","562112","Hazardous Waste Collection ",NA,NA,"unambig",0.988,0.988
+"562119","Other Waste Collection ","562119","Other Waste Collection ",NA,NA,"unambig",0.988,0.988
+"562211","Hazardous Waste Treatment and Disposal ","562211","Hazardous Waste Treatment and Disposal ",NA,NA,"unambig",0.988,0.988
+"562212","Solid Waste Landfill ","562212","Solid Waste Landfill ",NA,NA,"unambig",0.988,0.988
+"562213","Solid Waste Combustors and Incinerators ","562213","Solid Waste Combustors and Incinerators ",NA,NA,"unambig",0.988,0.988
+"562219","Other Nonhazardous Waste Treatment and Disposal ","562219","Other Nonhazardous Waste Treatment and Disposal ",NA,NA,"unambig",0.988,0.988
+"562910","Remediation Services ","562910","Remediation Services ",NA,NA,"unambig",0.988,0.988
+"562920","Materials Recovery Facilities ","562920","Materials Recovery Facilities ",NA,NA,"unambig",0.988,0.988
+"562991","Septic Tank and Related Services ","562991","Septic Tank and Related Services ",NA,NA,"unambig",0.988,0.988
+"562998","All Other Miscellaneous Waste Management Services ","562998","All Other Miscellaneous Waste Management Services ",NA,NA,"unambig",0.988,0.988
+"611110","Elementary and Secondary Schools ","611110","Elementary and Secondary Schools ",NA,NA,"unambig",0.186,0.186
+"611210","Junior Colleges ","611210","Junior Colleges ",NA,NA,"unambig",0.14,0.14
+"611310","Colleges, Universities, and Professional Schools ","611310","Colleges, Universities, and Professional Schools ",NA,NA,"unambig",0.14,0.14
+"611410","Business and Secretarial Schools ","611410","Business and Secretarial Schools ",NA,NA,"unambig",0.108,0.108
+"611420","Computer Training ","611420","Computer Training ",NA,NA,"unambig",0.108,0.108
+"611430","Professional and Management Development Training ","611430","Professional and Management Development Training ",NA,NA,"unambig",0.108,0.108
+"611511","Cosmetology and Barber Schools ","611511","Cosmetology and Barber Schools ",NA,NA,"unambig",0.108,0.108
+"611512","Flight Training ","611512","Flight Training ",NA,NA,"unambig",0.108,0.108
+"611513","Apprenticeship Training ","611513","Apprenticeship Training ",NA,NA,"unambig",0.108,0.108
+"611519","Other Technical and Trade Schools ","611519","Other Technical and Trade Schools ",NA,NA,"unambig",0.108,0.108
+"611610","Fine Arts Schools ","611610","Fine Arts Schools ",NA,NA,"unambig",0.108,0.108
+"611620","Sports and Recreation Instruction ","611620","Sports and Recreation Instruction ",NA,NA,"unambig",0.108,0.108
+"611630","Language Schools ","611630","Language Schools ",NA,NA,"unambig",0.108,0.108
+"611691","Exam Preparation and Tutoring ","611691","Exam Preparation and Tutoring ",NA,NA,"unambig",0.108,0.108
+"611692","Automobile Driving Schools ","611692","Automobile Driving Schools ",NA,NA,"unambig",0.108,0.108
+"611699","All Other Miscellaneous Schools and Instruction ","611699","All Other Miscellaneous Schools and Instruction ",NA,NA,"unambig",0.108,0.108
+"611710","Educational Support Services","611710","Educational Support Services",NA,NA,"unambig",0.108,0.108
+"621111","Offices of Physicians (except Mental Health Specialists) ","621111","Offices of Physicians (except Mental Health Specialists) ",NA,NA,"unambig",0.083,0.083
+"621112","Offices of Physicians, Mental Health Specialists ","621112","Offices of Physicians, Mental Health Specialists ",NA,NA,"unambig",0.083,0.083
+"621210","Offices of Dentists ","621210","Offices of Dentists ",NA,NA,"unambig",0.056,0.056
+"621310","Offices of Chiropractors ","621310","Offices of Chiropractors ",NA,NA,"unambig",0.105,0.105
+"621320","Offices of Optometrists","621320","Offices of Optometrists",NA,NA,"unambig",0.105,0.105
+"621330","Offices of Mental Health Practitioners (except Physicians) ","621330","Offices of Mental Health Practitioners (except Physicians) ",NA,NA,"unambig",0.105,0.105
+"621340","Offices of Physical, Occupational and Speech Therapists, and Audiologists ","621340","Offices of Physical, Occupational and Speech Therapists, and Audiologists ",NA,NA,"unambig",0.105,0.105
+"621391","Offices of Podiatrists ","621391","Offices of Podiatrists ",NA,NA,"unambig",0.105,0.105
+"621399","Offices of All Other Miscellaneous Health Practitioners ","621399","Offices of All Other Miscellaneous Health Practitioners ",NA,NA,"unambig",0.105,0.105
+"621410","Family Planning Centers ","621410","Family Planning Centers ",NA,NA,"unambig",0.096,0.096
+"621420","Outpatient Mental Health and Substance Abuse Centers ","621420","Outpatient Mental Health and Substance Abuse Centers ",NA,NA,"unambig",0.096,0.096
+"621491","HMO Medical Centers ","621491","HMO Medical Centers ",NA,NA,"unambig",0.096,0.096
+"621492","Kidney Dialysis Centers ","621492","Kidney Dialysis Centers ",NA,NA,"unambig",0.096,0.096
+"621493","Freestanding Ambulatory Surgical and Emergency Centers ","621493","Freestanding Ambulatory Surgical and Emergency Centers ",NA,NA,"unambig",0.096,0.096
+"621498","All Other Outpatient Care Centers ","621498","All Other Outpatient Care Centers ",NA,NA,"unambig",0.096,0.096
+"621511","Medical Laboratories ","621511","Medical Laboratories ",NA,NA,"unambig",0.092,0.092
+"621512","Diagnostic Imaging Centers ","621512","Diagnostic Imaging Centers ",NA,NA,"unambig",0.092,0.092
+"621610","Home Health Care Services","621610","Home Health Care Services",NA,NA,"unambig",0.104,0.104
+"621910","Ambulance Services ","621910","Ambulance Services ",NA,NA,"unambig",0.18,0.18
+"621991","Blood and Organ Banks ","621991","Blood and Organ Banks ",NA,NA,"unambig",0.18,0.18
+"621999","All Other Miscellaneous Ambulatory Health Care Services ","621999","All Other Miscellaneous Ambulatory Health Care Services ",NA,NA,"unambig",0.18,0.18
+"622110","General Medical and Surgical Hospitals ","622110","General Medical and Surgical Hospitals ",NA,NA,"unambig",0.145,0.145
+"622210","Psychiatric and Substance Abuse Hospitals ","622210","Psychiatric and Substance Abuse Hospitals ",NA,NA,"unambig",0.145,0.145
+"622310","Specialty (except Psychiatric and Substance Abuse) Hospitals ","622310","Specialty (except Psychiatric and Substance Abuse) Hospitals ",NA,NA,"unambig",0.145,0.145
+"623110","Nursing Care Facilities (Skilled Nursing Facilities) ","623110","Nursing Care Facilities (Skilled Nursing Facilities) ",NA,NA,"unambig",0.159,0.159
+"623210","Residential Intellectual and Developmental Disability Facilities ","623210","Residential Intellectual and Developmental Disability Facilities ",NA,NA,"unambig",0.129,0.129
+"623220","Residential Mental Health and Substance Abuse Facilities ","623220","Residential Mental Health and Substance Abuse Facilities ",NA,NA,"unambig",0.129,0.129
+"623311","Continuing Care Retirement Communities ","623311","Continuing Care Retirement Communities ",NA,NA,"unambig",0.159,0.159
+"623312","Assisted Living Facilities for the Elderly ","623312","Assisted Living Facilities for the Elderly ",NA,NA,"unambig",0.159,0.159
+"623990","Other Residential Care Facilities ","623990","Other Residential Care Facilities ",NA,NA,"unambig",0.129,0.129
+"624110","Child and Youth Services ","624110","Child and Youth Services ",NA,NA,"unambig",0.118,0.118
+"624120","Services for the Elderly and Persons with Disabilities ","624120","Services for the Elderly and Persons with Disabilities ",NA,NA,"unambig",0.118,0.118
+"624190","Other Individual and Family Services ","624190","Other Individual and Family Services ",NA,NA,"unambig",0.118,0.118
+"624210","Community Food Services ","624210","Community Food Services ",NA,NA,"unambig",0.217,0.217
+"624221","Temporary Shelters ","624221","Temporary Shelters ",NA,NA,"unambig",0.217,0.217
+"624229","Other Community Housing Services ","624229","Other Community Housing Services ",NA,NA,"unambig",0.217,0.217
+"624230","Emergency and Other Relief Services ","624230","Emergency and Other Relief Services ",NA,NA,"unambig",0.217,0.217
+"624310","Vocational Rehabilitation Services ","624310","Vocational Rehabilitation Services ",NA,NA,"unambig",0.217,0.217
+"624410","Child Care Services ","624410","Child Day Care Services ",NA,NA,"unambig",0.215,0.215
+"711110","Theater Companies and Dinner Theaters ","711110","Theater Companies and Dinner Theaters ",NA,NA,"unambig",0.086,0.086
+"711120","Dance Companies ","711120","Dance Companies ",NA,NA,"unambig",0.086,0.086
+"711130","Musical Groups and Artists ","711130","Musical Groups and Artists ",NA,NA,"unambig",0.086,0.086
+"711190","Other Performing Arts Companies ","711190","Other Performing Arts Companies ",NA,NA,"unambig",0.086,0.086
+"711211","Sports Teams and Clubs ","711211","Sports Teams and Clubs ",NA,NA,"unambig",0.067,0.067
+"711212","Racetracks ","711212","Racetracks ",NA,NA,"unambig",0.067,0.067
+"711219","Other Spectator Sports ","711219","Other Spectator Sports ",NA,NA,"unambig",0.067,0.067
+"711310","Promoters of Performing Arts, Sports, and Similar Events with Facilities ","711310","Promoters of Performing Arts, Sports, and Similar Events with Facilities ",NA,NA,"unambig",0.093,0.093
+"711320","Promoters of Performing Arts, Sports, and Similar Events without Facilities ","711320","Promoters of Performing Arts, Sports, and Similar Events without Facilities ",NA,NA,"unambig",0.093,0.093
+"711410","Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures","711410","Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",NA,NA,"unambig",0.093,0.093
+"711510","Independent Artists, Writers, and Performers ","711510","Independent Artists, Writers, and Performers ",NA,NA,"unambig",0.033,0.033
+"712110","Museums ","712110","Museums ",NA,NA,"unambig",0.136,0.136
+"712120","Historical Sites","712120","Historical Sites",NA,NA,"unambig",0.136,0.136
+"712130","Zoos and Botanical Gardens ","712130","Zoos and Botanical Gardens ",NA,NA,"unambig",0.136,0.136
+"712190","Nature Parks and Other Similar Institutions","712190","Nature Parks and Other Similar Institutions",NA,NA,"unambig",0.136,0.136
+"713110","Amusement and Theme Parks ","713110","Amusement and Theme Parks ",NA,NA,"unambig",0.167,0.167
+"713120","Amusement Arcades","713120","Amusement Arcades",NA,NA,"unambig",0.167,0.167
+"713210","Casinos (except Casino Hotels)","713210","Casinos (except Casino Hotels)",NA,NA,"unambig",0.174,0.174
+"713290","Other Gambling Industries ","713290","Other Gambling Industries ",NA,NA,"unambig",0.174,0.174
+"713910","Golf Courses and Country Clubs","713910","Golf Courses and Country Clubs",NA,NA,"unambig",0.235,0.235
+"713920","Skiing Facilities","713920","Skiing Facilities",NA,NA,"unambig",0.235,0.235
+"713930","Marinas","713930","Marinas",NA,NA,"unambig",0.235,0.235
+"713940","Fitness and Recreational Sports Centers ","713940","Fitness and Recreational Sports Centers ",NA,NA,"unambig",0.235,0.235
+"713950","Bowling Centers","713950","Bowling Centers",NA,NA,"unambig",0.235,0.235
+"713990","All Other Amusement and Recreation Industries ","713990","All Other Amusement and Recreation Industries ",NA,NA,"unambig",0.235,0.235
+"721110","Hotels (except Casino Hotels) and Motels ","721110","Hotels (except Casino Hotels) and Motels ",NA,NA,"unambig",0.145,0.145
+"721120","Casino Hotels","721120","Casino Hotels",NA,NA,"unambig",0.145,0.145
+"721191","Bed-and-Breakfast Inns ","721191","Bed-and-Breakfast Inns ",NA,NA,"unambig",0.145,0.145
+"721199","All Other Traveler Accommodation ","721199","All Other Traveler Accommodation ",NA,NA,"unambig",0.145,0.145
+"721211","RV (Recreational Vehicle) Parks and Campgrounds ","721211","RV (Recreational Vehicle) Parks and Campgrounds ",NA,NA,"unambig",0.145,0.145
+"721214","Recreational and Vacation Camps (except Campgrounds) ","721214","Recreational and Vacation Camps (except Campgrounds) ",NA,NA,"unambig",0.145,0.145
+"721310","Rooming and Boarding Houses, Dormitories, and Workers' Camps ","721310","Rooming and Boarding Houses ",NA,NA,"unambig",0.145,0.145
+"722310","Food Service Contractors","722310","Food Service Contractors",NA,NA,"unambig",0.132,0.132
+"722320","Caterers","722320","Caterers",NA,NA,"unambig",0.132,0.132
+"722330","Mobile Food Services","722330","Mobile Food Services",NA,NA,"unambig",0.132,0.132
+"722410","Drinking Places (Alcoholic Beverages) ","722410","Drinking Places (Alcoholic Beverages) ",NA,NA,"unambig",0.132,0.132
+"722511","Full-Service Restaurants ","722511","Full-Service Restaurants ",NA,NA,"unambig",0.194,0.194
+"722513","Limited-Service Restaurants ","722513","Limited-Service Restaurants ",NA,NA,"unambig",0.255,0.255
+"722514","Cafeterias, Grill Buffets, and Buffets ","722514","Cafeterias, Grill Buffets, and Buffets ",NA,NA,"unambig",0.132,0.132
+"722515","Snack and Nonalcoholic Beverage Bars ","722515","Snack and Nonalcoholic Beverage Bars ",NA,NA,"unambig",0.132,0.132
+"811111","General Automotive Repair ","811111","General Automotive Repair ",NA,NA,"unambig",0.103,0.103
+"811114","Specialized Automotive Repair ","811118","Other Automotive Mechanical and Electrical Repair and Maintenance ",0.994019103501862,0.3947391688771,"ambig_greedy",0.103,0.103
+"811121","Automotive Body, Paint, and Interior Repair and Maintenance ","811121","Automotive Body, Paint, and Interior Repair and Maintenance ",NA,NA,"unambig",0.103,0.103
+"811122","Automotive Glass Replacement Shops ","811122","Automotive Glass Replacement Shops ",NA,NA,"unambig",0.103,0.103
+"811191","Automotive Oil Change and Lubrication Shops ","811191","Automotive Oil Change and Lubrication Shops ",NA,NA,"unambig",0.103,0.103
+"811192","Car Washes ","811192","Car Washes ",NA,NA,"unambig",0.103,0.103
+"811198","All Other Automotive Repair and Maintenance ","811198","All Other Automotive Repair and Maintenance ",NA,NA,"unambig",0.103,0.103
+"811210","Electronic and Precision Equipment Repair and Maintenance ","811219","Other Electronic and Precision Equipment Repair and Maintenance ",0.99703686299081,0.189640768588137,"ambig_greedy",0.076,0.076
+"811310","Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ","811310","Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ",NA,NA,"unambig",0.136,0.136
+"811411","Home and Garden Equipment Repair and Maintenance ","811411","Home and Garden Equipment Repair and Maintenance ",NA,NA,"unambig",0.113,0.113
+"811412","Appliance Repair and Maintenance ","811412","Appliance Repair and Maintenance ",NA,NA,"unambig",0.113,0.113
+"811420","Reupholstery and Furniture Repair","811420","Reupholstery and Furniture Repair",NA,NA,"unambig",0.113,0.113
+"811430","Footwear and Leather Goods Repair","811430","Footwear and Leather Goods Repair",NA,NA,"unambig",0.113,0.113
+"811490","Other Personal and Household Goods Repair and Maintenance ","811490","Other Personal and Household Goods Repair and Maintenance ",NA,NA,"unambig",0.113,0.113
+"812111","Barber Shops ","812111","Barber Shops ",NA,NA,"unambig",0.125,0.125
+"812112","Beauty Salons ","812112","Beauty Salons ",NA,NA,"unambig",0.125,0.125
+"812113","Nail Salons ","812113","Nail Salons ",NA,NA,"unambig",0.125,0.125
+"812191","Diet and Weight Reducing Centers ","812191","Diet and Weight Reducing Centers ",NA,NA,"unambig",0.125,0.125
+"812199","Other Personal Care Services ","812199","Other Personal Care Services ",NA,NA,"unambig",0.125,0.125
+"812210","Funeral Homes and Funeral Services ","812210","Funeral Homes and Funeral Services ",NA,NA,"unambig",0.047,0.047
+"812220","Cemeteries and Crematories ","812220","Cemeteries and Crematories ",NA,NA,"unambig",0.047,0.047
+"812310","Coin-Operated Laundries and Drycleaners ","812310","Coin-Operated Laundries and Drycleaners ",NA,NA,"unambig",0.158,0.158
+"812320","Drycleaning and Laundry Services (except Coin-Operated) ","812320","Drycleaning and Laundry Services (except Coin-Operated) ",NA,NA,"unambig",0.158,0.158
+"812331","Linen Supply ","812331","Linen Supply ",NA,NA,"unambig",0.158,0.158
+"812332","Industrial Launderers ","812332","Industrial Launderers ",NA,NA,"unambig",0.158,0.158
+"812910","Pet Care (except Veterinary) Services ","812910","Pet Care (except Veterinary) Services ",NA,NA,"unambig",0.111,0.111
+"812921","Photofinishing Laboratories (except One-Hour) ","812921","Photofinishing Laboratories (except One-Hour) ",NA,NA,"unambig",0.111,0.111
+"812922","One-Hour Photofinishing ","812922","One-Hour Photofinishing ",NA,NA,"unambig",0.111,0.111
+"812930","Parking Lots and Garages ","812930","Parking Lots and Garages ",NA,NA,"unambig",0.111,0.111
+"812990","All Other Personal Services ","812990","All Other Personal Services ",NA,NA,"unambig",0.111,0.111
+"813110","Religious Organizations ","813110","Religious Organizations ",NA,NA,"unambig",0.076,0.076
+"813211","Grantmaking Foundations ","813211","Grantmaking Foundations ",NA,NA,"unambig",0.059,0.059
+"813212","Voluntary Health Organizations ","813212","Voluntary Health Organizations ",NA,NA,"unambig",0.059,0.059
+"813219","Other Grantmaking and Giving Services ","813219","Other Grantmaking and Giving Services ",NA,NA,"unambig",0.059,0.059
+"813311","Human Rights Organizations ","813311","Human Rights Organizations ",NA,NA,"unambig",0.059,0.059
+"813312","Environment, Conservation and Wildlife Organizations ","813312","Environment, Conservation and Wildlife Organizations ",NA,NA,"unambig",0.059,0.059
+"813319","Other Social Advocacy Organizations ","813319","Other Social Advocacy Organizations ",NA,NA,"unambig",0.059,0.059
+"813410","Civic and Social Organizations ","813410","Civic and Social Organizations ",NA,NA,"unambig",0.128,0.128
+"813910","Business Associations ","813910","Business Associations ",NA,NA,"unambig",0.128,0.128
+"813920","Professional Organizations ","813920","Professional Organizations ",NA,NA,"unambig",0.128,0.128
+"813930","Labor Unions and Similar Labor Organizations ","813930","Labor Unions and Similar Labor Organizations ",NA,NA,"unambig",0.128,0.128
+"813940","Political Organizations ","813940","Political Organizations ",NA,NA,"unambig",0.128,0.128
+"813990","Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ","813990","Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ",NA,NA,"unambig",0.128,0.128
+"814110","Private Households","814110","Private Households",NA,NA,"unambig",NA,NA
+"921110","Executive Offices ","921110","Executive Offices ",NA,NA,"unambig",NA,NA
+"921120","Legislative Bodies ","921120","Legislative Bodies ",NA,NA,"unambig",NA,NA
+"921130","Public Finance Activities ","921130","Public Finance Activities ",NA,NA,"unambig",NA,NA
+"921140","Executive and Legislative Offices, Combined ","921140","Executive and Legislative Offices, Combined ",NA,NA,"unambig",NA,NA
+"921150","American Indian and Alaska Native Tribal Governments ","921150","American Indian and Alaska Native Tribal Governments ",NA,NA,"unambig",NA,NA
+"921190","Other General Government Support ","921190","Other General Government Support ",NA,NA,"unambig",NA,NA
+"922110","Courts ","922110","Courts ",NA,NA,"unambig",NA,NA
+"922120","Police Protection ","922120","Police Protection ",NA,NA,"unambig",NA,NA
+"922130","Legal Counsel and Prosecution ","922130","Legal Counsel and Prosecution ",NA,NA,"unambig",NA,NA
+"922140","Correctional Institutions ","922140","Correctional Institutions ",NA,NA,"unambig",NA,NA
+"922150","Parole Offices and Probation Offices ","922150","Parole Offices and Probation Offices ",NA,NA,"unambig",NA,NA
+"922160","Fire Protection ","922160","Fire Protection ",NA,NA,"unambig",NA,NA
+"922190","Other Justice, Public Order, and Safety Activities ","922190","Other Justice, Public Order, and Safety Activities ",NA,NA,"unambig",NA,NA
+"923110","Administration of Education Programs ","923110","Administration of Education Programs ",NA,NA,"unambig",NA,NA
+"923120","Administration of Public Health Programs ","923120","Administration of Public Health Programs ",NA,NA,"unambig",NA,NA
+"923130","Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) ","923130","Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) ",NA,NA,"unambig",NA,NA
+"923140","Administration of Veterans' Affairs ","923140","Administration of Veterans' Affairs ",NA,NA,"unambig",NA,NA
+"924110","Administration of Air and Water Resource and Solid Waste Management Programs ","924110","Administration of Air and Water Resource and Solid Waste Management Programs ",NA,NA,"unambig",NA,NA
+"924120","Administration of Conservation Programs ","924120","Administration of Conservation Programs ",NA,NA,"unambig",NA,NA
+"925110","Administration of Housing Programs ","925110","Administration of Housing Programs ",NA,NA,"unambig",NA,NA
+"925120","Administration of Urban Planning and Community and Rural Development ","925120","Administration of Urban Planning and Community and Rural Development ",NA,NA,"unambig",NA,NA
+"926110","Administration of General Economic Programs ","926110","Administration of General Economic Programs ",NA,NA,"unambig",NA,NA
+"926120","Regulation and Administration of Transportation Programs ","926120","Regulation and Administration of Transportation Programs ",NA,NA,"unambig",NA,NA
+"926130","Regulation and Administration of Communications, Electric, Gas, and Other Utilities ","926130","Regulation and Administration of Communications, Electric, Gas, and Other Utilities ",NA,NA,"unambig",NA,NA
+"926140","Regulation of Agricultural Marketing and Commodities ","926140","Regulation of Agricultural Marketing and Commodities ",NA,NA,"unambig",NA,NA
+"926150","Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors ","926150","Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors ",NA,NA,"unambig",NA,NA
+"927110","Space Research and Technology ","927110","Space Research and Technology ",NA,NA,"unambig",NA,NA
+"928110","National Security ","928110","National Security ",NA,NA,"unambig",NA,NA
+"928120","International Affairs ","928120","International Affairs ",NA,NA,"unambig",NA,NA
+NA,"","",NA,NA,NA,"unambig",NA,NA
