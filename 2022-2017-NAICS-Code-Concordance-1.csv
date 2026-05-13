@@ -1,0 +1,2350 @@
+Input Seq,2022 NAICS Code,2022 NAICS Title,Change to 2017 Code,2017 NAICS Code,2017 NAICS Title
+1,111110,Soybean Farming,No Change,111110,Soybean Farming
+2,111120,Oilseed (except Soybean) Farming ,No Change,111120,Oilseed (except Soybean) Farming 
+3,111130,Dry Pea and Bean Farming ,No Change,111130,Dry Pea and Bean Farming 
+4,111140,Wheat Farming,No Change,111140,Wheat Farming
+5,111150,Corn Farming ,No Change,111150,Corn Farming 
+6,111160,Rice Farming,No Change,111160,Rice Farming
+7,111191,Oilseed and Grain Combination Farming ,No Change,111191,Oilseed and Grain Combination Farming 
+8,111199,All Other Grain Farming ,No Change,111199,All Other Grain Farming 
+9,111211,Potato Farming ,No Change,111211,Potato Farming 
+10,111219,Other Vegetable (except Potato) and Melon Farming ,No Change,111219,Other Vegetable (except Potato) and Melon Farming 
+11,111310,Orange Groves,No Change,111310,Orange Groves
+12,111320,Citrus (except Orange) Groves ,No Change,111320,Citrus (except Orange) Groves 
+13,111331,Apple Orchards ,No Change,111331,Apple Orchards 
+14,111332,Grape Vineyards ,No Change,111332,Grape Vineyards 
+15,111333,Strawberry Farming ,No Change,111333,Strawberry Farming 
+16,111334,Berry (except Strawberry) Farming ,No Change,111334,Berry (except Strawberry) Farming 
+17,111335,Tree Nut Farming ,No Change,111335,Tree Nut Farming 
+18,111336,Fruit and Tree Nut Combination Farming ,No Change,111336,Fruit and Tree Nut Combination Farming 
+19,111339,Other Noncitrus Fruit Farming ,No Change,111339,Other Noncitrus Fruit Farming 
+20,111411,Mushroom Production ,No Change,111411,Mushroom Production 
+21,111419,Other Food Crops Grown Under Cover ,No Change,111419,Other Food Crops Grown Under Cover 
+22,111421,Nursery and Tree Production ,No Change,111421,Nursery and Tree Production 
+23,111422,Floriculture Production ,No Change,111422,Floriculture Production 
+24,111910,Tobacco Farming,No Change,111910,Tobacco Farming
+25,111920,Cotton Farming,No Change,111920,Cotton Farming
+26,111930,Sugarcane Farming,No Change,111930,Sugarcane Farming
+27,111940,Hay Farming ,No Change,111940,Hay Farming 
+28,111991,Sugar Beet Farming ,No Change,111991,Sugar Beet Farming 
+29,111992,Peanut Farming ,No Change,111992,Peanut Farming 
+30,111998,All Other Miscellaneous Crop Farming ,No Change,111998,All Other Miscellaneous Crop Farming 
+31,112111,Beef Cattle Ranching and Farming ,No Change,112111,Beef Cattle Ranching and Farming 
+32,112112,Cattle Feedlots ,No Change,112112,Cattle Feedlots 
+33,112120,Dairy Cattle and Milk Production,No Change,112120,Dairy Cattle and Milk Production
+34,112130,Dual-Purpose Cattle Ranching and Farming ,No Change,112130,Dual-Purpose Cattle Ranching and Farming 
+35,112210,Hog and Pig Farming ,No Change,112210,Hog and Pig Farming 
+36,112310,Chicken Egg Production ,No Change,112310,Chicken Egg Production 
+37,112320,Broilers and Other Meat Type Chicken Production ,No Change,112320,Broilers and Other Meat Type Chicken Production 
+38,112330,Turkey Production,No Change,112330,Turkey Production
+39,112340,Poultry Hatcheries,No Change,112340,Poultry Hatcheries
+40,112390,Other Poultry Production ,No Change,112390,Other Poultry Production 
+41,112410,Sheep Farming,No Change,112410,Sheep Farming
+42,112420,Goat Farming,No Change,112420,Goat Farming
+43,112511,Finfish Farming and Fish Hatcheries ,No Change,112511,Finfish Farming and Fish Hatcheries 
+44,112512,Shellfish Farming ,No Change,112512,Shellfish Farming 
+45,112519,Other Aquaculture ,No Change,112519,Other Aquaculture 
+46,112910,Apiculture,No Change,112910,Apiculture
+47,112920,Horses and Other Equine Production,No Change,112920,Horses and Other Equine Production
+48,112930,Fur-Bearing Animal and Rabbit Production,No Change,112930,Fur-Bearing Animal and Rabbit Production
+49,112990,All Other Animal Production ,No Change,112990,All Other Animal Production 
+50,113110,Timber Tract Operations,No Change,113110,Timber Tract Operations
+51,113210,Forest Nurseries and Gathering of Forest Products ,No Change,113210,Forest Nurseries and Gathering of Forest Products 
+52,113310,Logging ,No Change,113310,Logging 
+53,114111,Finfish Fishing ,No Change,114111,Finfish Fishing 
+54,114112,Shellfish Fishing ,No Change,114112,Shellfish Fishing 
+55,114119,Other Marine Fishing ,No Change,114119,Other Marine Fishing 
+56,114210,Hunting and Trapping,No Change,114210,Hunting and Trapping
+57,115111,Cotton Ginning ,No Change,115111,Cotton Ginning 
+58,115112,"Soil Preparation, Planting, and Cultivating ",No Change,115112,"Soil Preparation, Planting, and Cultivating "
+59,115113,"Crop Harvesting, Primarily by Machine ",No Change,115113,"Crop Harvesting, Primarily by Machine "
+60,115114,Postharvest Crop Activities (except Cotton Ginning) ,No Change,115114,Postharvest Crop Activities (except Cotton Ginning) 
+61,115115,Farm Labor Contractors and Crew Leaders ,No Change,115115,Farm Labor Contractors and Crew Leaders 
+62,115116,Farm Management Services ,No Change,115116,Farm Management Services 
+63,115210,Support Activities for Animal Production,No Change,115210,Support Activities for Animal Production
+64,115310,Support Activities for Forestry,No Change,115310,Support Activities for Forestry
+65,211120,Crude Petroleum Extraction ,No Change,211120,Crude Petroleum Extraction 
+66,211130,Natural Gas Extraction ,No Change,211130,Natural Gas Extraction 
+67,212114,Surface Coal Mining ,New NAICS Code,212111,Bituminous Coal and Lignite Surface Mining 
+68,212114,Surface Coal Mining ,New NAICS Code,212113,Anthracite Mining 
+69,212115,Underground Coal Mining ,New NAICS Code,212112,Bituminous Coal Underground Mining 
+70,212115,Underground Coal Mining ,New NAICS Code,212113,Anthracite Mining 
+71,212210,Iron Ore Mining,No Change,212210,Iron Ore Mining
+72,212220,Gold Ore and Silver Ore Mining ,New NAICS Code,212221,Gold Ore Mining 
+73,212220,Gold Ore and Silver Ore Mining ,New NAICS Code,212222,Silver Ore Mining 
+74,212230,"Copper, Nickel, Lead, and Zinc Mining ",No Change,212230,"Copper, Nickel, Lead, and Zinc Mining"
+76,212290,Other Metal Ore Mining ,New NAICS Code,212291,Uranium-Radium-Vanadium Ore Mining 
+75,212290,Other Metal Ore Mining ,New NAICS Code,212299,All Other Metal Ore Mining 
+77,212311,Dimension Stone Mining and Quarrying ,No Change,212311,Dimension Stone Mining and Quarrying 
+78,212312,Crushed and Broken Limestone Mining and Quarrying ,No Change,212312,Crushed and Broken Limestone Mining and Quarrying 
+79,212313,Crushed and Broken Granite Mining and Quarrying ,No Change,212313,Crushed and Broken Granite Mining and Quarrying 
+80,212319,Other Crushed and Broken Stone Mining and Quarrying ,No Change,212319,Other Crushed and Broken Stone Mining and Quarrying 
+81,212321,Construction Sand and Gravel Mining ,No Change,212321,Construction Sand and Gravel Mining 
+82,212322,Industrial Sand Mining ,No Change,212322,Industrial Sand Mining 
+83,212323,"Kaolin, Clay, and Ceramic and Refractory Minerals Mining ",New NAICS Code,212324,Kaolin and Ball Clay Mining 
+84,212323,"Kaolin, Clay, and Ceramic and Refractory Minerals Mining ",New NAICS Code,212325,Clay and Ceramic and Refractory Minerals Mining 
+86,212390,Other Nonmetallic Mineral Mining and Quarrying ,New NAICS Code,212391,"Potash, Soda, and Borate Mineral Mining "
+87,212390,Other Nonmetallic Mineral Mining and Quarrying ,New NAICS Code,212392,Phosphate Rock Mining 
+88,212390,Other Nonmetallic Mineral Mining and Quarrying ,New NAICS Code,212393,Other Chemical and Fertilizer Mineral Mining 
+85,212390,Other Nonmetallic Mineral Mining and Quarrying ,New NAICS Code,212399,All Other Nonmetallic Mineral Mining 
+89,213111,Drilling Oil and Gas Wells,No Change,213111,Drilling Oil and Gas Wells
+90,213112,Support Activities for Oil and Gas Operations ,No Change,213112,Support Activities for Oil and Gas Operations 
+91,213113,Support Activities for Coal Mining ,No Change,213113,Support Activities for Coal Mining 
+92,213114,Support Activities for Metal Mining ,No Change,213114,Support Activities for Metal Mining 
+93,213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining ,No Change,213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining 
+94,221111,Hydroelectric Power Generation ,No Change,221111,Hydroelectric Power Generation 
+95,221112,Fossil Fuel Electric Power Generation ,No Change,221112,Fossil Fuel Electric Power Generation 
+96,221113,Nuclear Electric Power Generation ,No Change,221113,Nuclear Electric Power Generation 
+97,221114,Solar Electric Power Generation ,No Change,221114,Solar Electric Power Generation 
+98,221115,Wind Electric Power Generation ,No Change,221115,Wind Electric Power Generation 
+99,221116,Geothermal Electric Power Generation ,No Change,221116,Geothermal Electric Power Generation 
+100,221117,Biomass Electric Power Generation ,No Change,221117,Biomass Electric Power Generation 
+101,221118,Other Electric Power Generation ,No Change,221118,Other Electric Power Generation 
+102,221121,Electric Bulk Power Transmission and Control ,No Change,221121,Electric Bulk Power Transmission and Control 
+103,221122,Electric Power Distribution ,No Change,221122,Electric Power Distribution 
+104,221210,Natural Gas Distribution ,No Change,221210,Natural Gas Distribution 
+105,221310,Water Supply and Irrigation Systems ,No Change,221310,Water Supply and Irrigation Systems 
+106,221320,Sewage Treatment Facilities ,No Change,221320,Sewage Treatment Facilities 
+107,221330,Steam and Air-Conditioning Supply ,No Change,221330,Steam and Air-Conditioning Supply 
+108,236115,New Single-Family Housing Construction (except For-Sale Builders) ,No Change,236115,New Single-Family Housing Construction (except For-Sale Builders) 
+109,236116,New Multifamily Housing Construction (except For-Sale Builders) ,No Change,236116,New Multifamily Housing Construction (except For-Sale Builders) 
+110,236117,New Housing For-Sale Builders ,No Change,236117,New Housing For-Sale Builders 
+111,236118,Residential Remodelers ,No Change,236118,Residential Remodelers 
+112,236210,Industrial Building Construction ,No Change,236210,Industrial Building Construction 
+113,236220,Commercial and Institutional Building Construction ,No Change,236220,Commercial and Institutional Building Construction 
+114,237110,Water and Sewer Line and Related Structures Construction ,No Change,237110,Water and Sewer Line and Related Structures Construction 
+115,237120,Oil and Gas Pipeline and Related Structures Construction ,No Change,237120,Oil and Gas Pipeline and Related Structures Construction 
+116,237130,Power and Communication Line and Related Structures Construction ,No Change,237130,Power and Communication Line and Related Structures Construction 
+117,237210,Land Subdivision ,No Change,237210,Land Subdivision 
+118,237310,"Highway, Street, and Bridge Construction ",No Change,237310,"Highway, Street, and Bridge Construction "
+119,237990,Other Heavy and Civil Engineering Construction ,No Change,237990,Other Heavy and Civil Engineering Construction 
+120,238110,Poured Concrete Foundation and Structure Contractors ,No Change,238110,Poured Concrete Foundation and Structure Contractors 
+121,238120,Structural Steel and Precast Concrete Contractors ,No Change,238120,Structural Steel and Precast Concrete Contractors 
+122,238130,Framing Contractors ,No Change,238130,Framing Contractors 
+123,238140,Masonry Contractors ,No Change,238140,Masonry Contractors 
+124,238150,Glass and Glazing Contractors ,No Change,238150,Glass and Glazing Contractors 
+125,238160,Roofing Contractors ,No Change,238160,Roofing Contractors 
+126,238170,Siding Contractors ,No Change,238170,Siding Contractors 
+127,238190,"Other Foundation, Structure, and Building Exterior Contractors ",No Change,238190,"Other Foundation, Structure, and Building Exterior Contractors "
+128,238210,Electrical Contractors and Other Wiring Installation Contractors,No Change,238210,Electrical Contractors and Other Wiring Installation Contractors
+129,238220,"Plumbing, Heating, and Air-Conditioning Contractors ",No Change,238220,"Plumbing, Heating, and Air-Conditioning Contractors "
+130,238290,Other Building Equipment Contractors ,No Change,238290,Other Building Equipment Contractors 
+131,238310,Drywall and Insulation Contractors ,No Change,238310,Drywall and Insulation Contractors 
+132,238320,Painting and Wall Covering Contractors,No Change,238320,Painting and Wall Covering Contractors
+133,238330,Flooring Contractors,No Change,238330,Flooring Contractors
+134,238340,Tile and Terrazzo Contractors,No Change,238340,Tile and Terrazzo Contractors
+135,238350,Finish Carpentry Contractors,No Change,238350,Finish Carpentry Contractors
+136,238390,Other Building Finishing Contractors,No Change,238390,Other Building Finishing Contractors
+137,238910,Site Preparation Contractors,No Change,238910,Site Preparation Contractors
+138,238990,All Other Specialty Trade Contractors,No Change,238990,All Other Specialty Trade Contractors
+139,311111,Dog and Cat Food Manufacturing ,No Change,311111,Dog and Cat Food Manufacturing 
+140,311119,Other Animal Food Manufacturing ,No Change,311119,Other Animal Food Manufacturing 
+141,311211,Flour Milling ,No Change,311211,Flour Milling 
+142,311212,Rice Milling ,No Change,311212,Rice Milling 
+143,311213,Malt Manufacturing ,No Change,311213,Malt Manufacturing 
+144,311221,Wet Corn Milling and Starch Manufacturing ,"Same Code, new title",311221,Wet Corn Milling 
+145,311224,Soybean and Other Oilseed Processing ,No Change,311224,Soybean and Other Oilseed Processing 
+146,311225,Fats and Oils Refining and Blending ,No Change,311225,Fats and Oils Refining and Blending 
+147,311230,Breakfast Cereal Manufacturing,No Change,311230,Breakfast Cereal Manufacturing
+148,311313,Beet Sugar Manufacturing ,No Change,311313,Beet Sugar Manufacturing 
+149,311314,Cane Sugar Manufacturing ,No Change,311314,Cane Sugar Manufacturing 
+150,311340,Nonchocolate Confectionery Manufacturing,No Change,311340,Nonchocolate Confectionery Manufacturing
+151,311351,Chocolate and Confectionery Manufacturing from Cacao Beans ,No Change,311351,Chocolate and Confectionery Manufacturing from Cacao Beans 
+152,311352,Confectionery Manufacturing from Purchased Chocolate ,No Change,311352,Confectionery Manufacturing from Purchased Chocolate 
+153,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing ",No Change,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing "
+154,311412,Frozen Specialty Food Manufacturing ,No Change,311412,Frozen Specialty Food Manufacturing 
+155,311421,Fruit and Vegetable Canning ,No Change,311421,Fruit and Vegetable Canning 
+156,311422,Specialty Canning ,No Change,311422,Specialty Canning 
+157,311423,Dried and Dehydrated Food Manufacturing ,No Change,311423,Dried and Dehydrated Food Manufacturing 
+158,311511,Fluid Milk Manufacturing ,No Change,311511,Fluid Milk Manufacturing 
+159,311512,Creamery Butter Manufacturing ,No Change,311512,Creamery Butter Manufacturing 
+160,311513,Cheese Manufacturing ,No Change,311513,Cheese Manufacturing 
+161,311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing ",No Change,311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing "
+162,311520,Ice Cream and Frozen Dessert Manufacturing,No Change,311520,Ice Cream and Frozen Dessert Manufacturing
+163,311611,Animal (except Poultry) Slaughtering ,No Change,311611,Animal (except Poultry) Slaughtering 
+164,311612,Meat Processed from Carcasses ,No Change,311612,Meat Processed from Carcasses 
+165,311613,Rendering and Meat Byproduct Processing ,No Change,311613,Rendering and Meat Byproduct Processing 
+166,311615,Poultry Processing ,No Change,311615,Poultry Processing 
+167,311710,Seafood Product Preparation and Packaging,No Change,311710,Seafood Product Preparation and Packaging
+168,311811,Retail Bakeries ,No Change,311811,Retail Bakeries 
+169,311812,Commercial Bakeries ,No Change,311812,Commercial Bakeries 
+170,311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing ",No Change,311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing "
+171,311821,Cookie and Cracker Manufacturing ,No Change,311821,Cookie and Cracker Manufacturing 
+172,311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour ",No Change,311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour "
+173,311830,Tortilla Manufacturing,No Change,311830,Tortilla Manufacturing
+174,311911,Roasted Nuts and Peanut Butter Manufacturing ,No Change,311911,Roasted Nuts and Peanut Butter Manufacturing 
+175,311919,Other Snack Food Manufacturing ,No Change,311919,Other Snack Food Manufacturing 
+176,311920,Coffee and Tea Manufacturing ,No Change,311920,Coffee and Tea Manufacturing 
+177,311930,Flavoring Syrup and Concentrate Manufacturing,No Change,311930,Flavoring Syrup and Concentrate Manufacturing
+178,311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing ",No Change,311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing "
+179,311942,Spice and Extract Manufacturing ,No Change,311942,Spice and Extract Manufacturing 
+180,311991,Perishable Prepared Food Manufacturing ,No Change,311991,Perishable Prepared Food Manufacturing 
+181,311999,All Other Miscellaneous Food Manufacturing ,No Change,311999,All Other Miscellaneous Food Manufacturing 
+182,312111,Soft Drink Manufacturing ,No Change,312111,Soft Drink Manufacturing 
+183,312112,Bottled Water Manufacturing ,No Change,312112,Bottled Water Manufacturing 
+184,312113,Ice Manufacturing ,No Change,312113,Ice Manufacturing 
+185,312120,Breweries,No Change,312120,Breweries
+186,312130,Wineries ,No Change,312130,Wineries 
+187,312140,Distilleries ,No Change,312140,Distilleries 
+188,312230,Tobacco Manufacturing ,No Change,312230,Tobacco Manufacturing 
+189,313110,"Fiber, Yarn, and Thread Mills ",No Change,313110,"Fiber, Yarn, and Thread Mills "
+190,313210,Broadwoven Fabric Mills,No Change,313210,Broadwoven Fabric Mills
+191,313220,Narrow Fabric Mills and Schiffli Machine Embroidery,No Change,313220,Narrow Fabric Mills and Schiffli Machine Embroidery
+192,313230,Nonwoven Fabric Mills,No Change,313230,Nonwoven Fabric Mills
+193,313240,Knit Fabric Mills,No Change,313240,Knit Fabric Mills
+194,313310,Textile and Fabric Finishing Mills ,No Change,313310,Textile and Fabric Finishing Mills 
+195,313320,Fabric Coating Mills,No Change,313320,Fabric Coating Mills
+196,314110,Carpet and Rug Mills,No Change,314110,Carpet and Rug Mills
+197,314120,Curtain and Linen Mills,No Change,314120,Curtain and Linen Mills
+198,314910,Textile Bag and Canvas Mills ,No Change,314910,Textile Bag and Canvas Mills 
+199,314994,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills ",No Change,314994,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills "
+200,314999,All Other Miscellaneous Textile Product Mills ,No Change,314999,All Other Miscellaneous Textile Product Mills 
+202,315120,Apparel Knitting Mills,New NAICS Code,315110,Hosiery and Sock Mills
+201,315120,Apparel Knitting Mills,New NAICS Code,315190,Other Apparel Knitting Mills 
+203,315210,Cut and Sew Apparel Contractors ,No Change,315210,Cut and Sew Apparel Contractors 
+205,315250,Cut and Sew Apparel Manufacturing (except Contractors) ,New NAICS Code,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing 
+206,315250,Cut and Sew Apparel Manufacturing (except Contractors) ,New NAICS Code,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing "
+204,315250,Cut and Sew Apparel Manufacturing (except Contractors) ,New NAICS Code,315280,Other Cut and Sew Apparel Manufacturing 
+207,315990,Apparel Accessories and Other Apparel Manufacturing ,No Change,315990,Apparel Accessories and Other Apparel Manufacturing 
+208,316110,Leather and Hide Tanning and Finishing,No Change,316110,Leather and Hide Tanning and Finishing
+209,316210,Footwear Manufacturing ,No Change,316210,Footwear Manufacturing 
+211,316990,Other Leather and Allied Product Manufacturing ,New NAICS Code,316992,Women's Handbag and Purse Manufacturing 
+210,316990,Other Leather and Allied Product Manufacturing ,New NAICS Code,316998,All Other Leather Good and Allied Product Manufacturing 
+212,321113,Sawmills ,No Change,321113,Sawmills 
+213,321114,Wood Preservation ,No Change,321114,Wood Preservation 
+214,321211,Hardwood Veneer and Plywood Manufacturing ,No Change,321211,Hardwood Veneer and Plywood Manufacturing 
+215,321212,Softwood Veneer and Plywood Manufacturing ,No Change,321212,Softwood Veneer and Plywood Manufacturing 
+216,321215,Engineered Wood Member Manufacturing ,New NAICS Code,321213,Engineered Wood Member (except Truss) Manufacturing 
+217,321215,Engineered Wood Member Manufacturing ,New NAICS Code,321214,Truss Manufacturing 
+218,321219,Reconstituted Wood Product Manufacturing ,No Change,321219,Reconstituted Wood Product Manufacturing 
+219,321911,Wood Window and Door Manufacturing ,No Change,321911,Wood Window and Door Manufacturing 
+220,321912,"Cut Stock, Resawing Lumber, and Planing ",No Change,321912,"Cut Stock, Resawing Lumber, and Planing "
+221,321918,Other Millwork (including Flooring) ,No Change,321918,Other Millwork (including Flooring) 
+222,321920,Wood Container and Pallet Manufacturing,No Change,321920,Wood Container and Pallet Manufacturing
+223,321991,Manufactured Home (Mobile Home) Manufacturing ,No Change,321991,Manufactured Home (Mobile Home) Manufacturing 
+224,321992,Prefabricated Wood Building Manufacturing ,No Change,321992,Prefabricated Wood Building Manufacturing 
+225,321999,All Other Miscellaneous Wood Product Manufacturing ,No Change,321999,All Other Miscellaneous Wood Product Manufacturing 
+226,322110,Pulp Mills ,No Change,322110,Pulp Mills 
+227,322120,Paper Mills ,New NAICS Code,322121,Paper (except Newsprint) Mills 
+228,322120,Paper Mills ,New NAICS Code,322122,Newsprint Mills 
+229,322130,Paperboard Mills ,No Change,322130,Paperboard Mills 
+230,322211,Corrugated and Solid Fiber Box Manufacturing ,No Change,322211,Corrugated and Solid Fiber Box Manufacturing 
+231,322212,Folding Paperboard Box Manufacturing ,No Change,322212,Folding Paperboard Box Manufacturing 
+232,322219,Other Paperboard Container Manufacturing ,No Change,322219,Other Paperboard Container Manufacturing 
+233,322220,Paper Bag and Coated and Treated Paper Manufacturing,No Change,322220,Paper Bag and Coated and Treated Paper Manufacturing
+234,322230,Stationery Product Manufacturing,No Change,322230,Stationery Product Manufacturing
+235,322291,Sanitary Paper Product Manufacturing ,No Change,322291,Sanitary Paper Product Manufacturing 
+236,322299,All Other Converted Paper Product Manufacturing ,No Change,322299,All Other Converted Paper Product Manufacturing 
+237,323111,Commercial Printing (except Screen and Books) ,No Change,323111,Commercial Printing (except Screen and Books) 
+238,323113,Commercial Screen Printing ,No Change,323113,Commercial Screen Printing 
+239,323117,Books Printing ,No Change,323117,Books Printing 
+240,323120,Support Activities for Printing,No Change,323120,Support Activities for Printing
+241,324110,Petroleum Refineries,No Change,324110,Petroleum Refineries
+242,324121,Asphalt Paving Mixture and Block Manufacturing ,No Change,324121,Asphalt Paving Mixture and Block Manufacturing 
+243,324122,Asphalt Shingle and Coating Materials Manufacturing ,No Change,324122,Asphalt Shingle and Coating Materials Manufacturing 
+244,324191,Petroleum Lubricating Oil and Grease Manufacturing ,No Change,324191,Petroleum Lubricating Oil and Grease Manufacturing 
+245,324199,All Other Petroleum and Coal Products Manufacturing ,No Change,324199,All Other Petroleum and Coal Products Manufacturing 
+246,325110,Petrochemical Manufacturing,No Change,325110,Petrochemical Manufacturing
+247,325120,Industrial Gas Manufacturing,No Change,325120,Industrial Gas Manufacturing
+248,325130,Synthetic Dye and Pigment Manufacturing,No Change,325130,Synthetic Dye and Pigment Manufacturing
+249,325180,Other Basic Inorganic Chemical Manufacturing ,No Change,325180,Other Basic Inorganic Chemical Manufacturing 
+250,325193,Ethyl Alcohol Manufacturing ,No Change,325193,Ethyl Alcohol Manufacturing 
+251,325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing ",No Change,325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing "
+252,325199,All Other Basic Organic Chemical Manufacturing ,No Change,325199,All Other Basic Organic Chemical Manufacturing 
+253,325211,Plastics Material and Resin Manufacturing ,No Change,325211,Plastics Material and Resin Manufacturing 
+254,325212,Synthetic Rubber Manufacturing ,No Change,325212,Synthetic Rubber Manufacturing 
+255,325220,Artificial and Synthetic Fibers and Filaments Manufacturing,No Change,325220,Artificial and Synthetic Fibers and Filaments Manufacturing
+256,325311,Nitrogenous Fertilizer Manufacturing ,No Change,325311,Nitrogenous Fertilizer Manufacturing 
+257,325312,Phosphatic Fertilizer Manufacturing ,No Change,325312,Phosphatic Fertilizer Manufacturing 
+258,325314,Fertilizer (Mixing Only) Manufacturing ,No Change,325314,Fertilizer (Mixing Only) Manufacturing 
+260,325320,Pesticide and Other Agricultural Chemical Manufacturing,No Change,325320,Pesticide and Other Agricultural Chemical Manufacturing
+261,325411,Medicinal and Botanical Manufacturing ,No Change,325411,Medicinal and Botanical Manufacturing 
+262,325412,Pharmaceutical Preparation Manufacturing ,No Change,325412,Pharmaceutical Preparation Manufacturing 
+263,325413,In-Vitro Diagnostic Substance Manufacturing ,No Change,325413,In-Vitro Diagnostic Substance Manufacturing 
+264,325414,Biological Product (except Diagnostic) Manufacturing ,No Change,325414,Biological Product (except Diagnostic) Manufacturing 
+265,325510,Paint and Coating Manufacturing,No Change,325510,Paint and Coating Manufacturing
+266,325520,Adhesive Manufacturing,No Change,325520,Adhesive Manufacturing
+267,325611,Soap and Other Detergent Manufacturing ,No Change,325611,Soap and Other Detergent Manufacturing 
+268,325612,Polish and Other Sanitation Good Manufacturing ,No Change,325612,Polish and Other Sanitation Good Manufacturing 
+269,325613,Surface Active Agent Manufacturing ,No Change,325613,Surface Active Agent Manufacturing 
+270,325620,Toilet Preparation Manufacturing,No Change,325620,Toilet Preparation Manufacturing
+271,325910,Printing Ink Manufacturing,No Change,325910,Printing Ink Manufacturing
+272,325920,Explosives Manufacturing,No Change,325920,Explosives Manufacturing
+273,325991,Custom Compounding of Purchased Resins ,No Change,325991,Custom Compounding of Purchased Resins 
+274,325992,"Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing ","Same Code, new title",325992,"Photographic Film, Paper, Plate, and Chemical Manufacturing "
+275,325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing ,No Change,325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing 
+276,326111,Plastics Bag and Pouch Manufacturing ,No Change,326111,Plastics Bag and Pouch Manufacturing 
+277,326112,Plastics Packaging Film and Sheet (including Laminated) Manufacturing ,No Change,326112,Plastics Packaging Film and Sheet (including Laminated) Manufacturing 
+278,326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing ,No Change,326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing 
+279,326121,Unlaminated Plastics Profile Shape Manufacturing ,No Change,326121,Unlaminated Plastics Profile Shape Manufacturing 
+280,326122,Plastics Pipe and Pipe Fitting Manufacturing ,No Change,326122,Plastics Pipe and Pipe Fitting Manufacturing 
+281,326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",No Change,326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+282,326140,Polystyrene Foam Product Manufacturing,No Change,326140,Polystyrene Foam Product Manufacturing
+283,326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing,No Change,326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing
+284,326160,Plastics Bottle Manufacturing,No Change,326160,Plastics Bottle Manufacturing
+285,326191,Plastics Plumbing Fixture Manufacturing ,No Change,326191,Plastics Plumbing Fixture Manufacturing 
+286,326199,All Other Plastics Product Manufacturing ,No Change,326199,All Other Plastics Product Manufacturing 
+287,326211,Tire Manufacturing (except Retreading) ,No Change,326211,Tire Manufacturing (except Retreading) 
+288,326212,Tire Retreading ,No Change,326212,Tire Retreading 
+289,326220,Rubber and Plastics Hoses and Belting Manufacturing,No Change,326220,Rubber and Plastics Hoses and Belting Manufacturing
+290,326291,Rubber Product Manufacturing for Mechanical Use ,No Change,326291,Rubber Product Manufacturing for Mechanical Use 
+291,326299,All Other Rubber Product Manufacturing ,No Change,326299,All Other Rubber Product Manufacturing 
+292,327110,"Pottery, Ceramics, and Plumbing Fixture Manufacturing ",No Change,327110,"Pottery, Ceramics, and Plumbing Fixture Manufacturing "
+293,327120,Clay Building Material and Refractories Manufacturing ,No Change,327120,Clay Building Material and Refractories Manufacturing 
+294,327211,Flat Glass Manufacturing ,No Change,327211,Flat Glass Manufacturing 
+295,327212,Other Pressed and Blown Glass and Glassware Manufacturing ,No Change,327212,Other Pressed and Blown Glass and Glassware Manufacturing 
+296,327213,Glass Container Manufacturing ,No Change,327213,Glass Container Manufacturing 
+297,327215,Glass Product Manufacturing Made of Purchased Glass ,No Change,327215,Glass Product Manufacturing Made of Purchased Glass 
+298,327310,Cement Manufacturing,No Change,327310,Cement Manufacturing
+299,327320,Ready-Mix Concrete Manufacturing,No Change,327320,Ready-Mix Concrete Manufacturing
+300,327331,Concrete Block and Brick Manufacturing ,No Change,327331,Concrete Block and Brick Manufacturing 
+301,327332,Concrete Pipe Manufacturing ,No Change,327332,Concrete Pipe Manufacturing 
+302,327390,Other Concrete Product Manufacturing ,No Change,327390,Other Concrete Product Manufacturing 
+303,327410,Lime Manufacturing,No Change,327410,Lime Manufacturing
+304,327420,Gypsum Product Manufacturing,No Change,327420,Gypsum Product Manufacturing
+305,327910,Abrasive Product Manufacturing,No Change,327910,Abrasive Product Manufacturing
+306,327991,Cut Stone and Stone Product Manufacturing ,No Change,327991,Cut Stone and Stone Product Manufacturing 
+307,327992,Ground or Treated Mineral and Earth Manufacturing ,No Change,327992,Ground or Treated Mineral and Earth Manufacturing 
+308,327993,Mineral Wool Manufacturing ,No Change,327993,Mineral Wool Manufacturing 
+309,327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing ,No Change,327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing 
+310,331110,Iron and Steel Mills and Ferroalloy Manufacturing ,No Change,331110,Iron and Steel Mills and Ferroalloy Manufacturing 
+311,331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,No Change,331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel
+312,331221,Rolled Steel Shape Manufacturing ,No Change,331221,Rolled Steel Shape Manufacturing 
+313,331222,Steel Wire Drawing ,No Change,331222,Steel Wire Drawing 
+314,331313,Alumina Refining and Primary Aluminum Production ,No Change,331313,Alumina Refining and Primary Aluminum Production 
+315,331314,Secondary Smelting and Alloying of Aluminum ,No Change,331314,Secondary Smelting and Alloying of Aluminum 
+316,331315,"Aluminum Sheet, Plate, and Foil Manufacturing ",No Change,331315,"Aluminum Sheet, Plate, and Foil Manufacturing "
+317,331318,"Other Aluminum Rolling, Drawing, and Extruding ",No Change,331318,"Other Aluminum Rolling, Drawing, and Extruding "
+318,331410,Nonferrous Metal (except Aluminum) Smelting and Refining ,No Change,331410,Nonferrous Metal (except Aluminum) Smelting and Refining 
+319,331420,"Copper Rolling, Drawing, Extruding, and Alloying",No Change,331420,"Copper Rolling, Drawing, Extruding, and Alloying"
+320,331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding ",No Change,331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding "
+321,331492,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) ",No Change,331492,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) "
+322,331511,Iron Foundries ,No Change,331511,Iron Foundries 
+323,331512,Steel Investment Foundries ,No Change,331512,Steel Investment Foundries 
+324,331513,Steel Foundries (except Investment) ,No Change,331513,Steel Foundries (except Investment) 
+325,331523,Nonferrous Metal Die-Casting Foundries ,No Change,331523,Nonferrous Metal Die-Casting Foundries 
+326,331524,Aluminum Foundries (except Die-Casting) ,No Change,331524,Aluminum Foundries (except Die-Casting) 
+327,331529,Other Nonferrous Metal Foundries (except Die-Casting) ,No Change,331529,Other Nonferrous Metal Foundries (except Die-Casting) 
+328,332111,Iron and Steel Forging ,No Change,332111,Iron and Steel Forging 
+329,332112,Nonferrous Forging ,No Change,332112,Nonferrous Forging 
+330,332114,Custom Roll Forming ,No Change,332114,Custom Roll Forming 
+331,332117,Powder Metallurgy Part Manufacturing ,No Change,332117,Powder Metallurgy Part Manufacturing 
+332,332119,"Metal Crown, Closure, and Other Metal Stamping (except Automotive) ",No Change,332119,"Metal Crown, Closure, and Other Metal Stamping (except Automotive) "
+333,332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing ",No Change,332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing "
+334,332216,Saw Blade and Handtool Manufacturing ,No Change,332216,Saw Blade and Handtool Manufacturing 
+335,332311,Prefabricated Metal Building and Component Manufacturing ,No Change,332311,Prefabricated Metal Building and Component Manufacturing 
+336,332312,Fabricated Structural Metal Manufacturing ,No Change,332312,Fabricated Structural Metal Manufacturing 
+337,332313,Plate Work Manufacturing ,No Change,332313,Plate Work Manufacturing 
+338,332321,Metal Window and Door Manufacturing ,No Change,332321,Metal Window and Door Manufacturing 
+339,332322,Sheet Metal Work Manufacturing ,No Change,332322,Sheet Metal Work Manufacturing 
+340,332323,Ornamental and Architectural Metal Work Manufacturing ,No Change,332323,Ornamental and Architectural Metal Work Manufacturing 
+341,332410,Power Boiler and Heat Exchanger Manufacturing,No Change,332410,Power Boiler and Heat Exchanger Manufacturing
+342,332420,Metal Tank (Heavy Gauge) Manufacturing,No Change,332420,Metal Tank (Heavy Gauge) Manufacturing
+343,332431,Metal Can Manufacturing ,No Change,332431,Metal Can Manufacturing 
+344,332439,Other Metal Container Manufacturing ,No Change,332439,Other Metal Container Manufacturing 
+345,332510,Hardware Manufacturing,No Change,332510,Hardware Manufacturing
+346,332613,Spring Manufacturing ,No Change,332613,Spring Manufacturing 
+347,332618,Other Fabricated Wire Product Manufacturing ,No Change,332618,Other Fabricated Wire Product Manufacturing 
+348,332710,Machine Shops,No Change,332710,Machine Shops
+349,332721,Precision Turned Product Manufacturing ,No Change,332721,Precision Turned Product Manufacturing 
+350,332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing ",No Change,332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing "
+351,332811,Metal Heat Treating ,No Change,332811,Metal Heat Treating 
+352,332812,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers ",No Change,332812,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers "
+353,332813,"Electroplating, Plating, Polishing, Anodizing, and Coloring ",No Change,332813,"Electroplating, Plating, Polishing, Anodizing, and Coloring "
+354,332911,Industrial Valve Manufacturing ,No Change,332911,Industrial Valve Manufacturing 
+355,332912,Fluid Power Valve and Hose Fitting Manufacturing ,No Change,332912,Fluid Power Valve and Hose Fitting Manufacturing 
+356,332913,Plumbing Fixture Fitting and Trim Manufacturing ,No Change,332913,Plumbing Fixture Fitting and Trim Manufacturing 
+357,332919,Other Metal Valve and Pipe Fitting Manufacturing ,No Change,332919,Other Metal Valve and Pipe Fitting Manufacturing 
+358,332991,Ball and Roller Bearing Manufacturing,No Change,332991,Ball and Roller Bearing Manufacturing
+359,332992,Small Arms Ammunition Manufacturing ,No Change,332992,Small Arms Ammunition Manufacturing 
+360,332993,Ammunition (except Small Arms) Manufacturing ,No Change,332993,Ammunition (except Small Arms) Manufacturing 
+361,332994,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing ",No Change,332994,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing "
+362,332996,Fabricated Pipe and Pipe Fitting Manufacturing ,No Change,332996,Fabricated Pipe and Pipe Fitting Manufacturing 
+363,332999,All Other Miscellaneous Fabricated Metal Product Manufacturing ,No Change,332999,All Other Miscellaneous Fabricated Metal Product Manufacturing 
+364,333111,Farm Machinery and Equipment Manufacturing ,No Change,333111,Farm Machinery and Equipment Manufacturing 
+365,333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing ,No Change,333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing 
+366,333120,Construction Machinery Manufacturing,No Change,333120,Construction Machinery Manufacturing
+367,333131,Mining Machinery and Equipment Manufacturing ,No Change,333131,Mining Machinery and Equipment Manufacturing 
+368,333132,Oil and Gas Field Machinery and Equipment Manufacturing ,No Change,333132,Oil and Gas Field Machinery and Equipment Manufacturing 
+369,333241,Food Product Machinery Manufacturing ,No Change,333241,Food Product Machinery Manufacturing 
+370,333242,Semiconductor Machinery Manufacturing ,No Change,333242,Semiconductor Machinery Manufacturing 
+371,333243,"Sawmill, Woodworking, and Paper Machinery Manufacturing ",No Change,333243,"Sawmill, Woodworking, and Paper Machinery Manufacturing "
+259,325315,Compost Manufacturing,New NAICS Code,Added,Added
+373,333248,All Other Industrial Machinery Manufacturing ,New NAICS Code,333244,Printing Machinery and Equipment Manufacturing 
+372,333248,All Other Industrial Machinery Manufacturing ,New NAICS Code,333249,Other Industrial Machinery Manufacturing 
+376,333310,Commercial and Service Industry Machinery Manufacturing ,New NAICS Code,333314,Optical Instrument and Lens Manufacturing 
+374,333310,Commercial and Service Industry Machinery Manufacturing ,New NAICS Code,333316,Photographic and Photocopying Equipment Manufacturing 
+377,333413,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing ,No Change,333413,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing 
+378,333414,Heating Equipment (except Warm Air Furnaces) Manufacturing ,No Change,333414,Heating Equipment (except Warm Air Furnaces) Manufacturing 
+379,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing ,No Change,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing 
+380,333511,Industrial Mold Manufacturing ,No Change,333511,Industrial Mold Manufacturing 
+381,333514,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing ",No Change,333514,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing "
+382,333515,Cutting Tool and Machine Tool Accessory Manufacturing ,No Change,333515,Cutting Tool and Machine Tool Accessory Manufacturing 
+383,333517,Machine Tool Manufacturing ,No Change,333517,Machine Tool Manufacturing 
+384,333519,Rolling Mill and Other Metalworking Machinery Manufacturing ,No Change,333519,Rolling Mill and Other Metalworking Machinery Manufacturing 
+385,333611,Turbine and Turbine Generator Set Units Manufacturing ,No Change,333611,Turbine and Turbine Generator Set Units Manufacturing 
+386,333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing ",No Change,333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing "
+387,333613,Mechanical Power Transmission Equipment Manufacturing ,No Change,333613,Mechanical Power Transmission Equipment Manufacturing 
+388,333618,Other Engine Equipment Manufacturing ,No Change,333618,Other Engine Equipment Manufacturing 
+389,333912,Air and Gas Compressor Manufacturing ,No Change,333912,Air and Gas Compressor Manufacturing 
+390,333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing ",No Change,333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing"
+391,333921,Elevator and Moving Stairway Manufacturing ,No Change,333921,Elevator and Moving Stairway Manufacturing 
+392,333922,Conveyor and Conveying Equipment Manufacturing ,No Change,333922,Conveyor and Conveying Equipment Manufacturing 
+393,333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing ",No Change,333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing "
+394,333924,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing ",No Change,333924,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing "
+395,333991,Power-Driven Handtool Manufacturing ,No Change,333991,Power-Driven Handtool Manufacturing 
+396,333992,Welding and Soldering Equipment Manufacturing ,No Change,333992,Welding and Soldering Equipment Manufacturing 
+397,333993,Packaging Machinery Manufacturing ,No Change,333993,Packaging Machinery Manufacturing 
+398,333994,Industrial Process Furnace and Oven Manufacturing ,No Change,333994,Industrial Process Furnace and Oven Manufacturing 
+399,333995,Fluid Power Cylinder and Actuator Manufacturing ,No Change,333995,Fluid Power Cylinder and Actuator Manufacturing 
+400,333996,Fluid Power Pump and Motor Manufacturing ,No Change,333996,Fluid Power Pump and Motor Manufacturing 
+375,333310,Commercial and Service Industry Machinery Manufacturing ,New NAICS Code,333318,Other Commercial and Service Industry Machinery Manufacturing 
+402,333998,All Other Miscellaneous General Purpose Machinery Manufacturing ,New NAICS Code,333997,Scale and Balance Manufacturing 
+403,334111,Electronic Computer Manufacturing ,No Change,334111,Electronic Computer Manufacturing 
+404,334112,Computer Storage Device Manufacturing ,No Change,334112,Computer Storage Device Manufacturing 
+405,334118,Computer Terminal and Other Computer Peripheral Equipment Manufacturing ,No Change,334118,Computer Terminal and Other Computer Peripheral Equipment Manufacturing 
+406,334210,Telephone Apparatus Manufacturing,No Change,334210,Telephone Apparatus Manufacturing
+407,334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,No Change,334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+408,334290,Other Communications Equipment Manufacturing,No Change,334290,Other Communications Equipment Manufacturing
+409,334310,Audio and Video Equipment Manufacturing,No Change,334310,Audio and Video Equipment Manufacturing
+410,334412,Bare Printed Circuit Board Manufacturing  ,No Change,334412,Bare Printed Circuit Board Manufacturing 
+411,334413,Semiconductor and Related Device Manufacturing ,No Change,334413,Semiconductor and Related Device Manufacturing 
+412,334416,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing ",No Change,334416,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing "
+413,334417,Electronic Connector Manufacturing ,No Change,334417,Electronic Connector Manufacturing 
+414,334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing ,No Change,334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing 
+415,334419,Other Electronic Component Manufacturing ,No Change,334419,Other Electronic Component Manufacturing 
+416,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing ,No Change,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing 
+417,334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing ",No Change,334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing "
+418,334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use ",No Change,334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use "
+419,334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables ",No Change,334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables "
+420,334514,Totalizing Fluid Meter and Counting Device Manufacturing ,No Change,334514,Totalizing Fluid Meter and Counting Device Manufacturing 
+421,334515,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals ,No Change,334515,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals 
+422,334516,Analytical Laboratory Instrument Manufacturing ,No Change,334516,Analytical Laboratory Instrument Manufacturing 
+423,334517,Irradiation Apparatus Manufacturing ,No Change,334517,Irradiation Apparatus Manufacturing 
+424,334519,Other Measuring and Controlling Device Manufacturing ,No Change,334519,Other Measuring and Controlling Device Manufacturing 
+401,333998,All Other Miscellaneous General Purpose Machinery Manufacturing ,New NAICS Code,333999,All Other Miscellaneous General Purpose Machinery Manufacturing 
+425,334610,Manufacturing and Reproducing Magnetic and Optical Media ,New NAICS Code,334613,Blank Magnetic and Optical Recording Media Manufacturing 
+426,334610,Manufacturing and Reproducing Magnetic and Optical Media ,New NAICS Code,334614,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing "
+427,335131,Residential Electric Lighting Fixture Manufacturing ,New NAICS Code,335121,Residential Electric Lighting Fixture Manufacturing 
+428,335132,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing ",New NAICS Code,335122,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing "
+429,335139,Electric Lamp Bulb and Other Lighting Equipment Manufacturing ,New NAICS Code,335110,Electric Lamp Bulb and Part Manufacturing
+431,335210,Small Electrical Appliance Manufacturing,No Change,335210,Small Electrical Appliance Manufacturing
+432,335220,Major Household Appliance Manufacturing ,No Change,335220,Major Household Appliance Manufacturing
+433,335311,"Power, Distribution, and Specialty Transformer Manufacturing ",No Change,335311,"Power, Distribution, and Specialty Transformer Manufacturing "
+434,335312,Motor and Generator Manufacturing ,No Change,335312,Motor and Generator Manufacturing 
+435,335313,Switchgear and Switchboard Apparatus Manufacturing ,No Change,335313,Switchgear and Switchboard Apparatus Manufacturing 
+436,335314,Relay and Industrial Control Manufacturing ,No Change,335314,Relay and Industrial Control Manufacturing 
+430,335139,Electric Lamp Bulb and Other Lighting Equipment Manufacturing ,New NAICS Code,335129,Other Lighting Equipment Manufacturing 
+437,335910,Battery Manufacturing ,New NAICS Code,335911,Storage Battery Manufacturing 
+439,335921,Fiber Optic Cable Manufacturing ,No Change,335921,Fiber Optic Cable Manufacturing 
+440,335929,Other Communication and Energy Wire Manufacturing ,No Change,335929,Other Communication and Energy Wire Manufacturing 
+441,335931,Current-Carrying Wiring Device Manufacturing ,No Change,335931,Current-Carrying Wiring Device Manufacturing 
+442,335932,Noncurrent-Carrying Wiring Device Manufacturing ,No Change,335932,Noncurrent-Carrying Wiring Device Manufacturing 
+443,335991,Carbon and Graphite Product Manufacturing ,No Change,335991,Carbon and Graphite Product Manufacturing 
+444,335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing ,No Change,335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing 
+438,335910,Battery Manufacturing ,New NAICS Code,335912,Primary Battery Manufacturing 
+445,336110,Automobile and Light Duty Motor Vehicle Manufacturing ,New NAICS Code,336111,Automobile Manufacturing 
+447,336120,Heavy Duty Truck Manufacturing,No Change,336120,Heavy Duty Truck Manufacturing
+448,336211,Motor Vehicle Body Manufacturing ,No Change,336211,Motor Vehicle Body Manufacturing 
+449,336212,Truck Trailer Manufacturing ,No Change,336212,Truck Trailer Manufacturing 
+450,336213,Motor Home Manufacturing ,No Change,336213,Motor Home Manufacturing 
+451,336214,Travel Trailer and Camper Manufacturing ,No Change,336214,Travel Trailer and Camper Manufacturing 
+452,336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,No Change,336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+453,336320,Motor Vehicle Electrical and Electronic Equipment Manufacturing,No Change,336320,Motor Vehicle Electrical and Electronic Equipment Manufacturing
+454,336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,No Change,336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing
+455,336340,Motor Vehicle Brake System Manufacturing,No Change,336340,Motor Vehicle Brake System Manufacturing
+456,336350,Motor Vehicle Transmission and Power Train Parts Manufacturing,No Change,336350,Motor Vehicle Transmission and Power Train Parts Manufacturing
+457,336360,Motor Vehicle Seating and Interior Trim Manufacturing,No Change,336360,Motor Vehicle Seating and Interior Trim Manufacturing
+458,336370,Motor Vehicle Metal Stamping,No Change,336370,Motor Vehicle Metal Stamping
+459,336390,Other Motor Vehicle Parts Manufacturing,No Change,336390,Other Motor Vehicle Parts Manufacturing
+460,336411,Aircraft Manufacturing ,No Change,336411,Aircraft Manufacturing 
+461,336412,Aircraft Engine and Engine Parts Manufacturing ,No Change,336412,Aircraft Engine and Engine Parts Manufacturing 
+462,336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing ,No Change,336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing 
+463,336414,Guided Missile and Space Vehicle Manufacturing ,No Change,336414,Guided Missile and Space Vehicle Manufacturing 
+464,336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing ,No Change,336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing 
+465,336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing ,No Change,336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing 
+466,336510,Railroad Rolling Stock Manufacturing,No Change,336510,Railroad Rolling Stock Manufacturing
+467,336611,Ship Building and Repairing ,No Change,336611,Ship Building and Repairing 
+468,336612,Boat Building ,No Change,336612,Boat Building 
+469,336991,"Motorcycle, Bicycle, and Parts Manufacturing ",No Change,336991,"Motorcycle, Bicycle, and Parts Manufacturing "
+470,336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing ",No Change,336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing "
+471,336999,All Other Transportation Equipment Manufacturing ,No Change,336999,All Other Transportation Equipment Manufacturing 
+472,337110,Wood Kitchen Cabinet and Countertop Manufacturing,No Change,337110,Wood Kitchen Cabinet and Countertop Manufacturing
+473,337121,Upholstered Household Furniture Manufacturing ,No Change,337121,Upholstered Household Furniture Manufacturing 
+474,337122,Nonupholstered Wood Household Furniture Manufacturing ,No Change,337122,Nonupholstered Wood Household Furniture Manufacturing 
+446,336110,Automobile and Light Duty Motor Vehicle Manufacturing ,New NAICS Code,336112,Light Truck and Utility Vehicle Manufacturing 
+476,337126,Household Furniture (except Wood and Upholstered) Manufacturing ,New NAICS Code,337124,Metal Household Furniture Manufacturing 
+477,337127,Institutional Furniture Manufacturing ,No Change,337127,Institutional Furniture Manufacturing 
+478,337211,Wood Office Furniture Manufacturing ,No Change,337211,Wood Office Furniture Manufacturing 
+479,337212,Custom Architectural Woodwork and Millwork Manufacturing ,No Change,337212,Custom Architectural Woodwork and Millwork Manufacturing 
+480,337214,Office Furniture (except Wood) Manufacturing ,No Change,337214,Office Furniture (except Wood) Manufacturing 
+481,337215,"Showcase, Partition, Shelving, and Locker Manufacturing ",No Change,337215,"Showcase, Partition, Shelving, and Locker Manufacturing "
+482,337910,Mattress Manufacturing,No Change,337910,Mattress Manufacturing
+483,337920,Blind and Shade Manufacturing,No Change,337920,Blind and Shade Manufacturing
+484,339112,Surgical and Medical Instrument Manufacturing ,No Change,339112,Surgical and Medical Instrument Manufacturing 
+485,339113,Surgical Appliance and Supplies Manufacturing ,No Change,339113,Surgical Appliance and Supplies Manufacturing 
+486,339114,Dental Equipment and Supplies Manufacturing ,No Change,339114,Dental Equipment and Supplies Manufacturing 
+487,339115,Ophthalmic Goods Manufacturing ,No Change,339115,Ophthalmic Goods Manufacturing 
+488,339116,Dental Laboratories ,No Change,339116,Dental Laboratories 
+489,339910,Jewelry and Silverware Manufacturing ,No Change,339910,Jewelry and Silverware Manufacturing 
+490,339920,Sporting and Athletic Goods Manufacturing,No Change,339920,Sporting and Athletic Goods Manufacturing
+491,339930,"Doll, Toy, and Game Manufacturing",No Change,339930,"Doll, Toy, and Game Manufacturing"
+492,339940,Office Supplies (except Paper) Manufacturing,No Change,339940,Office Supplies (except Paper) Manufacturing
+493,339950,Sign Manufacturing,No Change,339950,Sign Manufacturing
+494,339991,"Gasket, Packing, and Sealing Device Manufacturing ",No Change,339991,"Gasket, Packing, and Sealing Device Manufacturing "
+495,339992,Musical Instrument Manufacturing ,No Change,339992,Musical Instrument Manufacturing 
+496,339993,"Fastener, Button, Needle, and Pin Manufacturing ",No Change,339993,"Fastener, Button, Needle, and Pin Manufacturing "
+497,339994,"Broom, Brush, and Mop Manufacturing ",No Change,339994,"Broom, Brush, and Mop Manufacturing "
+498,339995,Burial Casket Manufacturing ,No Change,339995,Burial Casket Manufacturing 
+499,339999,All Other Miscellaneous Manufacturing ,No Change,339999,All Other Miscellaneous Manufacturing 
+500,423110,Automobile and Other Motor Vehicle Merchant Wholesalers ,No Change,423110,Automobile and Other Motor Vehicle Merchant Wholesalers 
+501,423120,Motor Vehicle Supplies and New Parts Merchant Wholesalers ,No Change,423120,Motor Vehicle Supplies and New Parts Merchant Wholesalers 
+502,423130,Tire and Tube Merchant Wholesalers ,No Change,423130,Tire and Tube Merchant Wholesalers 
+503,423140,Motor Vehicle Parts (Used) Merchant Wholesalers ,No Change,423140,Motor Vehicle Parts (Used) Merchant Wholesalers 
+504,423210,Furniture Merchant Wholesalers ,No Change,423210,Furniture Merchant Wholesalers 
+505,423220,Home Furnishing Merchant Wholesalers ,No Change,423220,Home Furnishing Merchant Wholesalers 
+506,423310,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers ",No Change,423310,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers "
+507,423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers ",No Change,423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers "
+508,423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers ",No Change,423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers "
+509,423390,Other Construction Material Merchant Wholesalers ,No Change,423390,Other Construction Material Merchant Wholesalers 
+510,423410,Photographic Equipment and Supplies Merchant Wholesalers ,No Change,423410,Photographic Equipment and Supplies Merchant Wholesalers 
+511,423420,Office Equipment Merchant Wholesalers ,No Change,423420,Office Equipment Merchant Wholesalers 
+512,423430,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers ,No Change,423430,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers 
+513,423440,Other Commercial Equipment Merchant Wholesalers ,No Change,423440,Other Commercial Equipment Merchant Wholesalers 
+514,423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers ",No Change,423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers "
+515,423460,Ophthalmic Goods Merchant Wholesalers ,No Change,423460,Ophthalmic Goods Merchant Wholesalers 
+516,423490,Other Professional Equipment and Supplies Merchant Wholesalers ,No Change,423490,Other Professional Equipment and Supplies Merchant Wholesalers 
+517,423510,Metal Service Centers and Other Metal Merchant Wholesalers ,No Change,423510,Metal Service Centers and Other Metal Merchant Wholesalers 
+518,423520,Coal and Other Mineral and Ore Merchant Wholesalers ,No Change,423520,Coal and Other Mineral and Ore Merchant Wholesalers 
+519,423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers ",No Change,423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers "
+520,423620,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers ",No Change,423620,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers "
+521,423690,Other Electronic Parts and Equipment Merchant Wholesalers ,No Change,423690,Other Electronic Parts and Equipment Merchant Wholesalers 
+522,423710,Hardware Merchant Wholesalers ,No Change,423710,Hardware Merchant Wholesalers 
+523,423720,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers ,No Change,423720,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers 
+524,423730,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers ,No Change,423730,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers 
+525,423740,Refrigeration Equipment and Supplies Merchant Wholesalers ,No Change,423740,Refrigeration Equipment and Supplies Merchant Wholesalers 
+526,423810,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers ,No Change,423810,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers 
+527,423820,Farm and Garden Machinery and Equipment Merchant Wholesalers ,No Change,423820,Farm and Garden Machinery and Equipment Merchant Wholesalers 
+528,423830,Industrial Machinery and Equipment Merchant Wholesalers ,No Change,423830,Industrial Machinery and Equipment Merchant Wholesalers 
+529,423840,Industrial Supplies Merchant Wholesalers,No Change,423840,Industrial Supplies Merchant Wholesalers
+530,423850,Service Establishment Equipment and Supplies Merchant Wholesalers ,No Change,423850,Service Establishment Equipment and Supplies Merchant Wholesalers 
+531,423860,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers ,No Change,423860,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers 
+532,423910,Sporting and Recreational Goods and Supplies Merchant Wholesalers ,No Change,423910,Sporting and Recreational Goods and Supplies Merchant Wholesalers 
+533,423920,Toy and Hobby Goods and Supplies Merchant Wholesalers ,No Change,423920,Toy and Hobby Goods and Supplies Merchant Wholesalers 
+534,423930,Recyclable Material Merchant Wholesalers ,No Change,423930,Recyclable Material Merchant Wholesalers 
+535,423940,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers ",No Change,423940,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers "
+536,423990,Other Miscellaneous Durable Goods Merchant Wholesalers ,No Change,423990,Other Miscellaneous Durable Goods Merchant Wholesalers 
+537,424110,Printing and Writing Paper Merchant Wholesalers ,No Change,424110,Printing and Writing Paper Merchant Wholesalers 
+538,424120,Stationery and Office Supplies Merchant Wholesalers ,No Change,424120,Stationery and Office Supplies Merchant Wholesalers 
+539,424130,Industrial and Personal Service Paper Merchant Wholesalers ,No Change,424130,Industrial and Personal Service Paper Merchant Wholesalers 
+540,424210,Drugs and Druggists' Sundries Merchant Wholesalers ,No Change,424210,Drugs and Druggists' Sundries Merchant Wholesalers 
+541,424310,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers ",No Change,424310,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers "
+475,337126,Household Furniture (except Wood and Upholstered) Manufacturing ,New NAICS Code,337125,Household Furniture (except Wood and Metal) Manufacturing 
+543,424350,Clothing and Clothing Accessories Merchant Wholesalers,New NAICS Code,424320,Men's and Boys' Clothing and Furnishings Merchant Wholesalers 
+542,424340,Footwear Merchant Wholesalers ,No Change,424340,Footwear Merchant Wholesalers 
+545,424410,General Line Grocery Merchant Wholesalers ,No Change,424410,General Line Grocery Merchant Wholesalers 
+546,424420,Packaged Frozen Food Merchant Wholesalers ,No Change,424420,Packaged Frozen Food Merchant Wholesalers 
+547,424430,Dairy Product (except Dried or Canned) Merchant Wholesalers ,No Change,424430,Dairy Product (except Dried or Canned) Merchant Wholesalers 
+548,424440,Poultry and Poultry Product Merchant Wholesalers ,No Change,424440,Poultry and Poultry Product Merchant Wholesalers 
+549,424450,Confectionery Merchant Wholesalers ,No Change,424450,Confectionery Merchant Wholesalers 
+550,424460,Fish and Seafood Merchant Wholesalers ,No Change,424460,Fish and Seafood Merchant Wholesalers 
+551,424470,Meat and Meat Product Merchant Wholesalers ,No Change,424470,Meat and Meat Product Merchant Wholesalers 
+552,424480,Fresh Fruit and Vegetable Merchant Wholesalers ,No Change,424480,Fresh Fruit and Vegetable Merchant Wholesalers 
+553,424490,Other Grocery and Related Products Merchant Wholesalers ,No Change,424490,Other Grocery and Related Products Merchant Wholesalers 
+554,424510,Grain and Field Bean Merchant Wholesalers ,No Change,424510,Grain and Field Bean Merchant Wholesalers 
+555,424520,Livestock Merchant Wholesalers ,No Change,424520,Livestock Merchant Wholesalers 
+556,424590,Other Farm Product Raw Material Merchant Wholesalers ,No Change,424590,Other Farm Product Raw Material Merchant Wholesalers 
+557,424610,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers ,No Change,424610,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers 
+558,424690,Other Chemical and Allied Products Merchant Wholesalers ,No Change,424690,Other Chemical and Allied Products Merchant Wholesalers 
+559,424710,Petroleum Bulk Stations and Terminals ,No Change,424710,Petroleum Bulk Stations and Terminals 
+560,424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) ,No Change,424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals) 
+561,424810,Beer and Ale Merchant Wholesalers ,No Change,424810,Beer and Ale Merchant Wholesalers 
+562,424820,Wine and Distilled Alcoholic Beverage Merchant Wholesalers ,No Change,424820,Wine and Distilled Alcoholic Beverage Merchant Wholesalers 
+563,424910,Farm Supplies Merchant Wholesalers ,No Change,424910,Farm Supplies Merchant Wholesalers 
+564,424920,"Book, Periodical, and Newspaper Merchant Wholesalers ",No Change,424920,"Book, Periodical, and Newspaper Merchant Wholesalers "
+565,424930,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers ",No Change,424930,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers "
+566,424940,Tobacco Product and Electronic Cigarette Merchant Wholesalers ,"Same Code, new title",424940,Tobacco and Tobacco Product Merchant Wholesalers 
+567,424950,"Paint, Varnish, and Supplies Merchant Wholesalers ",No Change,424950,"Paint, Varnish, and Supplies Merchant Wholesalers "
+568,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers ,No Change,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers 
+544,424350,Clothing and Clothing Accessories Merchant Wholesalers,New NAICS Code,424330,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers "
+570,425120,Wholesale Trade Agents and Brokers ,No Change,425120,Wholesale Trade Agents and Brokers 
+571,441110,New Car Dealers ,No Change,441110,New Car Dealers 
+572,441120,Used Car Dealers ,No Change,441120,Used Car Dealers 
+573,441210,Recreational Vehicle Dealers ,No Change,441210,Recreational Vehicle Dealers 
+574,441222,Boat Dealers ,No Change,441222,Boat Dealers 
+569,425120,Wholesale Trade Agents and Brokers ,New NAICS Code,425110,Business to Business Electronic Markets 
+575,441227,"Motorcycle, ATV, and All Other Motor Vehicle Dealers ",New NAICS Code,441228,"Motorcycle, ATV, and All Other Motor Vehicle Dealers "
+576,441227,"Motorcycle, ATV, and All Other Motor Vehicle Dealers ",New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+577,441330,Automotive Parts and Accessories Retailers ,New NAICS Code,441310,Automotive Parts and Accessories Stores 
+578,441330,Automotive Parts and Accessories Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+579,441330,Automotive Parts and Accessories Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+580,441340,Tire Dealers ,New NAICS Code,441320,Tire Dealers 
+583,444140,Hardware Retailers ,New NAICS Code,444130,Hardware Stores 
+584,444140,Hardware Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+581,444110,Home Centers ,No Change,444110,Home Centers 
+582,444120,Paint and Wallpaper Retailers ,"Same Code, new title",444120,Paint and Wallpaper Stores 
+585,444140,Hardware Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+586,444180,Other Building Material Dealers ,New NAICS Code,444190,Other Building Material Dealers 
+587,444180,Other Building Material Dealers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+588,444180,Other Building Material Dealers ,New NAICS Code,454390,Other Direct Selling Establishments 
+595,445110,Supermarkets and Other Grocery Retailers (except Convenience Retailers) ,"Same Code, new title",445110,Supermarkets and Other Grocery (except Convenience) Stores 
+589,444230,Outdoor Power Equipment Retailers ,New NAICS Code,444210,Outdoor Power Equipment Stores 
+590,444230,Outdoor Power Equipment Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+591,444230,Outdoor Power Equipment Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+600,445230,Fruit and Vegetable Retailers ,"Same Code, new title",445230,Fruit and Vegetable Markets 
+607,445291,Baked Goods Retailers ,"Same Code, new title",445291,Baked Goods Stores 
+608,445292,Confectionery and Nut Retailers ,"Same Code, new title",445292,Confectionery and Nut Stores 
+592,444240,"Nursery, Garden Center, and Farm Supply Retailers ",New NAICS Code,444220,"Nursery, Garden Center, and Farm Supply Stores "
+593,444240,"Nursery, Garden Center, and Farm Supply Retailers ",New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+594,444240,"Nursery, Garden Center, and Farm Supply Retailers ",New NAICS Code,454390,Other Direct Selling Establishments 
+596,445131,Convenience Retailers,New NAICS Code,445120,Convenience Stores 
+597,445131,Convenience Retailers,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+598,445131,Convenience Retailers,New NAICS Code,454390,Other Direct Selling Establishments 
+599,445132,Vending Machine Operators ,New NAICS Code,454210,Vending Machine Operators 
+601,445240,Meat Retailers ,New NAICS Code,445210,Meat Markets 
+603,445240,Meat Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+602,445240,Meat Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+604,445250,Fish and Seafood Retailers ,New NAICS Code,445220,Fish and Seafood Markets 
+606,445250,Fish and Seafood Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+605,445250,Fish and Seafood Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+609,445298,All Other Specialty Food Retailers ,New NAICS Code,445299,All Other Specialty Food Stores 
+610,445298,All Other Specialty Food Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+611,445298,All Other Specialty Food Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+612,445320,"Beer, Wine, and Liquor Retailers ",New NAICS Code,445310,"Beer, Wine, and Liquor Stores "
+613,445320,"Beer, Wine, and Liquor Retailers ",New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+614,445320,"Beer, Wine, and Liquor Retailers ",New NAICS Code,454390,Other Direct Selling Establishments 
+615,449110,Furniture Retailers ,New NAICS Code,442110,Furniture Stores 
+616,449110,Furniture Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+617,449110,Furniture Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+618,449121,Floor Covering Retailers ,New NAICS Code,442210,Floor Covering Stores 
+619,449121,Floor Covering Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+620,449121,Floor Covering Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+621,449122,Window Treatment Retailers ,New NAICS Code,442291,Window Treatment Stores 
+622,449122,Window Treatment Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+623,449122,Window Treatment Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+624,449129,All Other Home Furnishings Retailers ,New NAICS Code,442299,All Other Home Furnishings Stores 
+625,449129,All Other Home Furnishings Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+626,449129,All Other Home Furnishings Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+627,449210,Electronics and Appliance Retailers,New NAICS Code,443141,Household Appliance Stores 
+628,449210,Electronics and Appliance Retailers,New NAICS Code,443142,Electronics Stores 
+629,449210,Electronics and Appliance Retailers,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+630,449210,Electronics and Appliance Retailers,New NAICS Code,454390,Other Direct Selling Establishments 
+631,455110,Department Stores ,New NAICS Code,452210,Department Stores
+632,455110,Department Stores ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+633,455211,Warehouse Clubs and Supercenters ,New NAICS Code,452311,Warehouse Clubs and Supercenters 
+634,455211,Warehouse Clubs and Supercenters ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+635,455219,All Other General Merchandise Retailers ,New NAICS Code,452319,All Other General Merchandise Stores 
+636,455219,All Other General Merchandise Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+637,455219,All Other General Merchandise Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+638,456110,Pharmacies and Drug Retailers ,New NAICS Code,446110,Pharmacies and Drug Stores 
+639,456110,Pharmacies and Drug Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+640,456110,Pharmacies and Drug Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+641,456120,"Cosmetics, Beauty Supplies, and Perfume Retailers ",New NAICS Code,446120,"Cosmetics, Beauty Supplies, and Perfume Stores "
+642,456120,"Cosmetics, Beauty Supplies, and Perfume Retailers ",New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+643,456120,"Cosmetics, Beauty Supplies, and Perfume Retailers ",New NAICS Code,454390,Other Direct Selling Establishments 
+644,456130,Optical Goods Retailers ,New NAICS Code,446130,Optical Goods Stores 
+645,456130,Optical Goods Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+646,456130,Optical Goods Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+647,456191,Food (Health) Supplement Retailers ,New NAICS Code,446191,Food (Health) Supplement Stores 
+648,456191,Food (Health) Supplement Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+649,456191,Food (Health) Supplement Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+650,456199,All Other Health and Personal Care Retailers ,New NAICS Code,446199,All Other Health and Personal Care Stores 
+651,456199,All Other Health and Personal Care Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+652,456199,All Other Health and Personal Care Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+653,457110,Gasoline Stations with Convenience Stores ,New NAICS Code,447110,Gasoline Stations with Convenience Stores 
+654,457120,Other Gasoline Stations ,New NAICS Code,447190,Other Gasoline Stations 
+655,457210,Fuel Dealers ,New NAICS Code,454310,Fuel Dealers 
+656,458110,Clothing and Clothing Accessories Retailers ,New NAICS Code,448110,Men's Clothing Stores 
+657,458110,Clothing and Clothing Accessories Retailers ,New NAICS Code,448120,Women's Clothing Stores 
+658,458110,Clothing and Clothing Accessories Retailers ,New NAICS Code,448130,Children's and Infants' Clothing Stores 
+659,458110,Clothing and Clothing Accessories Retailers ,New NAICS Code,448140,Family Clothing Stores 
+660,458110,Clothing and Clothing Accessories Retailers ,New NAICS Code,448150,Clothing Accessories Stores 
+661,458110,Clothing and Clothing Accessories Retailers ,New NAICS Code,448190,Other Clothing Stores 
+662,458110,Clothing and Clothing Accessories Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+663,458110,Clothing and Clothing Accessories Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+664,458210,Shoe Retailers ,New NAICS Code,448210,Shoe Stores 
+665,458210,Shoe Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+666,458210,Shoe Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+667,458310,Jewelry Retailers ,New NAICS Code,448310,Jewelry Stores 
+668,458310,Jewelry Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+669,458310,Jewelry Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+670,458320,Luggage and Leather Goods Retailers ,New NAICS Code,448320,Luggage and Leather Goods Stores 
+671,458320,Luggage and Leather Goods Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+672,458320,Luggage and Leather Goods Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+673,459110,Sporting Goods Retailers ,New NAICS Code,451110,Sporting Goods Stores 
+674,459110,Sporting Goods Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+675,459110,Sporting Goods Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+676,459120,"Hobby, Toy, and Game Retailers ",New NAICS Code,451120,"Hobby, Toy, and Game Stores "
+677,459120,"Hobby, Toy, and Game Retailers ",New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+678,459120,"Hobby, Toy, and Game Retailers ",New NAICS Code,454390,Other Direct Selling Establishments 
+679,459130,"Sewing, Needlework, and Piece Goods Retailers ",New NAICS Code,451130,"Sewing, Needlework, and Piece Goods Stores "
+680,459130,"Sewing, Needlework, and Piece Goods Retailers ",New NAICS Code,451130,"Sewing, Needlework, and Piece Goods Stores"
+681,459130,"Sewing, Needlework, and Piece Goods Retailers ",New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+682,459130,"Sewing, Needlework, and Piece Goods Retailers ",New NAICS Code,454390,Other Direct Selling Establishments 
+683,459140,Musical Instrument and Supplies Retailers ,New NAICS Code,451140,Musical Instrument and Supplies Stores 
+684,459140,Musical Instrument and Supplies Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+685,459140,Musical Instrument and Supplies Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+686,459210,Book Retailers and News Dealers ,New NAICS Code,451211,Book Stores 
+687,459210,Book Retailers and News Dealers ,New NAICS Code,451212,News Dealers and Newsstands 
+688,459210,Book Retailers and News Dealers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+689,459210,Book Retailers and News Dealers ,New NAICS Code,454390,Other Direct Selling Establishments 
+690,459310,Florists ,New NAICS Code,453110,Florists 
+691,459310,Florists ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+692,459310,Florists ,New NAICS Code,454390,Other Direct Selling Establishments 
+693,459410,Office Supplies and Stationery Retailers ,New NAICS Code,453210,Office Supplies and Stationery Stores 
+694,459410,Office Supplies and Stationery Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+695,459410,Office Supplies and Stationery Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+696,459420,"Gift, Novelty, and Souvenir Retailers ",New NAICS Code,453220,"Gift, Novelty, and Souvenir Stores "
+697,459420,"Gift, Novelty, and Souvenir Retailers ",New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+698,459420,"Gift, Novelty, and Souvenir Retailers ",New NAICS Code,454390,Other Direct Selling Establishments 
+699,459510,Used Merchandise Retailers ,New NAICS Code,453310,Used Merchandise Stores 
+700,459510,Used Merchandise Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+701,459510,Used Merchandise Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+702,459910,Pet and Pet Supplies Retailers ,New NAICS Code,453910,Pet and Pet Supplies Stores 
+703,459910,Pet and Pet Supplies Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+704,459910,Pet and Pet Supplies Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+705,459920,Art Dealers ,New NAICS Code,453920,Art Dealers 
+706,459920,Art Dealers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+707,459920,Art Dealers ,New NAICS Code,454390,Other Direct Selling Establishments 
+708,459930,Manufactured (Mobile) Home Dealers ,New NAICS Code,453930,Manufactured (Mobile) Home Dealers 
+709,459991,"Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers ",New NAICS Code,453991,Tobacco Stores 
+710,459991,"Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers ",New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+711,459991,"Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers ",New NAICS Code,454390,Other Direct Selling Establishments 
+712,459999,All Other Miscellaneous Retailers ,New NAICS Code,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores) 
+713,459999,All Other Miscellaneous Retailers ,New NAICS Code,454110,Electronic Shopping and Mail-Order Houses
+715,481111,Scheduled Passenger Air Transportation ,No Change,481111,Scheduled Passenger Air Transportation 
+716,481112,Scheduled Freight Air Transportation ,No Change,481112,Scheduled Freight Air Transportation 
+717,481211,Nonscheduled Chartered Passenger Air Transportation ,No Change,481211,Nonscheduled Chartered Passenger Air Transportation 
+718,481212,Nonscheduled Chartered Freight Air Transportation ,No Change,481212,Nonscheduled Chartered Freight Air Transportation 
+719,481219,Other Nonscheduled Air Transportation ,No Change,481219,Other Nonscheduled Air Transportation 
+720,482111,Line-Haul Railroads ,No Change,482111,Line-Haul Railroads 
+721,482112,Short Line Railroads ,No Change,482112,Short Line Railroads 
+722,483111,Deep Sea Freight Transportation ,No Change,483111,Deep Sea Freight Transportation 
+723,483112,Deep Sea Passenger Transportation ,No Change,483112,Deep Sea Passenger Transportation 
+724,483113,Coastal and Great Lakes Freight Transportation ,No Change,483113,Coastal and Great Lakes Freight Transportation 
+725,483114,Coastal and Great Lakes Passenger Transportation ,No Change,483114,Coastal and Great Lakes Passenger Transportation 
+726,483211,Inland Water Freight Transportation ,No Change,483211,Inland Water Freight Transportation 
+727,483212,Inland Water Passenger Transportation ,No Change,483212,Inland Water Passenger Transportation 
+728,484110,"General Freight Trucking, Local ",No Change,484110,"General Freight Trucking, Local "
+729,484121,"General Freight Trucking, Long-Distance, Truckload ",No Change,484121,"General Freight Trucking, Long-Distance, Truckload "
+730,484122,"General Freight Trucking, Long-Distance, Less Than Truckload ",No Change,484122,"General Freight Trucking, Long-Distance, Less Than Truckload "
+731,484210,Used Household and Office Goods Moving,No Change,484210,Used Household and Office Goods Moving
+732,484220,"Specialized Freight (except Used Goods) Trucking, Local ",No Change,484220,"Specialized Freight (except Used Goods) Trucking, Local "
+733,484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance ",No Change,484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance "
+734,485111,Mixed Mode Transit Systems ,No Change,485111,Mixed Mode Transit Systems 
+735,485112,Commuter Rail Systems ,No Change,485112,Commuter Rail Systems 
+736,485113,Bus and Other Motor Vehicle Transit Systems ,No Change,485113,Bus and Other Motor Vehicle Transit Systems 
+737,485119,Other Urban Transit Systems ,No Change,485119,Other Urban Transit Systems 
+738,485210,Interurban and Rural Bus Transportation,No Change,485210,Interurban and Rural Bus Transportation
+739,485310,Taxi and Ridesharing Services ,"Same Code, new title",485310,Taxi Service 
+740,485320,Limousine Service,No Change,485320,Limousine Service
+741,485410,School and Employee Bus Transportation,No Change,485410,School and Employee Bus Transportation
+742,485510,Charter Bus Industry,No Change,485510,Charter Bus Industry
+743,485991,Special Needs Transportation ,No Change,485991,Special Needs Transportation 
+744,485999,All Other Transit and Ground Passenger Transportation ,No Change,485999,All Other Transit and Ground Passenger Transportation 
+745,486110,Pipeline Transportation of Crude Oil,No Change,486110,Pipeline Transportation of Crude Oil
+746,486210,Pipeline Transportation of Natural Gas,No Change,486210,Pipeline Transportation of Natural Gas
+747,486910,Pipeline Transportation of Refined Petroleum Products,No Change,486910,Pipeline Transportation of Refined Petroleum Products
+748,486990,All Other Pipeline Transportation,No Change,486990,All Other Pipeline Transportation
+749,487110,"Scenic and Sightseeing Transportation, Land",No Change,487110,"Scenic and Sightseeing Transportation, Land"
+750,487210,"Scenic and Sightseeing Transportation, Water",No Change,487210,"Scenic and Sightseeing Transportation, Water"
+751,487990,"Scenic and Sightseeing Transportation, Other",No Change,487990,"Scenic and Sightseeing Transportation, Other"
+752,488111,Air Traffic Control,No Change,488111,Air Traffic Control
+753,488119,Other Airport Operations ,No Change,488119,Other Airport Operations 
+754,488190,Other Support Activities for Air Transportation,No Change,488190,Other Support Activities for Air Transportation
+755,488210,Support Activities for Rail Transportation,No Change,488210,Support Activities for Rail Transportation
+756,488310,Port and Harbor Operations,No Change,488310,Port and Harbor Operations
+757,488320,Marine Cargo Handling,No Change,488320,Marine Cargo Handling
+758,488330,Navigational Services to Shipping ,No Change,488330,Navigational Services to Shipping 
+759,488390,Other Support Activities for Water Transportation,No Change,488390,Other Support Activities for Water Transportation
+760,488410,Motor Vehicle Towing,No Change,488410,Motor Vehicle Towing
+761,488490,Other Support Activities for Road Transportation ,No Change,488490,Other Support Activities for Road Transportation 
+762,488510,Freight Transportation Arrangement ,No Change,488510,Freight Transportation Arrangement 
+763,488991,Packing and Crating ,No Change,488991,Packing and Crating 
+764,488999,All Other Support Activities for Transportation ,No Change,488999,All Other Support Activities for Transportation 
+765,491110,Postal Service,No Change,491110,Postal Service
+766,492110,Couriers and Express Delivery Services,No Change,492110,Couriers and Express Delivery Services
+767,492210,Local Messengers and Local Delivery,No Change,492210,Local Messengers and Local Delivery
+768,493110,General Warehousing and Storage ,No Change,493110,General Warehousing and Storage 
+769,493120,Refrigerated Warehousing and Storage,No Change,493120,Refrigerated Warehousing and Storage
+770,493130,Farm Product Warehousing and Storage,No Change,493130,Farm Product Warehousing and Storage
+771,493190,Other Warehousing and Storage,No Change,493190,Other Warehousing and Storage
+714,459999,All Other Miscellaneous Retailers ,New NAICS Code,454390,Other Direct Selling Establishments 
+782,513110,Newspaper Publishers ,New NAICS Code,511110,Newspaper Publishers 
+783,513110,Newspaper Publishers ,New NAICS Code,519130,Internet Publishing and Broadcasting and Web Search Portals
+784,513120,Periodical Publishers ,New NAICS Code,511120,Periodical Publishers 
+785,513120,Periodical Publishers ,New NAICS Code,519130,Internet Publishing and Broadcasting and Web Search Portals
+786,513130,Book Publishers ,New NAICS Code,511130,Book Publishers 
+787,513130,Book Publishers ,New NAICS Code,519130,Internet Publishing and Broadcasting and Web Search Portals
+772,512110,Motion Picture and Video Production ,No Change,512110,Motion Picture and Video Production 
+773,512120,Motion Picture and Video Distribution,No Change,512120,Motion Picture and Video Distribution
+774,512131,Motion Picture Theaters (except Drive-Ins) ,No Change,512131,Motion Picture Theaters (except Drive-Ins) 
+775,512132,Drive-In Motion Picture Theaters ,No Change,512132,Drive-In Motion Picture Theaters 
+776,512191,Teleproduction and Other Postproduction Services ,No Change,512191,Teleproduction and Other Postproduction Services 
+777,512199,Other Motion Picture and Video Industries ,No Change,512199,Other Motion Picture and Video Industries 
+778,512230,Music Publishers,No Change,512230,Music Publishers
+779,512240,Sound Recording Studios,No Change,512240,Sound Recording Studios
+780,512250,Record Production and Distribution,No Change,512250,Record Production and Distribution
+781,512290,Other Sound Recording Industries,No Change,512290,Other Sound Recording Industries
+788,513140,Directory and Mailing List Publishers ,New NAICS Code,511140,Directory and Mailing List Publishers 
+789,513191,Greeting Card Publishers ,New NAICS Code,511191,Greeting Card Publishers 
+791,513199,All Other Publishers ,New NAICS Code,511199,All Other Publishers 
+790,513199,All Other Publishers ,New NAICS Code,519130,Internet Publishing and Broadcasting and Web Search Portals
+792,513210,Software Publishers,New NAICS Code,511210,Software Publishers
+793,516110,Radio Broadcasting Stations ,New NAICS Code,515112,Radio Stations 
+794,516120,Television Broadcasting Stations ,New NAICS Code,515120,Television Broadcasting
+802,517410,Satellite Telecommunications,No Change,517410,Satellite Telecommunications
+795,516210,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",New NAICS Code,515111,Radio Networks 
+796,516210,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",New NAICS Code,515210,Cable and Other Subscription Programming
+804,518210,"Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services","Same Code, new title",518210,"Data Processing, Hosting, and Related Services"
+797,516210,"Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers",New NAICS Code,519110,News Syndicates
+798,517111,Wired Telecommunications Carriers ,New NAICS Code,517311,Wired Telecommunications Carriers 
+799,517112,Wireless Telecommunications Carriers (except Satellite),New NAICS Code,517312,Wireless Telecommunications Carriers (except Satellite)
+800,517121,Telecommunications Resellers,New NAICS Code,517911,Telecommunications Resellers 
+801,517122,Agents for Wireless Telecommunications Services,New NAICS Code,517311,Wired Telecommunications Carriers 
+803,517810,All Other Telecommunications ,New NAICS Code,517919,All Other Telecommunications 
+805,519210,Libraries and Archives ,New NAICS Code,519120,Libraries and Archives 
+807,521110,Monetary Authorities-Central Bank,No Change,521110,Monetary Authorities-Central Bank
+808,522110,Commercial Banking ,No Change,522110,Commercial Banking 
+806,519290,Web Search Portals and All Other Information Services,New NAICS Code,519190,All Other Information Services
+809,522130,Credit Unions ,No Change,522130,Credit Unions 
+811,522180,Savings Institutions and Other Depository Credit Intermediation ,New NAICS Code,522120,Savings Institutions 
+812,522210,Credit Card Issuing ,No Change,522210,Credit Card Issuing 
+813,522220,Sales Financing ,No Change,522220,Sales Financing 
+814,522291,Consumer Lending ,No Change,522291,Consumer Lending 
+815,522292,Real Estate Credit ,No Change,522292,Real Estate Credit 
+810,522180,Savings Institutions and Other Depository Credit Intermediation ,New NAICS Code,522190,Other Depository Credit Intermediation 
+816,522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation ",New NAICS Code,522293,International Trade Financing 
+817,522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation ",New NAICS Code,522294,Secondary Market Financing 
+819,522310,Mortgage and Nonmortgage Loan Brokers ,No Change,522310,Mortgage and Nonmortgage Loan Brokers 
+820,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities ",No Change,522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities "
+821,522390,Other Activities Related to Credit Intermediation ,No Change,522390,Other Activities Related to Credit Intermediation 
+818,522299,"International, Secondary Market, and All Other Nondepository Credit Intermediation ",New NAICS Code,522298,All Other Nondepository Credit Intermediation 
+822,523150,Investment Banking and Securities Intermediation ,New NAICS Code,523110,Investment Banking and Securities Dealing 
+823,523150,Investment Banking and Securities Intermediation ,New NAICS Code,523120,Securities Brokerage 
+824,523160,Commodity Contracts Intermediation ,New NAICS Code,523130,Commodity Contracts Dealing 
+826,523210,Securities and Commodity Exchanges,No Change,523210,Securities and Commodity Exchanges
+827,523910,Miscellaneous Intermediation ,No Change,523910,Miscellaneous Intermediation 
+825,523160,Commodity Contracts Intermediation ,New NAICS Code,523140,Commodity Contracts Brokerage 
+828,523940,Portfolio Management and Investment Advice ,New NAICS Code,523920,Portfolio Management 
+830,523991,"Trust, Fiduciary, and Custody Activities ",No Change,523991,"Trust, Fiduciary, and Custody Activities "
+831,523999,Miscellaneous Financial Investment Activities ,No Change,523999,Miscellaneous Financial Investment Activities 
+832,524113,Direct Life Insurance Carriers ,No Change,524113,Direct Life Insurance Carriers 
+833,524114,Direct Health and Medical Insurance Carriers ,No Change,524114,Direct Health and Medical Insurance Carriers 
+834,524126,Direct Property and Casualty Insurance Carriers ,No Change,524126,Direct Property and Casualty Insurance Carriers 
+835,524127,Direct Title Insurance Carriers ,No Change,524127,Direct Title Insurance Carriers 
+836,524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers ",No Change,524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers "
+837,524130,Reinsurance Carriers ,No Change,524130,Reinsurance Carriers 
+838,524210,Insurance Agencies and Brokerages ,No Change,524210,Insurance Agencies and Brokerages 
+839,524291,Claims Adjusting ,No Change,524291,Claims Adjusting 
+840,524292,Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds ,"Same Code, new title",524292,Third Party Administration of Insurance and Pension Funds 
+841,524298,All Other Insurance Related Activities ,No Change,524298,All Other Insurance Related Activities 
+842,525110,Pension Funds ,No Change,525110,Pension Funds 
+843,525120,Health and Welfare Funds ,No Change,525120,Health and Welfare Funds 
+844,525190,Other Insurance Funds ,No Change,525190,Other Insurance Funds 
+845,525910,Open-End Investment Funds ,No Change,525910,Open-End Investment Funds 
+846,525920,"Trusts, Estates, and Agency Accounts ",No Change,525920,"Trusts, Estates, and Agency Accounts "
+847,525990,Other Financial Vehicles ,No Change,525990,Other Financial Vehicles 
+848,531110,Lessors of Residential Buildings and Dwellings ,No Change,531110,Lessors of Residential Buildings and Dwellings 
+849,531120,Lessors of Nonresidential Buildings (except Miniwarehouses) ,No Change,531120,Lessors of Nonresidential Buildings (except Miniwarehouses) 
+850,531130,Lessors of Miniwarehouses and Self-Storage Units ,No Change,531130,Lessors of Miniwarehouses and Self-Storage Units 
+851,531190,Lessors of Other Real Estate Property ,No Change,531190,Lessors of Other Real Estate Property 
+852,531210,Offices of Real Estate Agents and Brokers,No Change,531210,Offices of Real Estate Agents and Brokers
+853,531311,Residential Property Managers ,No Change,531311,Residential Property Managers 
+854,531312,Nonresidential Property Managers ,No Change,531312,Nonresidential Property Managers 
+855,531320,Offices of Real Estate Appraisers ,No Change,531320,Offices of Real Estate Appraisers 
+856,531390,Other Activities Related to Real Estate ,No Change,531390,Other Activities Related to Real Estate 
+857,532111,Passenger Car Rental ,No Change,532111,Passenger Car Rental 
+858,532112,Passenger Car Leasing ,No Change,532112,Passenger Car Leasing 
+859,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing ",No Change,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing "
+860,532210,Consumer Electronics and Appliances Rental,No Change,532210,Consumer Electronics and Appliances Rental
+861,532281,Formal Wear and Costume Rental,No Change,532281,Formal Wear and Costume Rental
+862,532282,Video Tape and Disc Rental,No Change,532282,Video Tape and Disc Rental
+863,532283,Home Health Equipment Rental ,No Change,532283,Home Health Equipment Rental 
+864,532284,Recreational Goods Rental ,No Change,532284,Recreational Goods Rental 
+865,532289,All Other Consumer Goods Rental ,No Change,532289,All Other Consumer Goods Rental 
+866,532310,General Rental Centers,No Change,532310,General Rental Centers
+867,532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing ",No Change,532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing "
+868,532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing ",No Change,532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing "
+869,532420,Office Machinery and Equipment Rental and Leasing,No Change,532420,Office Machinery and Equipment Rental and Leasing
+870,532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing ,No Change,532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing 
+871,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),No Change,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+872,541110,Offices of Lawyers,No Change,541110,Offices of Lawyers
+873,541120,Offices of Notaries,No Change,541120,Offices of Notaries
+874,541191,Title Abstract and Settlement Offices ,No Change,541191,Title Abstract and Settlement Offices 
+875,541199,All Other Legal Services ,No Change,541199,All Other Legal Services 
+876,541211,Offices of Certified Public Accountants ,No Change,541211,Offices of Certified Public Accountants 
+877,541213,Tax Preparation Services ,No Change,541213,Tax Preparation Services 
+878,541214,Payroll Services ,No Change,541214,Payroll Services 
+879,541219,Other Accounting Services ,No Change,541219,Other Accounting Services 
+880,541310,Architectural Services,No Change,541310,Architectural Services
+881,541320,Landscape Architectural Services,No Change,541320,Landscape Architectural Services
+882,541330,Engineering Services,No Change,541330,Engineering Services
+883,541340,Drafting Services,No Change,541340,Drafting Services
+884,541350,Building Inspection Services,No Change,541350,Building Inspection Services
+885,541360,Geophysical Surveying and Mapping Services,No Change,541360,Geophysical Surveying and Mapping Services
+886,541370,Surveying and Mapping (except Geophysical) Services,No Change,541370,Surveying and Mapping (except Geophysical) Services
+887,541380,Testing Laboratories and Services,"Same Code, new title",541380,Testing Laboratories
+888,541410,Interior Design Services,No Change,541410,Interior Design Services
+889,541420,Industrial Design Services,No Change,541420,Industrial Design Services
+890,541430,Graphic Design Services,No Change,541430,Graphic Design Services
+891,541490,Other Specialized Design Services,No Change,541490,Other Specialized Design Services
+892,541511,Custom Computer Programming Services ,No Change,541511,Custom Computer Programming Services 
+893,541512,Computer Systems Design Services ,No Change,541512,Computer Systems Design Services 
+894,541513,Computer Facilities Management Services ,No Change,541513,Computer Facilities Management Services 
+895,541519,Other Computer Related Services,No Change,541519,Other Computer Related Services
+896,541611,Administrative Management and General Management Consulting Services ,No Change,541611,Administrative Management and General Management Consulting Services 
+897,541612,Human Resources Consulting Services ,No Change,541612,Human Resources Consulting Services 
+898,541613,Marketing Consulting Services ,No Change,541613,Marketing Consulting Services 
+899,541614,"Process, Physical Distribution, and Logistics Consulting Services ",No Change,541614,"Process, Physical Distribution, and Logistics Consulting Services "
+900,541618,Other Management Consulting Services ,No Change,541618,Other Management Consulting Services 
+901,541620,Environmental Consulting Services,No Change,541620,Environmental Consulting Services
+902,541690,Other Scientific and Technical Consulting Services,No Change,541690,Other Scientific and Technical Consulting Services
+903,541713,Research and Development in Nanotechnology ,No Change,541713,Research and Development in Nanotechnology
+904,541714,Research and Development in Biotechnology (except Nanobiotechnology),No Change,541714,Research and Development in Biotechnology (except Nanobiotechnology)
+905,541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) ",No Change,541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"
+906,541720,Research and Development in the Social Sciences and Humanities ,No Change,541720,Research and Development in the Social Sciences and Humanities 
+907,541810,Advertising Agencies,No Change,541810,Advertising Agencies
+908,541820,Public Relations Agencies,No Change,541820,Public Relations Agencies
+909,541830,Media Buying Agencies,No Change,541830,Media Buying Agencies
+910,541840,Media Representatives,No Change,541840,Media Representatives
+911,541850,Indoor and Outdoor Display Advertising,"Same Code, new title",541850,Outdoor Advertising
+912,541860,Direct Mail Advertising,No Change,541860,Direct Mail Advertising
+913,541870,Advertising Material Distribution Services,No Change,541870,Advertising Material Distribution Services
+914,541890,Other Services Related to Advertising ,No Change,541890,Other Services Related to Advertising 
+915,541910,Marketing Research and Public Opinion Polling,No Change,541910,Marketing Research and Public Opinion Polling
+916,541921,"Photography Studios, Portrait ",No Change,541921,"Photography Studios, Portrait "
+917,541922,Commercial Photography ,No Change,541922,Commercial Photography 
+918,541930,Translation and Interpretation Services,No Change,541930,Translation and Interpretation Services
+919,541940,Veterinary Services ,No Change,541940,Veterinary Services 
+920,541990,"All Other Professional, Scientific, and Technical Services",No Change,541990,"All Other Professional, Scientific, and Technical Services"
+921,551111,Offices of Bank Holding Companies ,No Change,551111,Offices of Bank Holding Companies 
+922,551112,Offices of Other Holding Companies ,No Change,551112,Offices of Other Holding Companies 
+923,551114,"Corporate, Subsidiary, and Regional Managing Offices ",No Change,551114,"Corporate, Subsidiary, and Regional Managing Offices "
+924,561110,Office Administrative Services,No Change,561110,Office Administrative Services
+925,561210,Facilities Support Services,No Change,561210,Facilities Support Services
+926,561311,Employment Placement Agencies ,No Change,561311,Employment Placement Agencies 
+927,561312,Executive Search Services ,No Change,561312,Executive Search Services 
+928,561320,Temporary Help Services,No Change,561320,Temporary Help Services
+929,561330,Professional Employer Organizations,No Change,561330,Professional Employer Organizations
+930,561410,Document Preparation Services,No Change,561410,Document Preparation Services
+931,561421,Telephone Answering Services ,No Change,561421,Telephone Answering Services 
+932,561422,Telemarketing Bureaus and Other Contact Centers ,No Change,561422,Telemarketing Bureaus and Other Contact Centers 
+933,561431,Private Mail Centers ,No Change,561431,Private Mail Centers 
+934,561439,Other Business Service Centers (including Copy Shops) ,No Change,561439,Other Business Service Centers (including Copy Shops) 
+935,561440,Collection Agencies,No Change,561440,Collection Agencies
+936,561450,Credit Bureaus,No Change,561450,Credit Bureaus
+937,561491,Repossession Services ,No Change,561491,Repossession Services 
+938,561492,Court Reporting and Stenotype Services ,No Change,561492,Court Reporting and Stenotype Services 
+939,561499,All Other Business Support Services ,No Change,561499,All Other Business Support Services 
+940,561510,Travel Agencies,No Change,561510,Travel Agencies
+941,561520,Tour Operators,No Change,561520,Tour Operators
+942,561591,Convention and Visitors Bureaus ,No Change,561591,Convention and Visitors Bureaus 
+943,561599,All Other Travel Arrangement and Reservation Services ,No Change,561599,All Other Travel Arrangement and Reservation Services 
+944,561611,Investigation and Personal Background Check Services ,"Same Code, new title",561611,Investigation Services 
+945,561612,Security Guards and Patrol Services ,No Change,561612,Security Guards and Patrol Services 
+946,561613,Armored Car Services ,No Change,561613,Armored Car Services 
+947,561621,Security Systems Services (except Locksmiths) ,No Change,561621,Security Systems Services (except Locksmiths) 
+948,561622,Locksmiths ,No Change,561622,Locksmiths 
+949,561710,Exterminating and Pest Control Services,No Change,561710,Exterminating and Pest Control Services
+950,561720,Janitorial Services ,No Change,561720,Janitorial Services 
+951,561730,Landscaping Services,No Change,561730,Landscaping Services
+952,561740,Carpet and Upholstery Cleaning Services,No Change,561740,Carpet and Upholstery Cleaning Services
+953,561790,Other Services to Buildings and Dwellings ,No Change,561790,Other Services to Buildings and Dwellings 
+954,561910,Packaging and Labeling Services,No Change,561910,Packaging and Labeling Services
+955,561920,Convention and Trade Show Organizers,No Change,561920,Convention and Trade Show Organizers
+956,561990,All Other Support Services,No Change,561990,All Other Support Services
+957,562111,Solid Waste Collection ,No Change,562111,Solid Waste Collection 
+958,562112,Hazardous Waste Collection ,No Change,562112,Hazardous Waste Collection 
+959,562119,Other Waste Collection ,No Change,562119,Other Waste Collection 
+960,562211,Hazardous Waste Treatment and Disposal ,No Change,562211,Hazardous Waste Treatment and Disposal 
+961,562212,Solid Waste Landfill ,No Change,562212,Solid Waste Landfill 
+962,562213,Solid Waste Combustors and Incinerators ,No Change,562213,Solid Waste Combustors and Incinerators 
+963,562219,Other Nonhazardous Waste Treatment and Disposal ,No Change,562219,Other Nonhazardous Waste Treatment and Disposal 
+964,562910,Remediation Services ,No Change,562910,Remediation Services 
+965,562920,Materials Recovery Facilities ,No Change,562920,Materials Recovery Facilities 
+966,562991,Septic Tank and Related Services ,No Change,562991,Septic Tank and Related Services 
+967,562998,All Other Miscellaneous Waste Management Services ,No Change,562998,All Other Miscellaneous Waste Management Services 
+968,611110,Elementary and Secondary Schools ,No Change,611110,Elementary and Secondary Schools 
+969,611210,Junior Colleges ,No Change,611210,Junior Colleges 
+970,611310,"Colleges, Universities, and Professional Schools ",No Change,611310,"Colleges, Universities, and Professional Schools "
+971,611410,Business and Secretarial Schools ,No Change,611410,Business and Secretarial Schools 
+972,611420,Computer Training ,No Change,611420,Computer Training 
+973,611430,Professional and Management Development Training ,No Change,611430,Professional and Management Development Training 
+974,611511,Cosmetology and Barber Schools ,No Change,611511,Cosmetology and Barber Schools 
+975,611512,Flight Training ,No Change,611512,Flight Training 
+976,611513,Apprenticeship Training ,No Change,611513,Apprenticeship Training 
+977,611519,Other Technical and Trade Schools ,No Change,611519,Other Technical and Trade Schools 
+978,611610,Fine Arts Schools ,No Change,611610,Fine Arts Schools 
+979,611620,Sports and Recreation Instruction ,No Change,611620,Sports and Recreation Instruction 
+980,611630,Language Schools ,No Change,611630,Language Schools 
+981,611691,Exam Preparation and Tutoring ,No Change,611691,Exam Preparation and Tutoring 
+982,611692,Automobile Driving Schools ,No Change,611692,Automobile Driving Schools 
+983,611699,All Other Miscellaneous Schools and Instruction ,No Change,611699,All Other Miscellaneous Schools and Instruction 
+984,611710,Educational Support Services,No Change,611710,Educational Support Services
+985,621111,Offices of Physicians (except Mental Health Specialists) ,No Change,621111,Offices of Physicians (except Mental Health Specialists) 
+986,621112,"Offices of Physicians, Mental Health Specialists ",No Change,621112,"Offices of Physicians, Mental Health Specialists "
+987,621210,Offices of Dentists ,No Change,621210,Offices of Dentists 
+988,621310,Offices of Chiropractors ,No Change,621310,Offices of Chiropractors 
+989,621320,Offices of Optometrists,No Change,621320,Offices of Optometrists
+990,621330,Offices of Mental Health Practitioners (except Physicians) ,No Change,621330,Offices of Mental Health Practitioners (except Physicians) 
+991,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists ",No Change,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists "
+992,621391,Offices of Podiatrists ,No Change,621391,Offices of Podiatrists 
+993,621399,Offices of All Other Miscellaneous Health Practitioners ,No Change,621399,Offices of All Other Miscellaneous Health Practitioners 
+994,621410,Family Planning Centers ,No Change,621410,Family Planning Centers 
+995,621420,Outpatient Mental Health and Substance Abuse Centers ,No Change,621420,Outpatient Mental Health and Substance Abuse Centers 
+996,621491,HMO Medical Centers ,No Change,621491,HMO Medical Centers 
+997,621492,Kidney Dialysis Centers ,No Change,621492,Kidney Dialysis Centers 
+998,621493,Freestanding Ambulatory Surgical and Emergency Centers ,No Change,621493,Freestanding Ambulatory Surgical and Emergency Centers 
+999,621498,All Other Outpatient Care Centers ,No Change,621498,All Other Outpatient Care Centers 
+1000,621511,Medical Laboratories ,No Change,621511,Medical Laboratories 
+1001,621512,Diagnostic Imaging Centers ,No Change,621512,Diagnostic Imaging Centers 
+1002,621610,Home Health Care Services,No Change,621610,Home Health Care Services
+1003,621910,Ambulance Services ,No Change,621910,Ambulance Services 
+1004,621991,Blood and Organ Banks ,No Change,621991,Blood and Organ Banks 
+1005,621999,All Other Miscellaneous Ambulatory Health Care Services ,No Change,621999,All Other Miscellaneous Ambulatory Health Care Services 
+1006,622110,General Medical and Surgical Hospitals ,No Change,622110,General Medical and Surgical Hospitals 
+1007,622210,Psychiatric and Substance Abuse Hospitals ,No Change,622210,Psychiatric and Substance Abuse Hospitals 
+1008,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals ,No Change,622310,Specialty (except Psychiatric and Substance Abuse) Hospitals 
+1009,623110,Nursing Care Facilities (Skilled Nursing Facilities) ,No Change,623110,Nursing Care Facilities (Skilled Nursing Facilities) 
+1010,623210,Residential Intellectual and Developmental Disability Facilities ,No Change,623210,Residential Intellectual and Developmental Disability Facilities 
+1011,623220,Residential Mental Health and Substance Abuse Facilities ,No Change,623220,Residential Mental Health and Substance Abuse Facilities 
+1012,623311,Continuing Care Retirement Communities ,No Change,623311,Continuing Care Retirement Communities 
+1013,623312,Assisted Living Facilities for the Elderly ,No Change,623312,Assisted Living Facilities for the Elderly 
+1014,623990,Other Residential Care Facilities ,No Change,623990,Other Residential Care Facilities 
+1015,624110,Child and Youth Services ,No Change,624110,Child and Youth Services 
+1016,624120,Services for the Elderly and Persons with Disabilities ,No Change,624120,Services for the Elderly and Persons with Disabilities 
+1017,624190,Other Individual and Family Services ,No Change,624190,Other Individual and Family Services 
+1018,624210,Community Food Services ,No Change,624210,Community Food Services 
+1019,624221,Temporary Shelters ,No Change,624221,Temporary Shelters 
+1020,624229,Other Community Housing Services ,No Change,624229,Other Community Housing Services 
+1021,624230,Emergency and Other Relief Services ,No Change,624230,Emergency and Other Relief Services 
+1022,624310,Vocational Rehabilitation Services ,No Change,624310,Vocational Rehabilitation Services 
+1023,624410,Child Care Services ,"Same Code, new title",624410,Child Day Care Services 
+1024,711110,Theater Companies and Dinner Theaters ,No Change,711110,Theater Companies and Dinner Theaters 
+1025,711120,Dance Companies ,No Change,711120,Dance Companies 
+1026,711130,Musical Groups and Artists ,No Change,711130,Musical Groups and Artists 
+1027,711190,Other Performing Arts Companies ,No Change,711190,Other Performing Arts Companies 
+1028,711211,Sports Teams and Clubs ,No Change,711211,Sports Teams and Clubs 
+1029,711212,Racetracks ,No Change,711212,Racetracks 
+1030,711219,Other Spectator Sports ,No Change,711219,Other Spectator Sports 
+1031,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities ",No Change,711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities "
+1032,711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities ",No Change,711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities "
+1033,711410,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",No Change,711410,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+1034,711510,"Independent Artists, Writers, and Performers ",No Change,711510,"Independent Artists, Writers, and Performers "
+1035,712110,Museums ,No Change,712110,Museums 
+1036,712120,Historical Sites,No Change,712120,Historical Sites
+1037,712130,Zoos and Botanical Gardens ,No Change,712130,Zoos and Botanical Gardens 
+1038,712190,Nature Parks and Other Similar Institutions,No Change,712190,Nature Parks and Other Similar Institutions
+1039,713110,Amusement and Theme Parks ,No Change,713110,Amusement and Theme Parks 
+1040,713120,Amusement Arcades,No Change,713120,Amusement Arcades
+1041,713210,Casinos (except Casino Hotels),No Change,713210,Casinos (except Casino Hotels)
+1042,713290,Other Gambling Industries ,No Change,713290,Other Gambling Industries 
+1043,713910,Golf Courses and Country Clubs,No Change,713910,Golf Courses and Country Clubs
+1044,713920,Skiing Facilities,No Change,713920,Skiing Facilities
+1045,713930,Marinas,No Change,713930,Marinas
+1046,713940,Fitness and Recreational Sports Centers ,No Change,713940,Fitness and Recreational Sports Centers 
+1047,713950,Bowling Centers,No Change,713950,Bowling Centers
+1048,713990,All Other Amusement and Recreation Industries ,No Change,713990,All Other Amusement and Recreation Industries 
+1049,721110,Hotels (except Casino Hotels) and Motels ,No Change,721110,Hotels (except Casino Hotels) and Motels 
+1050,721120,Casino Hotels,No Change,721120,Casino Hotels
+1051,721191,Bed-and-Breakfast Inns ,No Change,721191,Bed-and-Breakfast Inns 
+1052,721199,All Other Traveler Accommodation ,No Change,721199,All Other Traveler Accommodation 
+1053,721211,RV (Recreational Vehicle) Parks and Campgrounds ,No Change,721211,RV (Recreational Vehicle) Parks and Campgrounds 
+1054,721214,Recreational and Vacation Camps (except Campgrounds) ,No Change,721214,Recreational and Vacation Camps (except Campgrounds) 
+1055,721310,"Rooming and Boarding Houses, Dormitories, and Workers' Camps ",No Change,721310,Rooming and Boarding Houses 
+1056,722310,Food Service Contractors,No Change,722310,Food Service Contractors
+1057,722320,Caterers,No Change,722320,Caterers
+1058,722330,Mobile Food Services,No Change,722330,Mobile Food Services
+1059,722410,Drinking Places (Alcoholic Beverages) ,No Change,722410,Drinking Places (Alcoholic Beverages) 
+1060,722511,Full-Service Restaurants ,No Change,722511,Full-Service Restaurants 
+1061,722513,Limited-Service Restaurants ,No Change,722513,Limited-Service Restaurants 
+1062,722514,"Cafeterias, Grill Buffets, and Buffets ",No Change,722514,"Cafeterias, Grill Buffets, and Buffets "
+1063,722515,Snack and Nonalcoholic Beverage Bars ,No Change,722515,Snack and Nonalcoholic Beverage Bars 
+1064,811111,General Automotive Repair ,No Change,811111,General Automotive Repair 
+829,523940,Portfolio Management and Investment Advice ,New NAICS Code,523930,Investment Advice 
+1065,811114,Specialized Automotive Repair ,New NAICS Code,811112,Automotive Exhaust System Repair 
+1066,811114,Specialized Automotive Repair ,New NAICS Code,811113,Automotive Transmission Repair 
+1068,811121,"Automotive Body, Paint, and Interior Repair and Maintenance ",No Change,811121,"Automotive Body, Paint, and Interior Repair and Maintenance "
+1069,811122,Automotive Glass Replacement Shops ,No Change,811122,Automotive Glass Replacement Shops 
+1070,811191,Automotive Oil Change and Lubrication Shops ,No Change,811191,Automotive Oil Change and Lubrication Shops 
+1071,811192,Car Washes ,No Change,811192,Car Washes 
+1072,811198,All Other Automotive Repair and Maintenance ,No Change,811198,All Other Automotive Repair and Maintenance 
+1067,811114,Specialized Automotive Repair ,New NAICS Code,811118,Other Automotive Mechanical and Electrical Repair and Maintenance 
+1073,811210,Electronic and Precision Equipment Repair and Maintenance ,New NAICS Code,811211,Consumer Electronics Repair and Maintenance 
+1074,811210,Electronic and Precision Equipment Repair and Maintenance ,New NAICS Code,811212,Computer and Office Machine Repair and Maintenance 
+1075,811210,Electronic and Precision Equipment Repair and Maintenance ,New NAICS Code,811213,Communication Equipment Repair and Maintenance 
+1077,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance ,No Change,811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance 
+1078,811411,Home and Garden Equipment Repair and Maintenance ,No Change,811411,Home and Garden Equipment Repair and Maintenance 
+1079,811412,Appliance Repair and Maintenance ,No Change,811412,Appliance Repair and Maintenance 
+1080,811420,Reupholstery and Furniture Repair,No Change,811420,Reupholstery and Furniture Repair
+1081,811430,Footwear and Leather Goods Repair,No Change,811430,Footwear and Leather Goods Repair
+1082,811490,Other Personal and Household Goods Repair and Maintenance ,No Change,811490,Other Personal and Household Goods Repair and Maintenance 
+1083,812111,Barber Shops ,No Change,812111,Barber Shops 
+1084,812112,Beauty Salons ,No Change,812112,Beauty Salons 
+1085,812113,Nail Salons ,No Change,812113,Nail Salons 
+1086,812191,Diet and Weight Reducing Centers ,No Change,812191,Diet and Weight Reducing Centers 
+1087,812199,Other Personal Care Services ,No Change,812199,Other Personal Care Services 
+1088,812210,Funeral Homes and Funeral Services ,No Change,812210,Funeral Homes and Funeral Services 
+1089,812220,Cemeteries and Crematories ,No Change,812220,Cemeteries and Crematories 
+1090,812310,Coin-Operated Laundries and Drycleaners ,No Change,812310,Coin-Operated Laundries and Drycleaners 
+1091,812320,Drycleaning and Laundry Services (except Coin-Operated) ,No Change,812320,Drycleaning and Laundry Services (except Coin-Operated) 
+1092,812331,Linen Supply ,No Change,812331,Linen Supply 
+1093,812332,Industrial Launderers ,No Change,812332,Industrial Launderers 
+1094,812910,Pet Care (except Veterinary) Services ,No Change,812910,Pet Care (except Veterinary) Services 
+1095,812921,Photofinishing Laboratories (except One-Hour) ,No Change,812921,Photofinishing Laboratories (except One-Hour) 
+1096,812922,One-Hour Photofinishing ,No Change,812922,One-Hour Photofinishing 
+1097,812930,Parking Lots and Garages ,No Change,812930,Parking Lots and Garages 
+1098,812990,All Other Personal Services ,No Change,812990,All Other Personal Services 
+1099,813110,Religious Organizations ,No Change,813110,Religious Organizations 
+1100,813211,Grantmaking Foundations ,No Change,813211,Grantmaking Foundations 
+1101,813212,Voluntary Health Organizations ,No Change,813212,Voluntary Health Organizations 
+1102,813219,Other Grantmaking and Giving Services ,No Change,813219,Other Grantmaking and Giving Services 
+1103,813311,Human Rights Organizations ,No Change,813311,Human Rights Organizations 
+1104,813312,"Environment, Conservation and Wildlife Organizations ",No Change,813312,"Environment, Conservation and Wildlife Organizations "
+1105,813319,Other Social Advocacy Organizations ,No Change,813319,Other Social Advocacy Organizations 
+1106,813410,Civic and Social Organizations ,No Change,813410,Civic and Social Organizations 
+1107,813910,Business Associations ,No Change,813910,Business Associations 
+1108,813920,Professional Organizations ,No Change,813920,Professional Organizations 
+1109,813930,Labor Unions and Similar Labor Organizations ,No Change,813930,Labor Unions and Similar Labor Organizations 
+1110,813940,Political Organizations ,No Change,813940,Political Organizations 
+1111,813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) ",No Change,813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) "
+1112,814110,Private Households,No Change,814110,Private Households
+1113,921110,Executive Offices ,No Change,921110,Executive Offices 
+1114,921120,Legislative Bodies ,No Change,921120,Legislative Bodies 
+1115,921130,Public Finance Activities ,No Change,921130,Public Finance Activities 
+1116,921140,"Executive and Legislative Offices, Combined ",No Change,921140,"Executive and Legislative Offices, Combined "
+1117,921150,American Indian and Alaska Native Tribal Governments ,No Change,921150,American Indian and Alaska Native Tribal Governments 
+1118,921190,Other General Government Support ,No Change,921190,Other General Government Support 
+1119,922110,Courts ,No Change,922110,Courts 
+1120,922120,Police Protection ,No Change,922120,Police Protection 
+1121,922130,Legal Counsel and Prosecution ,No Change,922130,Legal Counsel and Prosecution 
+1122,922140,Correctional Institutions ,No Change,922140,Correctional Institutions 
+1123,922150,Parole Offices and Probation Offices ,No Change,922150,Parole Offices and Probation Offices 
+1124,922160,Fire Protection ,No Change,922160,Fire Protection 
+1125,922190,"Other Justice, Public Order, and Safety Activities ",No Change,922190,"Other Justice, Public Order, and Safety Activities "
+1126,923110,Administration of Education Programs ,No Change,923110,Administration of Education Programs 
+1127,923120,Administration of Public Health Programs ,No Change,923120,Administration of Public Health Programs 
+1128,923130,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) ",No Change,923130,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) "
+1129,923140,Administration of Veterans' Affairs ,No Change,923140,Administration of Veterans' Affairs 
+1130,924110,Administration of Air and Water Resource and Solid Waste Management Programs ,No Change,924110,Administration of Air and Water Resource and Solid Waste Management Programs 
+1131,924120,Administration of Conservation Programs ,No Change,924120,Administration of Conservation Programs 
+1132,925110,Administration of Housing Programs ,No Change,925110,Administration of Housing Programs 
+1133,925120,Administration of Urban Planning and Community and Rural Development ,No Change,925120,Administration of Urban Planning and Community and Rural Development 
+1134,926110,Administration of General Economic Programs ,No Change,926110,Administration of General Economic Programs 
+1135,926120,Regulation and Administration of Transportation Programs ,No Change,926120,Regulation and Administration of Transportation Programs 
+1136,926130,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities ",No Change,926130,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities "
+1137,926140,Regulation of Agricultural Marketing and Commodities ,No Change,926140,Regulation of Agricultural Marketing and Commodities 
+1138,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors ",No Change,926150,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors "
+1139,927110,Space Research and Technology ,No Change,927110,Space Research and Technology 
+1140,928110,National Security ,No Change,928110,National Security 
+1141,928120,International Affairs ,No Change,928120,International Affairs 
+1076,811210,Electronic and Precision Equipment Repair and Maintenance ,New NAICS Code,811219,Other Electronic and Precision Equipment Repair and Maintenance 
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
