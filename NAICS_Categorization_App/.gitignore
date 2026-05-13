@@ -1,0 +1,7 @@
+.DS_Store
+/.idea
+
+# App-generated files
+config.json
+*.naics_model
+*.naics_embed
