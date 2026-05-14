@@ -7,6 +7,9 @@
 library(tidyverse) #includes mutate function and other data cleaning functions
 library(dplyr) # note dplyr and plyr conflict with one another, so if you are running plyr on your laptop w/ other datasets/code then you will want to detach plyr before running dplyr functions, or specifically call dplyr with your function. 
 
+#set your working directory (file path) see tips and how-to below
+#https://www.sthda.com/english/wiki/running-rstudio-and-setting-up-your-working-directory-easy-r-programming
+
 #read in your dataset: 
 proc_manual_naics=read.csv("your_procurment_dataset_with_manual_NAICS_codes.csv", header=TRUE)
 
