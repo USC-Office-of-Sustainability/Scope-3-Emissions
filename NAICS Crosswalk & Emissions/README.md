@@ -21,11 +21,6 @@ Sources of original files:
 
 ## 2. Bind the 1:1 emissions file to your procurement file using the 2022 NAICS codes
 
-Rscript (which includes the tips below):
-
-Tips: 
-1. left-join to your procurement file by the 2022 NAICS code
-2. make sure you change all 2022 NAICS codes to numeric and get rid of any leading or trailing spaces (in the case of manual NAICS assignments)
-3. We used Co2e with margins for analyses, but up to you.
+[Rscript to help with post-data processing](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/blob/main/Data%20Processing%20and%20Analysis/DataBinding_before_Analyses_forGithub.R#:~:text=DataBinding_before_Analyses_forGithub.R)
 
 Questions? Email: oosdata(at)usc.edu
