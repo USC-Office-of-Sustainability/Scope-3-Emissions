@@ -7,6 +7,8 @@ At the University of Southern California (USC), our Office of Sustainability is 
 
 [Rscript and datasets for creating a 1:1 NAICS 2017-2022 crosswalk with 2022 emission factors](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/tree/main/NAICS%20Crosswalk%20%26%20Emissions)
 
+[Rscript data post-processing of LLM NAICS output file, binding to emissions data, and then binding these back to your procurement file (if you deduplicated by lineitem)](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/blob/main/Data%20Processing%20and%20Analysis/DataBinding_before_Analyses_forGithub.R#:~:text=DataBinding_before_Analyses_forGithub.R)
+
 Code for automating food weights: (coming soon).  We suggest using Rebecca Grekin's [TasteFood tool](https://tastefood.org) for Food Categorization
 
 ***Category 7: Commuting Emissions 
