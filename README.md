@@ -5,7 +5,7 @@ At the University of Southern California (USC), our Office of Sustainability is 
 
 [Python code and app for automating NAICS code categorization of non-food items (Office supplies, Lab, IT/Hardware, Furniture, etc)](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/tree/main/NAICS_Categorization_App)
 
-[Rscript and datasets for creating a 1:1 NAICS 2017-2022 crosswalk with 2022 emission factors](NAICS Crosswalk & Emissions)
+[Rscript and datasets for creating a 1:1 NAICS 2017-2022 crosswalk with 2022 emission factors](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/tree/main/NAICS%20Crosswalk%20%26%20Emissions)
 
 Code for automating food weights: (coming soon).  We suggest using Rebecca Grekin's [TasteFood tool](https://tastefood.org) for Food Categorization
 
