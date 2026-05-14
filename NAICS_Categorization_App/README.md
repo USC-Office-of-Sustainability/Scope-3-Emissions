@@ -14,6 +14,11 @@ The tool has two phases:
 
 The first phase (Train) is optional in the event that you do not want to use the LLM based on USC's training dataset (FY22-FY24 procurement data with primarily manually assigned NAICS codes). You can skip to the second phase (Predict) and upload [USC's NAICS prediction model](https://drive.google.com/file/d/1dGSdRwLU5hAGIQYfVg7NqQSVKA5GweOf/view?usp=share_link) instead of training your own model if you would like. 
 
+**Important Notes and Tips!**
+We **STRONGLY** recommend that you check the NAICS code output results for your data, especially for where the LLM (tool) outputs a lower confidence level (anything < 50%). You can also cross-check the model predictions against an unseen dataset that you have also previously manually checked and then do a 'True-False' match to see which ones are wrong. Please keep in mind that sometimes manual assignments can be wrong due to human error as well. 
+
+Once you manually check your output data and correct each NAICS code that needs to be corrected, you can always create a larger training dataset to train a new model before you run 'predict' on a new unseen dataset. This is what we did at USC so that we could improve our model output accuracy. Questions? Email: oosdata(at)usc.edu
+
 ---
 
 ## Before you start — OpenAI API setup
