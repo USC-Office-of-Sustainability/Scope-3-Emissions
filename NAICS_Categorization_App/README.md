@@ -17,7 +17,7 @@ The first phase (Train) is optional in the event that you do not want to use the
 **Important Notes and Tips!**
 
 We have several recommendations: 
-1. Pre-process your training dataset (for training a new model) and/or your test datasets (for predicting NAICS codes) to decrease the processing time. [Please see recommendations and code in the rscript file here](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/edit/main/NAICS_Categorization_App/README.md#:~:text=Processing_prior_to_LLM.R)
+1. Pre-process your training dataset (for training a new model) and/or your test datasets (for predicting NAICS codes) to decrease the processing time.[Rscript here](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/edit/main/NAICS_Categorization_App/README.md#:~:text=Processing_prior_to_LLM.R) or [Python script here](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/blob/main/NAICS_Categorization_App/prepare_NAICS_data.py)
 2. We **STRONGLY** recommend that you check the NAICS code output results for your data, especially for where the LLM (tool) outputs a lower confidence level (anything < 50%). You can also cross-check the model predictions against an unseen dataset that you have also previously manually checked and then do a 'True-False' match to see which ones are wrong. Please keep in mind that sometimes manual assignments can be wrong due to human error as well. 
 
 Once you manually check your output data and correct each NAICS code that needs to be corrected, you can always create a larger training dataset to train a new model before you run 'predict' on a new unseen dataset. This is what we did at USC so that we could improve our model output accuracy. Questions? Email: oosdata(at)usc.edu
