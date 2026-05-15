@@ -1,6 +1,6 @@
 # NAICS Classifier
 
-A desktop app that automatically assigns NAICS (North American Industry Classification System) codes to procurement line items.
+A desktop app developed by Feiyang Wang and Dr. Julie Hopper that automatically assigns NAICS (North American Industry Classification System) codes to procurement line items.
 
 Manually assigning NAICS codes to thousands of purchase orders is slow and inconsistent. This tool automates this process, where one can used a pre-trained LLM from USC's team or train a new LLM and then upload a spreadsheet with item descriptions (and optionally supplier names) in order to predict the most likely NAICS code for each row (based on the text from the item category, item label/description and/or supplier). This tool will output NAICS codes and descriptions along with a confidence score for each prediction and up to your chosen number of alternative predictions.
 
