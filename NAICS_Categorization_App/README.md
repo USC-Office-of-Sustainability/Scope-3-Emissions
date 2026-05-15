@@ -17,7 +17,7 @@ The first phase (Train) is optional in the event that you do not want to use the
 **Important Notes and Tips!**
 
 We have several recommendations: 
-1. Pre-process your training dataset (for training a new model) and/or your test datasets (for predicting NAICS codes) to decrease the processing time.
+1. Pre-process your training dataset (for training a new model) and/or your test datasets (for predicting NAICS codes) to decrease the processing time. We include suggestions in the code scripts below.
 - [Rscript for pre-processing data before training model or predicting output](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/edit/main/NAICS_Categorization_App/README.md#:~:text=Processing_prior_to_LLM.R)
 - [Python script (only pre-proceses data before training the model)](https://github.com/USC-Office-of-Sustainability/Scope-3-Emissions/blob/main/NAICS_Categorization_App/prepare_NAICS_data.py)
 2. We **STRONGLY** recommend that you check the NAICS code output results for your data, especially for where the LLM (tool) outputs a lower confidence level (anything < 50%). You can also cross-check the model predictions against an unseen dataset that you have also previously manually checked and then do a 'True-False' match to see which ones are wrong. Please keep in mind that sometimes manual assignments can be wrong due to human error as well. 
