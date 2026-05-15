@@ -9,16 +9,16 @@ library(dplyr) #careful often plyr will mask dplyr functions, so always uninstal
 library(plotrix) #if you want to get standard errors can use std.error
 library(tidyverse) #for cleaning data
 library(lubridate) #if you have dates and need to convert to specific date formats
-library(stringi)
-library(stringr)
-library(stringdist)
+library(stringi) #if you need this for cleaning up text
+library(stringr) #if you need this for cleaning up text
+#library(stringdist) #probably don't need
 
 #SECOND set your working directory
 #something like> setwd("~/Desktop/Sustainability Data and Analyses/Procurement Data") # but you need to edit this based on your filepath
 
 #THIRD- read in our 1:1 emissions files with 1:1 2017-2022 NAICS code matches w/ Co2e emissions
 
-emissions=read.csv("final_NAICS_crosswalk_altered_with_one_to_one_match_with_CO2e_emissions.csv", header=TRUE) #seems to be the wrong file..
+emissions=read.csv("final_NAICS_crosswalk_altered_with_one_to_one_match_with_CO2e_emissions.csv", header=TRUE) 
 names(emissions) #need to be able to join this to all the procurement data.. which means that we need to rename the NAICS CODE and DESCRIPTION column names from this file to match the column names from your LLM predict output file. we will do that in a min...
 
 #FOURTH: read in your LLM output file (predicted NAICS datafile)
