@@ -1,6 +1,7 @@
 #Post NAICS assignments: Data processing and Analyses
 #congrats- now that you have your NAICS codes for each procurement line item, you can start to analyze your data... or can you?
-#Of course you will need to clean up your data more, and if you used a non-dupplicated dataset for predicting the NAICS codes, you need to bind the predicted dataset back to your raw file. 
+#Of course you will need to clean up your data more, and if you used a non-dupplicated dataset for predicting the NAICS codes, 
+#you need to bind the predicted dataset back to your raw file. 
 
 #FIRST load in your R packages (install first if you haven't already)
 library(plyr)
