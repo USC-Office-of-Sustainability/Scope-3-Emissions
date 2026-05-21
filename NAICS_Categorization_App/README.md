@@ -32,7 +32,8 @@ This app requires an OpenAI API key and a small amount of prepaid credits. **Rea
 
 For pricing, go to https://developers.openai.com/api/docs/pricing, find **Specialized models**, and click **View more** to find `text-embedding-3-large` (hidden by default).
 
-We find that a credit of just 5$ will last practically forever, as most runs are the cost of pennies (as of 5/13/26). 
+We find that a credit of just 5$ will last practically forever, as most runs are the cost of pennies as of 5/13/26). 
+
 ---
 
 ## First-time setup (with separate instructions for Mac and Windows/Linux)
