@@ -955,10 +955,15 @@ class TrainTab(QWidget):
         splitter.addWidget(left_scroll)
 
         # ─── Right: Progress & Log ────────────────────────────────────────
-        right_w   = QWidget()
-        right_lay = QVBoxLayout(right_w)
+        right_scroll = QScrollArea()
+        right_scroll.setWidgetResizable(True)
+        right_scroll.setFrameShape(QFrame.NoFrame)
+        right_scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        right_inner = QWidget()
+        right_lay   = QVBoxLayout(right_inner)
         right_lay.setSpacing(12)
         right_lay.setContentsMargins(8, 0, 0, 0)
+        right_scroll.setWidget(right_inner)
 
         # Step indicators
         step_grp = QGroupBox("Pipeline Steps")
@@ -1088,7 +1093,7 @@ class TrainTab(QWidget):
         self.log.setObjectName("logView")
         self.log.setReadOnly(True)
         self.log.setMinimumHeight(100)
-        self.log.setMaximumHeight(180)
+        #self.log.setMaximumHeight(180)
         log_lay.addWidget(self.log)
         right_lay.addWidget(log_grp)
 
@@ -1111,7 +1116,7 @@ class TrainTab(QWidget):
         btn_row.addWidget(self.stop_btn)
         right_lay.addLayout(btn_row)
 
-        splitter.addWidget(right_w)
+        splitter.addWidget(right_scroll)
         splitter.setSizes([420, 520])
 
         # Auto-default save-ckpt path when input file or output dir changes
@@ -1792,10 +1797,15 @@ class PredictTab(QWidget):
         splitter.addWidget(left_scroll)
 
         # ─── Right: Progress & Log ────────────────────────────────────────
-        right_w   = QWidget()
-        right_lay = QVBoxLayout(right_w)
+        right_scroll = QScrollArea()
+        right_scroll.setWidgetResizable(True)
+        right_scroll.setFrameShape(QFrame.NoFrame)
+        right_scroll.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        right_inner = QWidget()
+        right_lay   = QVBoxLayout(right_inner)
         right_lay.setSpacing(12)
         right_lay.setContentsMargins(8, 0, 0, 0)
+        right_scroll.setWidget(right_inner)
 
         # Prompt preview (read-only, from model)
         prompt_grp = QGroupBox("Prompt Template (from model — read only)")
@@ -1894,7 +1904,7 @@ class PredictTab(QWidget):
         btn_row.addWidget(self.pred_run_btn)
         right_lay.addLayout(btn_row)
 
-        splitter.addWidget(right_w)
+        splitter.addWidget(right_scroll)
         splitter.setSizes([420, 520])
 
     # ── Actions ────────────────────────────────────────────────────────────
@@ -2559,6 +2569,7 @@ class MainWindow(QMainWindow):
 # ═══════════════════════════════════════════════════════════════════════════
 
 def main():
+    os.environ.setdefault("QT_AUTO_SCREEN_SCALE_FACTOR", "1")
     # macOS: prevent App Nap during long tasks
     try:
         from Foundation import NSBundle, NSProcessInfo
